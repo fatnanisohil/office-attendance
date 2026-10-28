@@ -2,6 +2,7 @@
     "NAMAH0033": {
         "name": "BHANU PRATAP",
         "designation": "Accountant",
+        "shift": "Shift 001 (11:00 - 20:00)",
         "present": "11",
         "hl": "1",
         "wo": "4",
@@ -154,6 +155,7 @@
     "NAMAH0011": {
         "name": "ROHIT GHURAYIA",
         "designation": "Junior Accountant",
+        "shift": "Shift 003 (11:30 - 20:30)",
         "present": "20.5",
         "hl": "1",
         "wo": "4",
@@ -306,6 +308,7 @@
     "NAMAH0032": {
         "name": "VICKY KUMAR",
         "designation": "Senior Accountant",
+        "shift": "Shift 005 (12:00 - 21:00)",
         "present": "17.5",
         "hl": "1",
         "wo": "4",
@@ -458,6 +461,7 @@
     "NAMAH0007": {
         "name": "VARUN VERMA",
         "designation": "Senior Accountant",
+        "shift": "Shift 004 (11:45 - 20:45)",
         "present": "21",
         "hl": "1",
         "wo": "4",
@@ -610,6 +614,7 @@
     "NAMAH0001": {
         "name": "PRIYANSHU GOLA",
         "designation": "Accountant",
+        "shift": "Shift 002 (11:15 - 20:15)",
         "present": "22",
         "hl": "1",
         "wo": "4",
@@ -762,6 +767,7 @@
     "NAMAH0017": {
         "name": "GAURAV SAFE",
         "designation": "ADMIN",
+        "shift": "Shift 004 (11:45 - 20:45)",
         "present": "23",
         "hl": "1",
         "wo": "4",
@@ -914,6 +920,7 @@
     "NAMAH0006": {
         "name": "AMAN KAKARWAL",
         "designation": "ADMIN",
+        "shift": "Shift 004 (11:45 - 20:45)",
         "present": "22",
         "hl": "1",
         "wo": "4",
@@ -1066,6 +1073,7 @@
     "NAMAH0038": {
         "name": "GAURAV - 3",
         "designation": "FIELDS",
+        "shift": "Shift 003 (11:30 - 20:30)",
         "present": "21",
         "hl": "1",
         "wo": "4",
@@ -1218,6 +1226,7 @@
     "NAMAH0041": {
         "name": "ARUN",
         "designation": "FIELDS",
+        "shift": "Shift 002 (11:15 - 20:15)",
         "present": "12",
         "hl": "1",
         "wo": "4",
@@ -1370,6 +1379,7 @@
     "NAMAH0031": {
         "name": "ANIL KUMAR",
         "designation": "FIELDS",
+        "shift": "Shift 004 (11:45 - 20:45)",
         "present": "20",
         "hl": "1",
         "wo": "4",
@@ -1522,6 +1532,7 @@
     "NAMAH0040": {
         "name": "SANDEEP",
         "designation": "FIELDS",
+        "shift": "Shift 003 (11:30 - 20:30)",
         "present": "22",
         "hl": "1",
         "wo": "4",
@@ -1674,6 +1685,7 @@
     "NAMAH0021": {
         "name": "GAUTAM SONKAR",
         "designation": "SENIOR ORDERS EXECUTIVE",
+        "shift": "Shift 004 (11:45 - 20:45)",
         "present": "21",
         "hl": "1",
         "wo": "4",
@@ -1826,6 +1838,7 @@
     "NAMAH0029": {
         "name": "AMARDEEP",
         "designation": "SENIOR ORDERS EXECUTIVE",
+        "shift": "Shift 002 (11:15 - 20:15)",
         "present": "22",
         "hl": "1",
         "wo": "4",
@@ -1978,6 +1991,7 @@
     "NAMAH0002": {
         "name": "AKASH KUMAR",
         "designation": "EXECUTIVE",
+        "shift": "Shift 003 (11:30 - 20:30)",
         "present": "21.5",
         "hl": "1",
         "wo": "4",
@@ -2130,6 +2144,7 @@
     "NAMAH0025": {
         "name": "GAURAV - 2",
         "designation": "EXECUTIVE",
+        "shift": "Shift 003 (11:30 - 20:30)",
         "present": "18.5",
         "hl": "1",
         "wo": "4",
@@ -2282,6 +2297,7 @@
     "NAMAH0035": {
         "name": "SHYAM",
         "designation": "EXECUTIVE",
+        "shift": "Shift 004 (11:45 - 20:45)",
         "present": "20.5",
         "hl": "1",
         "wo": "4",
@@ -2434,6 +2450,7 @@
     "NAMAH0030": {
         "name": "NAMRATA",
         "designation": "DATA ENTRY OPERATOR",
+        "shift": "Shift 004 (11:45 - 20:45)",
         "present": "15.5",
         "hl": "1",
         "wo": "4",
@@ -2586,6 +2603,7 @@
     "NAMAH0020": {
         "name": "VARUN RIDER",
         "designation": "RIDER",
+        "shift": "Shift 001 (11:00 - 20:00)",
         "present": "1",
         "hl": "1",
         "wo": "4",
@@ -2738,6 +2756,7 @@
     "NAMAH0019": {
         "name": "SAGAR RIDER",
         "designation": "RIDER",
+        "shift": "Shift 001 (11:00 - 20:00)",
         "present": "17.5",
         "hl": "1",
         "wo": "4",
@@ -2890,6 +2909,7 @@
     "NAMAH0013": {
         "name": "AKANSHA YADAV",
         "designation": "Sales Executive",
+        "shift": "Shift 004 (11:45 - 20:45)",
         "present": "21",
         "hl": "1",
         "wo": "4",
@@ -3042,6 +3062,7 @@
     "NAMAH0023": {
         "name": "HEMA",
         "designation": "Senior Sales Executive",
+        "shift": "Shift 004 (11:45 - 20:45)",
         "present": "15",
         "hl": "1",
         "wo": "4",
@@ -3194,6 +3215,7 @@
     "NAMAH0015": {
         "name": "GUNGUN",
         "designation": "SALES-SUPPORT",
+        "shift": "Shift 003 (11:30 - 20:30)",
         "present": "20",
         "hl": "1",
         "wo": "4",
@@ -3346,6 +3368,7 @@
     "NAMAH0014": {
         "name": "KASHISH",
         "designation": "DEMO",
+        "shift": "Shift 003 (11:30 - 20:30)",
         "present": "21",
         "hl": "1",
         "wo": "4",
@@ -3498,6 +3521,7 @@
     "NAMAH0036": {
         "name": "DEEPIKA",
         "designation": "Sales Executive",
+        "shift": "Shift 004 (11:45 - 20:45)",
         "present": "23",
         "hl": "1",
         "wo": "4",
@@ -3650,6 +3674,7 @@
     "NAMAH0012": {
         "name": "YOGITA",
         "designation": "Sales Executive",
+        "shift": "Shift 004 (11:45 - 20:45)",
         "present": "23",
         "hl": "1",
         "wo": "4",
@@ -3802,6 +3827,7 @@
     "NAMAH0026": {
         "name": "ZIYA",
         "designation": "Sales Executive",
+        "shift": "Shift 005 (12:00 - 21:00)",
         "present": "21",
         "hl": "1",
         "wo": "4",
@@ -3954,6 +3980,7 @@
     "NAMAH0009": {
         "name": "RISHI",
         "designation": "SALES-SUPPORT",
+        "shift": "Shift 003 (11:30 - 20:30)",
         "present": "17",
         "hl": "1",
         "wo": "4",
@@ -4106,6 +4133,7 @@
     "NAMAH0042": {
         "name": "MINI",
         "designation": "Sales Executive",
+        "shift": "Shift 004 (11:45 - 20:45)",
         "present": "1",
         "hl": "0",
         "wo": "2",
@@ -4183,6 +4211,7 @@
     "NAMAH0037": {
         "name": "MEHAK",
         "designation": "SALES-SUPPORT",
+        "shift": "Shift 003 (11:30 - 20:30)",
         "present": "13",
         "hl": "1",
         "wo": "4",
@@ -4335,6 +4364,7 @@
     "NAMAH0027": {
         "name": "JYOTI",
         "designation": "Social Media Manager",
+        "shift": "Shift 005 (12:00 - 21:00)",
         "present": "18.5",
         "hl": "1",
         "wo": "4",
@@ -4487,6 +4517,7 @@
     "NAMAH0039": {
         "name": "ROSHNI",
         "designation": "Social Media Manager",
+        "shift": "Shift 004 (11:45 - 20:45)",
         "present": "21",
         "hl": "1",
         "wo": "4",
@@ -4639,6 +4670,7 @@
     "NAMAH0008": {
         "name": "LALITA",
         "designation": "SUPPORT",
+        "shift": "Shift 002 (11:15 - 20:15)",
         "present": "21",
         "hl": "1",
         "wo": "4",
@@ -4791,6 +4823,7 @@
     "NAMAH0005": {
         "name": "VICKY SHAH",
         "designation": "MELTING",
+        "shift": "Shift 003 (11:30 - 20:30)",
         "present": "20.5",
         "hl": "1",
         "wo": "4",
@@ -4943,6 +4976,7 @@
     "NAMAH0034": {
         "name": "Deep Chandra Joshi",
         "designation": "MIS EXECUTIVE",
+        "shift": "Shift 003 (11:30 - 20:30)",
         "present": "23",
         "hl": "1",
         "wo": "4",
