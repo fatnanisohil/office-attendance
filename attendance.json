@@ -2,4753 +2,4753 @@
     "NAMAH0033": [
         {
             "date": "2026-10-01",
-            "time": "13:52",
+            "time": "Arr: 13:52  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "13:52",
+            "time": "Arr: 13:52  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-04",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "14:08",
+            "time": "Arr: 14:08  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-07",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-08",
-            "time": "14:04",
+            "time": "Arr: 14:04  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-09",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-10",
-            "time": "14:03",
+            "time": "Arr: 14:03  |  Dept: --:--",
             "status": "P/2"
         },
         {
             "date": "2026-10-11",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-12",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-13",
-            "time": "16:05",
+            "time": "Arr: 16:05  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-14",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-15",
-            "time": "14:29",
+            "time": "Arr: 14:29  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-16",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-17",
-            "time": "13:53",
+            "time": "Arr: 13:53  |  Dept: 21:10",
             "status": "P-LT"
         },
         {
             "date": "2026-10-18",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "13:46",
+            "time": "Arr: 13:46  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-21",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-22",
-            "time": "14:01",
+            "time": "Arr: 14:01  |  Dept: --:--",
             "status": "P/2"
         },
         {
             "date": "2026-10-23",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-24",
-            "time": "14:26",
+            "time": "Arr: 14:26  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-25",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "14:43",
+            "time": "Arr: 14:43  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-28",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         }
     ],
     "NAMAH0011": [
         {
             "date": "2026-10-01",
-            "time": "12:04",
+            "time": "Arr: 12:04  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "11:46",
+            "time": "Arr: 11:46  |  Dept: 21:15",
             "status": "P-LT"
         },
         {
             "date": "2026-10-04",
-            "time": "12:04",
+            "time": "Arr: 12:04  |  Dept: 22:01",
             "status": "P-LT"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "12:15",
+            "time": "Arr: 12:15  |  Dept: 21:04",
             "status": "P-LT"
         },
         {
             "date": "2026-10-07",
-            "time": "11:43",
+            "time": "Arr: 11:43  |  Dept: 21:05",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:49",
+            "time": "Arr: 11:49  |  Dept: 21:32",
             "status": "P/2"
         },
         {
             "date": "2026-10-09",
-            "time": "11:51",
+            "time": "Arr: 11:51  |  Dept: 20:36",
             "status": "P-LT"
         },
         {
             "date": "2026-10-10",
-            "time": "12:19",
+            "time": "Arr: 12:19  |  Dept: 20:47",
             "status": "P-LT"
         },
         {
             "date": "2026-10-11",
-            "time": "11:30",
+            "time": "Arr: 11:30  |  Dept: 21:28",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-13",
-            "time": "12:09",
+            "time": "Arr: 12:09  |  Dept: 21:15",
             "status": "P-LT"
         },
         {
             "date": "2026-10-14",
-            "time": "11:44",
+            "time": "Arr: 11:44  |  Dept: 21:37",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "11:55",
+            "time": "Arr: 11:55  |  Dept: 21:16",
             "status": "P-LT"
         },
         {
             "date": "2026-10-16",
-            "time": "11:59",
+            "time": "Arr: 11:59  |  Dept: 21:12",
             "status": "P/2"
         },
         {
             "date": "2026-10-17",
-            "time": "12:01",
+            "time": "Arr: 12:01  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-18",
-            "time": "11:47",
+            "time": "Arr: 11:47  |  Dept: 22:05",
             "status": "P-LT"
         },
         {
             "date": "2026-10-19",
-            "time": "13:58",
+            "time": "Arr: 13:58  |  Dept: 20:10",
             "status": "POW"
         },
         {
             "date": "2026-10-20",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-21",
-            "time": "11:50",
+            "time": "Arr: 11:50  |  Dept: 21:00",
             "status": "P-LT"
         },
         {
             "date": "2026-10-22",
-            "time": "11:49",
+            "time": "Arr: 11:49  |  Dept: 21:07",
             "status": "P-LT"
         },
         {
             "date": "2026-10-23",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:51",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "11:35",
+            "time": "Arr: 11:35  |  Dept: 21:14",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "12:02",
+            "time": "Arr: 12:02  |  Dept: 21:01",
             "status": "P/2"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "21:22",
+            "time": "Arr: 21:22  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-28",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: --:--",
             "status": "P-LT"
         }
     ],
     "NAMAH0032": [
         {
             "date": "2026-10-01",
-            "time": "12:03",
+            "time": "Arr: 12:03  |  Dept: 21:12",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "12:07",
+            "time": "Arr: 12:07  |  Dept: 21:15",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "12:08",
+            "time": "Arr: 12:08  |  Dept: 22:01",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "12:10",
+            "time": "Arr: 12:10  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "21:15",
+            "time": "Arr: 21:15  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-08",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-09",
-            "time": "12:04",
+            "time": "Arr: 12:04  |  Dept: 20:42",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "12:01",
+            "time": "Arr: 12:01  |  Dept: 20:58",
             "status": "P"
         },
         {
             "date": "2026-10-11",
-            "time": "21:34",
+            "time": "Arr: 21:34  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-12",
-            "time": "13:29",
+            "time": "Arr: 13:29  |  Dept: 19:36",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "12:04",
+            "time": "Arr: 12:04  |  Dept: 21:19",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "12:07",
+            "time": "Arr: 12:07  |  Dept: 21:38",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-16",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-17",
-            "time": "12:11",
+            "time": "Arr: 12:11  |  Dept: 21:13",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "22:00",
+            "time": "Arr: 22:00  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-21",
-            "time": "11:59",
+            "time": "Arr: 11:59  |  Dept: 21:01",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "12:44",
+            "time": "Arr: 12:44  |  Dept: 21:03",
             "status": "P-LT"
         },
         {
             "date": "2026-10-23",
-            "time": "12:01",
+            "time": "Arr: 12:01  |  Dept: 20:55",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-25",
-            "time": "12:03",
+            "time": "Arr: 12:03  |  Dept: 21:01",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "12:20",
+            "time": "Arr: 12:20  |  Dept: 21:21",
             "status": "P/2"
         },
         {
             "date": "2026-10-28",
-            "time": "12:08",
+            "time": "Arr: 12:08  |  Dept: --:--",
             "status": "P"
         }
     ],
     "NAMAH0007": [
         {
             "date": "2026-10-01",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-04",
-            "time": "11:51",
+            "time": "Arr: 11:51  |  Dept: 22:00",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: 21:04",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 21:12",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 21:31",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:41",
+            "time": "Arr: 11:41  |  Dept: 20:42",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "12:01",
+            "time": "Arr: 12:01  |  Dept: 20:58",
             "status": "P-LT"
         },
         {
             "date": "2026-10-11",
-            "time": "11:52",
+            "time": "Arr: 11:52  |  Dept: 21:30",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-13",
-            "time": "12:08",
+            "time": "Arr: 12:08  |  Dept: 21:18",
             "status": "P-LT"
         },
         {
             "date": "2026-10-14",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: 21:37",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "12:06",
+            "time": "Arr: 12:06  |  Dept: 21:25",
             "status": "P-LT"
         },
         {
             "date": "2026-10-16",
-            "time": "11:53",
+            "time": "Arr: 11:53  |  Dept: 21:12",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "12:02",
+            "time": "Arr: 12:02  |  Dept: 21:13",
             "status": "P-LT"
         },
         {
             "date": "2026-10-18",
-            "time": "12:00",
+            "time": "Arr: 12:00  |  Dept: 21:54",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-21",
-            "time": "11:50",
+            "time": "Arr: 11:50  |  Dept: 21:02",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:55",
+            "time": "Arr: 11:55  |  Dept: 21:02",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "11:47",
+            "time": "Arr: 11:47  |  Dept: 20:51",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "11:59",
+            "time": "Arr: 11:59  |  Dept: 21:21",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "11:52",
+            "time": "Arr: 11:52  |  Dept: 21:01",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "11:50",
+            "time": "Arr: 11:50  |  Dept: 20:58",
             "status": "P"
         },
         {
             "date": "2026-10-28",
-            "time": "11:53",
+            "time": "Arr: 11:53  |  Dept: --:--",
             "status": "P"
         }
     ],
     "NAMAH0001": [
         {
             "date": "2026-10-01",
-            "time": "10:59",
+            "time": "Arr: 10:59  |  Dept: 20:19",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "11:15",
+            "time": "Arr: 11:15  |  Dept: 20:30",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "11:04",
+            "time": "Arr: 11:04  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "11:03",
+            "time": "Arr: 11:03  |  Dept: 20:09",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:13",
+            "time": "Arr: 11:13  |  Dept: 20:20",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:12",
+            "time": "Arr: 11:12  |  Dept: 20:29",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:13",
+            "time": "Arr: 11:13  |  Dept: 20:03",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "11:10",
+            "time": "Arr: 11:10  |  Dept: 20:18",
             "status": "P"
         },
         {
             "date": "2026-10-11",
-            "time": "11:14",
+            "time": "Arr: 11:14  |  Dept: 20:38",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "11:15",
+            "time": "Arr: 11:15  |  Dept: --:--",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "11:01",
+            "time": "Arr: 11:01  |  Dept: 20:04",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "11:12",
+            "time": "Arr: 11:12  |  Dept: 20:17",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "11:02",
+            "time": "Arr: 11:02  |  Dept: 20:14",
             "status": "P"
         },
         {
             "date": "2026-10-16",
-            "time": "11:21",
+            "time": "Arr: 11:21  |  Dept: 20:10",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "11:19",
+            "time": "Arr: 11:19  |  Dept: 20:14",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-19",
-            "time": "13:43",
+            "time": "Arr: 13:43  |  Dept: --:--",
             "status": "POW"
         },
         {
             "date": "2026-10-20",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-21",
-            "time": "11:20",
+            "time": "Arr: 11:20  |  Dept: 19:56",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:20",
+            "time": "Arr: 11:20  |  Dept: 20:06",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:11",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "11:26",
+            "time": "Arr: 11:26  |  Dept: 20:34",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "11:12",
+            "time": "Arr: 11:12  |  Dept: 20:12",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "11:08",
+            "time": "Arr: 11:08  |  Dept: 18:57",
             "status": "P"
         },
         {
             "date": "2026-10-28",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: --:--",
             "status": "P-LT"
         }
     ],
     "NAMAH0017": [
         {
             "date": "2026-10-01",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 21:12",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "11:49",
+            "time": "Arr: 11:49  |  Dept: 21:14",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: 21:59",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "10:40",
+            "time": "Arr: 10:40  |  Dept: 21:04",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:46",
+            "time": "Arr: 11:46  |  Dept: 21:04",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:45",
+            "time": "Arr: 11:45  |  Dept: 21:31",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:43",
+            "time": "Arr: 11:43  |  Dept: 20:41",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "12:29",
+            "time": "Arr: 12:29  |  Dept: 20:58",
             "status": "P-LT"
         },
         {
             "date": "2026-10-11",
-            "time": "11:51",
+            "time": "Arr: 11:51  |  Dept: 21:32",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "12:05",
+            "time": "Arr: 12:05  |  Dept: 19:36",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "11:43",
+            "time": "Arr: 11:43  |  Dept: 21:20",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "11:52",
+            "time": "Arr: 11:52  |  Dept: 21:37",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "11:47",
+            "time": "Arr: 11:47  |  Dept: 21:22",
             "status": "P"
         },
         {
             "date": "2026-10-16",
-            "time": "11:39",
+            "time": "Arr: 11:39  |  Dept: 21:11",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "11:48",
+            "time": "Arr: 11:48  |  Dept: 21:14",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "11:49",
+            "time": "Arr: 11:49  |  Dept: 22:04",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "11:58",
+            "time": "Arr: 11:58  |  Dept: 18:48",
             "status": "P"
         },
         {
             "date": "2026-10-21",
-            "time": "11:39",
+            "time": "Arr: 11:39  |  Dept: 21:01",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 21:01",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "11:41",
+            "time": "Arr: 11:41  |  Dept: 20:49",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 21:19",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "11:59",
+            "time": "Arr: 11:59  |  Dept: 21:10",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "11:41",
+            "time": "Arr: 11:41  |  Dept: 21:22",
             "status": "P"
         },
         {
             "date": "2026-10-28",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: --:--",
             "status": "P"
         }
     ],
     "NAMAH0006": [
         {
             "date": "2026-10-01",
-            "time": "12:03",
+            "time": "Arr: 12:03  |  Dept: 21:12",
             "status": "P-LT"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "11:59",
+            "time": "Arr: 11:59  |  Dept: 21:16",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "11:12",
+            "time": "Arr: 11:12  |  Dept: 22:01",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "12:11",
+            "time": "Arr: 12:11  |  Dept: 21:05",
             "status": "P-LT"
         },
         {
             "date": "2026-10-07",
-            "time": "12:01",
+            "time": "Arr: 12:01  |  Dept: 21:15",
             "status": "P-LT"
         },
         {
             "date": "2026-10-08",
-            "time": "11:46",
+            "time": "Arr: 11:46  |  Dept: 21:31",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "12:09",
+            "time": "Arr: 12:09  |  Dept: 13:38",
             "status": "P-LT"
         },
         {
             "date": "2026-10-10",
-            "time": "12:01",
+            "time": "Arr: 12:01  |  Dept: --:--",
             "status": "P/2"
         },
         {
             "date": "2026-10-11",
-            "time": "12:03",
+            "time": "Arr: 12:03  |  Dept: 21:34",
             "status": "P-LT"
         },
         {
             "date": "2026-10-12",
-            "time": "12:22",
+            "time": "Arr: 12:22  |  Dept: 19:37",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "12:02",
+            "time": "Arr: 12:02  |  Dept: 21:15",
             "status": "P-LT"
         },
         {
             "date": "2026-10-14",
-            "time": "12:01",
+            "time": "Arr: 12:01  |  Dept: 21:38",
             "status": "P-LT"
         },
         {
             "date": "2026-10-15",
-            "time": "17:53",
+            "time": "Arr: 17:53  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-16",
-            "time": "11:55",
+            "time": "Arr: 11:55  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "11:48",
+            "time": "Arr: 11:48  |  Dept: 21:15",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "12:28",
+            "time": "Arr: 12:28  |  Dept: 22:05",
             "status": "P/2"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "12:01",
+            "time": "Arr: 12:01  |  Dept: 18:46",
             "status": "P-LT"
         },
         {
             "date": "2026-10-21",
-            "time": "11:53",
+            "time": "Arr: 11:53  |  Dept: 21:01",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: 21:03",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:51",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "11:43",
+            "time": "Arr: 11:43  |  Dept: 21:21",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "11:46",
+            "time": "Arr: 11:46  |  Dept: 21:12",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "11:41",
+            "time": "Arr: 11:41  |  Dept: 20:51",
             "status": "P"
         },
         {
             "date": "2026-10-28",
-            "time": "11:55",
+            "time": "Arr: 11:55  |  Dept: --:--",
             "status": "P"
         }
     ],
     "NAMAH0038": [
         {
             "date": "2026-10-01",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:59",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:59",
             "status": "POH"
         },
         {
             "date": "2026-10-03",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:59",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:59",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:59",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:59",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:59",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:59",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:59",
             "status": "P"
         },
         {
             "date": "2026-10-11",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:59",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:59",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:59",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:59",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "11:44",
+            "time": "Arr: 11:44  |  Dept: 20:34",
             "status": "P"
         },
         {
             "date": "2026-10-16",
-            "time": "11:52",
+            "time": "Arr: 11:52  |  Dept: 20:33",
             "status": "P-LT"
         },
         {
             "date": "2026-10-17",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: 20:40",
             "status": "P-LT"
         },
         {
             "date": "2026-10-18",
-            "time": "13:17",
+            "time": "Arr: 13:17  |  Dept: 21:10",
             "status": "P-LT"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "12:02",
+            "time": "Arr: 12:02  |  Dept: 18:39",
             "status": "P-LT"
         },
         {
             "date": "2026-10-21",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-22",
-            "time": "12:24",
+            "time": "Arr: 12:24  |  Dept: 20:34",
             "status": "P/2"
         },
         {
             "date": "2026-10-23",
-            "time": "11:47",
+            "time": "Arr: 11:47  |  Dept: 13:57",
             "status": "P-LT"
         },
         {
             "date": "2026-10-24",
-            "time": "12:13",
+            "time": "Arr: 12:13  |  Dept: 21:13",
             "status": "P-LT"
         },
         {
             "date": "2026-10-25",
-            "time": "12:05",
+            "time": "Arr: 12:05  |  Dept: 20:38",
             "status": "P-LT"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "12:27",
+            "time": "Arr: 12:27  |  Dept: 20:42",
             "status": "P-LT"
         },
         {
             "date": "2026-10-28",
-            "time": "12:20",
+            "time": "Arr: 12:20  |  Dept: --:--",
             "status": "P/2"
         }
     ],
     "NAMAH0041": [
         {
             "date": "2026-10-01",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-04",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-07",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-08",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-09",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-10",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-11",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-12",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-13",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-14",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-15",
-            "time": "19:32",
+            "time": "Arr: 19:32  |  Dept: 20:07",
             "status": "P-LT"
         },
         {
             "date": "2026-10-16",
-            "time": "11:26",
+            "time": "Arr: 11:26  |  Dept: 20:05",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "11:19",
+            "time": "Arr: 11:19  |  Dept: 20:06",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "11:18",
+            "time": "Arr: 11:18  |  Dept: 20:12",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "11:53",
+            "time": "Arr: 11:53  |  Dept: 18:34",
             "status": "P-LT"
         },
         {
             "date": "2026-10-21",
-            "time": "11:24",
+            "time": "Arr: 11:24  |  Dept: 20:00",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:20",
+            "time": "Arr: 11:20  |  Dept: 20:01",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:02",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "11:26",
+            "time": "Arr: 11:26  |  Dept: 20:00",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "11:13",
+            "time": "Arr: 11:13  |  Dept: 19:59",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "12:25",
+            "time": "Arr: 12:25  |  Dept: 19:58",
             "status": "P-LT"
         },
         {
             "date": "2026-10-28",
-            "time": "11:25",
+            "time": "Arr: 11:25  |  Dept: --:--",
             "status": "P"
         }
     ],
     "NAMAH0031": [
         {
             "date": "2026-10-01",
-            "time": "12:05",
+            "time": "Arr: 12:05  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "12:07",
+            "time": "Arr: 12:07  |  Dept: 20:32",
             "status": "P-LT"
         },
         {
             "date": "2026-10-04",
-            "time": "12:02",
+            "time": "Arr: 12:02  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-07",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-08",
-            "time": "12:35",
+            "time": "Arr: 12:35  |  Dept: 20:48",
             "status": "P-LT"
         },
         {
             "date": "2026-10-09",
-            "time": "11:47",
+            "time": "Arr: 11:47  |  Dept: 20:35",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "20:36",
+            "time": "Arr: 20:36  |  Dept: --:--",
             "status": "P/2"
         },
         {
             "date": "2026-10-11",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: 21:10",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-13",
-            "time": "12:24",
+            "time": "Arr: 12:24  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-14",
-            "time": "11:53",
+            "time": "Arr: 11:53  |  Dept: 21:12",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "20:51",
+            "time": "Arr: 20:51  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-16",
-            "time": "12:26",
+            "time": "Arr: 12:26  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-17",
-            "time": "12:07",
+            "time": "Arr: 12:07  |  Dept: 20:42",
             "status": "P-LT"
         },
         {
             "date": "2026-10-18",
-            "time": "11:48",
+            "time": "Arr: 11:48  |  Dept: 21:22",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: 18:39",
             "status": "P"
         },
         {
             "date": "2026-10-21",
-            "time": "12:05",
+            "time": "Arr: 12:05  |  Dept: 20:50",
             "status": "P/2"
         },
         {
             "date": "2026-10-22",
-            "time": "12:00",
+            "time": "Arr: 12:00  |  Dept: 20:37",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "12:02",
+            "time": "Arr: 12:02  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-24",
-            "time": "11:56",
+            "time": "Arr: 11:56  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "12:00",
+            "time": "Arr: 12:00  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "12:01",
+            "time": "Arr: 12:01  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-28",
-            "time": "12:16",
+            "time": "Arr: 12:16  |  Dept: --:--",
             "status": "P-LT"
         }
     ],
     "NAMAH0040": [
         {
             "date": "2026-10-01",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:32",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:32",
             "status": "POH"
         },
         {
             "date": "2026-10-03",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:32",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:32",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:32",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:32",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:32",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:32",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:32",
             "status": "P"
         },
         {
             "date": "2026-10-11",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:32",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:32",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-14",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:32",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:32",
             "status": "P"
         },
         {
             "date": "2026-10-16",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:33",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "11:26",
+            "time": "Arr: 11:26  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "11:18",
+            "time": "Arr: 11:18  |  Dept: 20:57",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: 18:39",
             "status": "P-LT"
         },
         {
             "date": "2026-10-21",
-            "time": "11:22",
+            "time": "Arr: 11:22  |  Dept: 20:30",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:31",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "11:31",
+            "time": "Arr: 11:31  |  Dept: 20:37",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "11:29",
+            "time": "Arr: 11:29  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:31",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "11:25",
+            "time": "Arr: 11:25  |  Dept: 20:36",
             "status": "P"
         },
         {
             "date": "2026-10-28",
-            "time": "11:27",
+            "time": "Arr: 11:27  |  Dept: --:--",
             "status": "P"
         }
     ],
     "NAMAH0021": [
         {
             "date": "2026-10-01",
-            "time": "11:07",
+            "time": "Arr: 11:07  |  Dept: 21:12",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "11:51",
+            "time": "Arr: 11:51  |  Dept: 21:16",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "11:47",
+            "time": "Arr: 11:47  |  Dept: 22:02",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "11:42",
+            "time": "Arr: 11:42  |  Dept: 21:05",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:52",
+            "time": "Arr: 11:52  |  Dept: 21:04",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "12:17",
+            "time": "Arr: 12:17  |  Dept: 21:26",
             "status": "P-LT"
         },
         {
             "date": "2026-10-09",
-            "time": "11:58",
+            "time": "Arr: 11:58  |  Dept: 20:35",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "12:12",
+            "time": "Arr: 12:12  |  Dept: 20:48",
             "status": "P-LT"
         },
         {
             "date": "2026-10-11",
-            "time": "11:42",
+            "time": "Arr: 11:42  |  Dept: 21:33",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "12:18",
+            "time": "Arr: 12:18  |  Dept: 19:32",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "12:20",
+            "time": "Arr: 12:20  |  Dept: 21:17",
             "status": "P-LT"
         },
         {
             "date": "2026-10-14",
-            "time": "12:05",
+            "time": "Arr: 12:05  |  Dept: 21:51",
             "status": "P-LT"
         },
         {
             "date": "2026-10-15",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-16",
-            "time": "12:37",
+            "time": "Arr: 12:37  |  Dept: 21:12",
             "status": "P/2"
         },
         {
             "date": "2026-10-17",
-            "time": "11:59",
+            "time": "Arr: 11:59  |  Dept: 21:15",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "12:02",
+            "time": "Arr: 12:02  |  Dept: 22:05",
             "status": "P-LT"
         },
         {
             "date": "2026-10-19",
-            "time": "13:58",
+            "time": "Arr: 13:58  |  Dept: 20:10",
             "status": "POW"
         },
         {
             "date": "2026-10-20",
-            "time": "11:55",
+            "time": "Arr: 11:55  |  Dept: 19:40",
             "status": "P"
         },
         {
             "date": "2026-10-21",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "13:33",
+            "time": "Arr: 13:33  |  Dept: 21:07",
             "status": "P-LT"
         },
         {
             "date": "2026-10-23",
-            "time": "12:05",
+            "time": "Arr: 12:05  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-24",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 21:14",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "12:05",
+            "time": "Arr: 12:05  |  Dept: 21:12",
             "status": "P-LT"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "12:28",
+            "time": "Arr: 12:28  |  Dept: --:--",
             "status": "P/2"
         },
         {
             "date": "2026-10-28",
-            "time": "12:55",
+            "time": "Arr: 12:55  |  Dept: --:--",
             "status": "P-LT"
         }
     ],
     "NAMAH0029": [
         {
             "date": "2026-10-01",
-            "time": "10:32",
+            "time": "Arr: 10:32  |  Dept: 21:12",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "11:08",
+            "time": "Arr: 11:08  |  Dept: 21:16",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "10:33",
+            "time": "Arr: 10:33  |  Dept: 22:01",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "10:39",
+            "time": "Arr: 10:39  |  Dept: 21:05",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:08",
+            "time": "Arr: 11:08  |  Dept: 21:15",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:07",
+            "time": "Arr: 11:07  |  Dept: 21:31",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:12",
+            "time": "Arr: 11:12  |  Dept: 20:43",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "11:00",
+            "time": "Arr: 11:00  |  Dept: 20:58",
             "status": "P"
         },
         {
             "date": "2026-10-11",
-            "time": "11:13",
+            "time": "Arr: 11:13  |  Dept: 21:35",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "11:17",
+            "time": "Arr: 11:17  |  Dept: 19:37",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "11:27",
+            "time": "Arr: 11:27  |  Dept: 21:20",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "11:12",
+            "time": "Arr: 11:12  |  Dept: 21:52",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "11:02",
+            "time": "Arr: 11:02  |  Dept: 21:32",
             "status": "P"
         },
         {
             "date": "2026-10-16",
-            "time": "11:21",
+            "time": "Arr: 11:21  |  Dept: 21:12",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "11:10",
+            "time": "Arr: 11:10  |  Dept: 21:15",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "11:18",
+            "time": "Arr: 11:18  |  Dept: 22:05",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "12:57",
+            "time": "Arr: 12:57  |  Dept: 19:39",
             "status": "P-LT"
         },
         {
             "date": "2026-10-21",
-            "time": "11:20",
+            "time": "Arr: 11:20  |  Dept: 21:02",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:19",
+            "time": "Arr: 11:19  |  Dept: 21:07",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-24",
-            "time": "11:35",
+            "time": "Arr: 11:35  |  Dept: 21:21",
             "status": "P-LT"
         },
         {
             "date": "2026-10-25",
-            "time": "11:12",
+            "time": "Arr: 11:12  |  Dept: 21:12",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "11:08",
+            "time": "Arr: 11:08  |  Dept: 21:24",
             "status": "P"
         },
         {
             "date": "2026-10-28",
-            "time": "11:25",
+            "time": "Arr: 11:25  |  Dept: --:--",
             "status": "P"
         }
     ],
     "NAMAH0002": [
         {
             "date": "2026-10-01",
-            "time": "11:36",
+            "time": "Arr: 11:36  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "11:31",
+            "time": "Arr: 11:31  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 22:01",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "12:18",
+            "time": "Arr: 12:18  |  Dept: 14:33",
             "status": "P-LT"
         },
         {
             "date": "2026-10-07",
-            "time": "11:22",
+            "time": "Arr: 11:22  |  Dept: 21:04",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "12:39",
+            "time": "Arr: 12:39  |  Dept: 20:26",
             "status": "P-LT"
         },
         {
             "date": "2026-10-09",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 20:35",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "11:52",
+            "time": "Arr: 11:52  |  Dept: 20:48",
             "status": "P-LT"
         },
         {
             "date": "2026-10-11",
-            "time": "12:13",
+            "time": "Arr: 12:13  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-12",
-            "time": "11:44",
+            "time": "Arr: 11:44  |  Dept: 14:59",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "11:47",
+            "time": "Arr: 11:47  |  Dept: 12:42",
             "status": "P/2"
         },
         {
             "date": "2026-10-14",
-            "time": "11:52",
+            "time": "Arr: 11:52  |  Dept: 21:37",
             "status": "P-LT"
         },
         {
             "date": "2026-10-15",
-            "time": "11:16",
+            "time": "Arr: 11:16  |  Dept: 21:13",
             "status": "P"
         },
         {
             "date": "2026-10-16",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "11:41",
+            "time": "Arr: 11:41  |  Dept: 21:13",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "11:24",
+            "time": "Arr: 11:24  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "11:58",
+            "time": "Arr: 11:58  |  Dept: 18:38",
             "status": "P-LT"
         },
         {
             "date": "2026-10-21",
-            "time": "11:39",
+            "time": "Arr: 11:39  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:28",
+            "time": "Arr: 11:28  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "11:26",
+            "time": "Arr: 11:26  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-25",
-            "time": "11:31",
+            "time": "Arr: 11:31  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "11:50",
+            "time": "Arr: 11:50  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-28",
-            "time": "11:41",
+            "time": "Arr: 11:41  |  Dept: --:--",
             "status": "P"
         }
     ],
     "NAMAH0025": [
         {
             "date": "2026-10-01",
-            "time": "12:24",
+            "time": "Arr: 12:24  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "12:39",
+            "time": "Arr: 12:39  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-04",
-            "time": "12:05",
+            "time": "Arr: 12:05  |  Dept: 21:58",
             "status": "P-LT"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "12:14",
+            "time": "Arr: 12:14  |  Dept: 21:04",
             "status": "P-LT"
         },
         {
             "date": "2026-10-07",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-08",
-            "time": "11:44",
+            "time": "Arr: 11:44  |  Dept: 21:24",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: --:--",
             "status": "P/2"
         },
         {
             "date": "2026-10-10",
-            "time": "12:07",
+            "time": "Arr: 12:07  |  Dept: 20:48",
             "status": "P-LT"
         },
         {
             "date": "2026-10-11",
-            "time": "12:02",
+            "time": "Arr: 12:02  |  Dept: 21:28",
             "status": "P-LT"
         },
         {
             "date": "2026-10-12",
-            "time": "12:02",
+            "time": "Arr: 12:02  |  Dept: --:--",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "12:02",
+            "time": "Arr: 12:02  |  Dept: 14:06",
             "status": "P-LT"
         },
         {
             "date": "2026-10-14",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-15",
-            "time": "11:44",
+            "time": "Arr: 11:44  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-16",
-            "time": "11:52",
+            "time": "Arr: 11:52  |  Dept: 20:47",
             "status": "P-LT"
         },
         {
             "date": "2026-10-17",
-            "time": "12:11",
+            "time": "Arr: 12:11  |  Dept: 21:13",
             "status": "P/2"
         },
         {
             "date": "2026-10-18",
-            "time": "11:59",
+            "time": "Arr: 11:59  |  Dept: 22:05",
             "status": "P-LT"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "12:19",
+            "time": "Arr: 12:19  |  Dept: 18:51",
             "status": "P-LT"
         },
         {
             "date": "2026-10-21",
-            "time": "12:08",
+            "time": "Arr: 12:08  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-22",
-            "time": "12:03",
+            "time": "Arr: 12:03  |  Dept: 21:07",
             "status": "P-LT"
         },
         {
             "date": "2026-10-23",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-24",
-            "time": "11:51",
+            "time": "Arr: 11:51  |  Dept: --:--",
             "status": "P/2"
         },
         {
             "date": "2026-10-25",
-            "time": "12:12",
+            "time": "Arr: 12:12  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "12:35",
+            "time": "Arr: 12:35  |  Dept: 21:22",
             "status": "P-LT"
         },
         {
             "date": "2026-10-28",
-            "time": "12:11",
+            "time": "Arr: 12:11  |  Dept: --:--",
             "status": "P-LT"
         }
     ],
     "NAMAH0035": [
         {
             "date": "2026-10-01",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-02",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 21:00",
             "status": "POH"
         },
         {
             "date": "2026-10-03",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 21:00",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 21:00",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 21:00",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 21:00",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 21:00",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 21:00",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 21:00",
             "status": "P"
         },
         {
             "date": "2026-10-11",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 21:00",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 21:00",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "12:24",
+            "time": "Arr: 12:24  |  Dept: 21:00",
             "status": "P-LT"
         },
         {
             "date": "2026-10-14",
-            "time": "11:59",
+            "time": "Arr: 11:59  |  Dept: 21:39",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-16",
-            "time": "12:15",
+            "time": "Arr: 12:15  |  Dept: 21:12",
             "status": "P-LT"
         },
         {
             "date": "2026-10-17",
-            "time": "11:59",
+            "time": "Arr: 11:59  |  Dept: 21:15",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "11:44",
+            "time": "Arr: 11:44  |  Dept: 22:01",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "11:56",
+            "time": "Arr: 11:56  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-21",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:55",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "12:24",
+            "time": "Arr: 12:24  |  Dept: 21:07",
             "status": "P-LT"
         },
         {
             "date": "2026-10-23",
-            "time": "12:24",
+            "time": "Arr: 12:24  |  Dept: 20:50",
             "status": "P-LT"
         },
         {
             "date": "2026-10-24",
-            "time": "12:20",
+            "time": "Arr: 12:20  |  Dept: 21:15",
             "status": "P/2"
         },
         {
             "date": "2026-10-25",
-            "time": "12:05",
+            "time": "Arr: 12:05  |  Dept: 21:11",
             "status": "P-LT"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "12:28",
+            "time": "Arr: 12:28  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-28",
-            "time": "12:26",
+            "time": "Arr: 12:26  |  Dept: --:--",
             "status": "P-LT"
         }
     ],
     "NAMAH0030": [
         {
             "date": "2026-10-01",
-            "time": "12:18",
+            "time": "Arr: 12:18  |  Dept: 20:15",
             "status": "P-LT"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "12:10",
+            "time": "Arr: 12:10  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-04",
-            "time": "12:01",
+            "time": "Arr: 12:01  |  Dept: 20:03",
             "status": "P-LT"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "13:26",
+            "time": "Arr: 13:26  |  Dept: 20:12",
             "status": "P-LT"
         },
         {
             "date": "2026-10-07",
-            "time": "12:21",
+            "time": "Arr: 12:21  |  Dept: 20:27",
             "status": "P/2"
         },
         {
             "date": "2026-10-08",
-            "time": "12:21",
+            "time": "Arr: 12:21  |  Dept: 20:11",
             "status": "P-LT"
         },
         {
             "date": "2026-10-09",
-            "time": "11:52",
+            "time": "Arr: 11:52  |  Dept: 20:04",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-11",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:08",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "11:49",
+            "time": "Arr: 11:49  |  Dept: 19:33",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "11:51",
+            "time": "Arr: 11:51  |  Dept: 20:08",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "11:59",
+            "time": "Arr: 11:59  |  Dept: 20:05",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "11:47",
+            "time": "Arr: 11:47  |  Dept: 20:03",
             "status": "P"
         },
         {
             "date": "2026-10-16",
-            "time": "11:42",
+            "time": "Arr: 11:42  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "12:07",
+            "time": "Arr: 12:07  |  Dept: 20:03",
             "status": "P-LT"
         },
         {
             "date": "2026-10-18",
-            "time": "11:44",
+            "time": "Arr: 11:44  |  Dept: 15:16",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-21",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-22",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-23",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-24",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-25",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "12:13",
+            "time": "Arr: 12:13  |  Dept: 20:19",
             "status": "P-LT"
         },
         {
             "date": "2026-10-28",
-            "time": "12:27",
+            "time": "Arr: 12:27  |  Dept: --:--",
             "status": "P-LT"
         }
     ],
     "NAMAH0020": [
         {
             "date": "2026-10-01",
-            "time": "21:12",
+            "time": "Arr: 21:12  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-04",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-07",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-08",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-09",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-10",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-11",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-12",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-13",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-14",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-15",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-16",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-17",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-18",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-21",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-22",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-23",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-24",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-25",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-28",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         }
     ],
     "NAMAH0019": [
         {
             "date": "2026-10-01",
-            "time": "12:17",
+            "time": "Arr: 12:17  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "12:26",
+            "time": "Arr: 12:26  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-04",
-            "time": "13:40",
+            "time": "Arr: 13:40  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "12:27",
+            "time": "Arr: 12:27  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-07",
-            "time": "11:55",
+            "time": "Arr: 11:55  |  Dept: --:--",
             "status": "P/2"
         },
         {
             "date": "2026-10-08",
-            "time": "12:35",
+            "time": "Arr: 12:35  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-09",
-            "time": "13:01",
+            "time": "Arr: 13:01  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-10",
-            "time": "12:42",
+            "time": "Arr: 12:42  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-11",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-12",
-            "time": "13:18",
+            "time": "Arr: 13:18  |  Dept: --:--",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "12:25",
+            "time": "Arr: 12:25  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-14",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-15",
-            "time": "13:32",
+            "time": "Arr: 13:32  |  Dept: --:--",
             "status": "P/2"
         },
         {
             "date": "2026-10-16",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-17",
-            "time": "12:22",
+            "time": "Arr: 12:22  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-18",
-            "time": "12:01",
+            "time": "Arr: 12:01  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-19",
-            "time": "15:54",
+            "time": "Arr: 15:54  |  Dept: --:--",
             "status": "POW"
         },
         {
             "date": "2026-10-20",
-            "time": "12:38",
+            "time": "Arr: 12:38  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-21",
-            "time": "13:05",
+            "time": "Arr: 13:05  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-22",
-            "time": "13:23",
+            "time": "Arr: 13:23  |  Dept: --:--",
             "status": "P/2"
         },
         {
             "date": "2026-10-23",
-            "time": "12:09",
+            "time": "Arr: 12:09  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-24",
-            "time": "12:41",
+            "time": "Arr: 12:41  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-25",
-            "time": "12:24",
+            "time": "Arr: 12:24  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "13:18",
+            "time": "Arr: 13:18  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-28",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         }
     ],
     "NAMAH0013": [
         {
             "date": "2026-10-01",
-            "time": "11:48",
+            "time": "Arr: 11:48  |  Dept: 19:53",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-04",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "10:39",
+            "time": "Arr: 10:39  |  Dept: 20:34",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:33",
+            "time": "Arr: 11:33  |  Dept: 20:02",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:07",
+            "time": "Arr: 11:07  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "12:08",
+            "time": "Arr: 12:08  |  Dept: 20:07",
             "status": "P-LT"
         },
         {
             "date": "2026-10-10",
-            "time": "11:00",
+            "time": "Arr: 11:00  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-11",
-            "time": "11:13",
+            "time": "Arr: 11:13  |  Dept: 21:11",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "11:17",
+            "time": "Arr: 11:17  |  Dept: 18:50",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "11:27",
+            "time": "Arr: 11:27  |  Dept: 20:16",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "11:12",
+            "time": "Arr: 11:12  |  Dept: 21:17",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "11:18",
+            "time": "Arr: 11:18  |  Dept: 21:13",
             "status": "P"
         },
         {
             "date": "2026-10-16",
-            "time": "11:22",
+            "time": "Arr: 11:22  |  Dept: 20:10",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "13:02",
+            "time": "Arr: 13:02  |  Dept: 20:24",
             "status": "P-LT"
         },
         {
             "date": "2026-10-18",
-            "time": "11:41",
+            "time": "Arr: 11:41  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-21",
-            "time": "11:25",
+            "time": "Arr: 11:25  |  Dept: 20:20",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:28",
+            "time": "Arr: 11:28  |  Dept: 21:03",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "11:43",
+            "time": "Arr: 11:43  |  Dept: 20:38",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "11:35",
+            "time": "Arr: 11:35  |  Dept: 20:34",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "11:27",
+            "time": "Arr: 11:27  |  Dept: 20:45",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "11:32",
+            "time": "Arr: 11:32  |  Dept: 20:23",
             "status": "P"
         },
         {
             "date": "2026-10-28",
-            "time": "11:25",
+            "time": "Arr: 11:25  |  Dept: --:--",
             "status": "P"
         }
     ],
     "NAMAH0023": [
         {
             "date": "2026-10-01",
-            "time": "11:51",
+            "time": "Arr: 11:51  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-04",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "11:59",
+            "time": "Arr: 11:59  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:48",
+            "time": "Arr: 11:48  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:56",
+            "time": "Arr: 11:56  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-10",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-11",
-            "time": "11:48",
+            "time": "Arr: 11:48  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-13",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-14",
-            "time": "11:50",
+            "time": "Arr: 11:50  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-16",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-17",
-            "time": "12:17",
+            "time": "Arr: 12:17  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-18",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-21",
-            "time": "11:46",
+            "time": "Arr: 11:46  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:56",
+            "time": "Arr: 11:56  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "11:56",
+            "time": "Arr: 11:56  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "12:00",
+            "time": "Arr: 12:00  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-28",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: --:--",
             "status": "P"
         }
     ],
     "NAMAH0015": [
         {
             "date": "2026-10-01",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:07",
             "status": "P-LT"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: 20:08",
             "status": "P-LT"
         },
         {
             "date": "2026-10-04",
-            "time": "11:47",
+            "time": "Arr: 11:47  |  Dept: 22:01",
             "status": "P-LT"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "11:32",
+            "time": "Arr: 11:32  |  Dept: 20:38",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:52",
+            "time": "Arr: 11:52  |  Dept: 20:16",
             "status": "P-LT"
         },
         {
             "date": "2026-10-08",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-10",
-            "time": "11:34",
+            "time": "Arr: 11:34  |  Dept: 20:22",
             "status": "P"
         },
         {
             "date": "2026-10-11",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 21:19",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "11:49",
+            "time": "Arr: 11:49  |  Dept: 19:33",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:28",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "12:05",
+            "time": "Arr: 12:05  |  Dept: 20:50",
             "status": "P/2"
         },
         {
             "date": "2026-10-15",
-            "time": "12:00",
+            "time": "Arr: 12:00  |  Dept: 20:28",
             "status": "P-LT"
         },
         {
             "date": "2026-10-16",
-            "time": "11:21",
+            "time": "Arr: 11:21  |  Dept: 20:21",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "11:52",
+            "time": "Arr: 11:52  |  Dept: 20:17",
             "status": "P-LT"
         },
         {
             "date": "2026-10-18",
-            "time": "11:42",
+            "time": "Arr: 11:42  |  Dept: 20:39",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 18:33",
             "status": "P-LT"
         },
         {
             "date": "2026-10-21",
-            "time": "11:59",
+            "time": "Arr: 11:59  |  Dept: 20:12",
             "status": "P-LT"
         },
         {
             "date": "2026-10-22",
-            "time": "12:38",
+            "time": "Arr: 12:38  |  Dept: 20:22",
             "status": "P/2"
         },
         {
             "date": "2026-10-23",
-            "time": "12:12",
+            "time": "Arr: 12:12  |  Dept: 20:31",
             "status": "P-LT"
         },
         {
             "date": "2026-10-24",
-            "time": "11:37",
+            "time": "Arr: 11:37  |  Dept: 20:32",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "11:58",
+            "time": "Arr: 11:58  |  Dept: 20:31",
             "status": "P-LT"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "12:23",
+            "time": "Arr: 12:23  |  Dept: 20:25",
             "status": "P-LT"
         },
         {
             "date": "2026-10-28",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         }
     ],
     "NAMAH0014": [
         {
             "date": "2026-10-01",
-            "time": "11:15",
+            "time": "Arr: 11:15  |  Dept: 20:07",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "11:14",
+            "time": "Arr: 11:14  |  Dept: 20:09",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "11:22",
+            "time": "Arr: 11:22  |  Dept: 21:52",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-07",
-            "time": "11:31",
+            "time": "Arr: 11:31  |  Dept: 20:12",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:10",
+            "time": "Arr: 11:10  |  Dept: 20:31",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:13",
+            "time": "Arr: 11:13  |  Dept: 20:06",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "11:00",
+            "time": "Arr: 11:00  |  Dept: 20:19",
             "status": "P"
         },
         {
             "date": "2026-10-11",
-            "time": "11:13",
+            "time": "Arr: 11:13  |  Dept: 21:19",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "11:21",
+            "time": "Arr: 11:21  |  Dept: 19:32",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "11:27",
+            "time": "Arr: 11:27  |  Dept: 20:32",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "11:20",
+            "time": "Arr: 11:20  |  Dept: 20:49",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "11:19",
+            "time": "Arr: 11:19  |  Dept: 20:20",
             "status": "P"
         },
         {
             "date": "2026-10-16",
-            "time": "11:22",
+            "time": "Arr: 11:22  |  Dept: 20:23",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "11:49",
+            "time": "Arr: 11:49  |  Dept: 20:23",
             "status": "P-LT"
         },
         {
             "date": "2026-10-18",
-            "time": "11:32",
+            "time": "Arr: 11:32  |  Dept: 20:55",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "11:53",
+            "time": "Arr: 11:53  |  Dept: 17:36",
             "status": "P-LT"
         },
         {
             "date": "2026-10-21",
-            "time": "11:22",
+            "time": "Arr: 11:22  |  Dept: 20:12",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:21",
+            "time": "Arr: 11:21  |  Dept: 20:22",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-24",
-            "time": "11:26",
+            "time": "Arr: 11:26  |  Dept: 20:29",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "11:11",
+            "time": "Arr: 11:11  |  Dept: 20:19",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "11:17",
+            "time": "Arr: 11:17  |  Dept: 20:25",
             "status": "P"
         },
         {
             "date": "2026-10-28",
-            "time": "11:25",
+            "time": "Arr: 11:25  |  Dept: --:--",
             "status": "P"
         }
     ],
     "NAMAH0036": [
         {
             "date": "2026-10-01",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 20:50",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 20:50",
             "status": "POH"
         },
         {
             "date": "2026-10-03",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 20:50",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 20:50",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 20:50",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 20:50",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 20:50",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 20:50",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 20:50",
             "status": "P"
         },
         {
             "date": "2026-10-11",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 20:50",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 20:50",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "11:36",
+            "time": "Arr: 11:36  |  Dept: 20:16",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 21:00",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "21:00",
+            "time": "Arr: 21:00  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-16",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 20:11",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "11:39",
+            "time": "Arr: 11:39  |  Dept: 20:17",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "11:39",
+            "time": "Arr: 11:39  |  Dept: 20:39",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "18:34",
+            "time": "Arr: 18:34  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-21",
-            "time": "11:37",
+            "time": "Arr: 11:37  |  Dept: 20:12",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:42",
+            "time": "Arr: 11:42  |  Dept: 20:21",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "11:46",
+            "time": "Arr: 11:46  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "11:42",
+            "time": "Arr: 11:42  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "11:31",
+            "time": "Arr: 11:31  |  Dept: 20:24",
             "status": "P"
         },
         {
             "date": "2026-10-28",
-            "time": "11:45",
+            "time": "Arr: 11:45  |  Dept: --:--",
             "status": "P"
         }
     ],
     "NAMAH0012": [
         {
             "date": "2026-10-01",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 20:07",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "11:46",
+            "time": "Arr: 11:46  |  Dept: 20:02",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "10:28",
+            "time": "Arr: 10:28  |  Dept: 22:00",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "11:49",
+            "time": "Arr: 11:49  |  Dept: 21:00",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 20:33",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:31",
+            "time": "Arr: 11:31  |  Dept: 20:33",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 20:00",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "11:34",
+            "time": "Arr: 11:34  |  Dept: 20:05",
             "status": "P"
         },
         {
             "date": "2026-10-11",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 21:21",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "11:40",
+            "time": "Arr: 11:40  |  Dept: 19:31",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "11:32",
+            "time": "Arr: 11:32  |  Dept: 21:01",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "11:30",
+            "time": "Arr: 11:30  |  Dept: 20:50",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "11:33",
+            "time": "Arr: 11:33  |  Dept: 20:49",
             "status": "P"
         },
         {
             "date": "2026-10-16",
-            "time": "11:37",
+            "time": "Arr: 11:37  |  Dept: 20:12",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "11:39",
+            "time": "Arr: 11:39  |  Dept: 20:38",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "11:32",
+            "time": "Arr: 11:32  |  Dept: 20:38",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "11:53",
+            "time": "Arr: 11:53  |  Dept: 18:43",
             "status": "P"
         },
         {
             "date": "2026-10-21",
-            "time": "11:25",
+            "time": "Arr: 11:25  |  Dept: 20:08",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:27",
+            "time": "Arr: 11:27  |  Dept: 20:22",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "11:34",
+            "time": "Arr: 11:34  |  Dept: 20:25",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "11:42",
+            "time": "Arr: 11:42  |  Dept: 19:01",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "11:30",
+            "time": "Arr: 11:30  |  Dept: 20:29",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:24",
             "status": "P"
         },
         {
             "date": "2026-10-28",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: --:--",
             "status": "P"
         }
     ],
     "NAMAH0026": [
         {
             "date": "2026-10-01",
-            "time": "12:05",
+            "time": "Arr: 12:05  |  Dept: 19:58",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "12:06",
+            "time": "Arr: 12:06  |  Dept: 19:55",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "11:52",
+            "time": "Arr: 11:52  |  Dept: 20:03",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: 20:08",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: 20:03",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "12:02",
+            "time": "Arr: 12:02  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:59",
+            "time": "Arr: 11:59  |  Dept: 20:13",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-11",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:42",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "11:51",
+            "time": "Arr: 11:51  |  Dept: 19:36",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: 20:08",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "12:02",
+            "time": "Arr: 12:02  |  Dept: 20:05",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "11:31",
+            "time": "Arr: 11:31  |  Dept: 20:06",
             "status": "P"
         },
         {
             "date": "2026-10-16",
-            "time": "11:36",
+            "time": "Arr: 11:36  |  Dept: 20:20",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-18",
-            "time": "11:32",
+            "time": "Arr: 11:32  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "12:11",
+            "time": "Arr: 12:11  |  Dept: 17:44",
             "status": "P"
         },
         {
             "date": "2026-10-21",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: 20:11",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:47",
+            "time": "Arr: 11:47  |  Dept: 20:00",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "11:45",
+            "time": "Arr: 11:45  |  Dept: 20:12",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "11:51",
+            "time": "Arr: 11:51  |  Dept: 20:02",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "11:56",
+            "time": "Arr: 11:56  |  Dept: 19:49",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "11:39",
+            "time": "Arr: 11:39  |  Dept: 20:03",
             "status": "P"
         },
         {
             "date": "2026-10-28",
-            "time": "11:58",
+            "time": "Arr: 11:58  |  Dept: --:--",
             "status": "P"
         }
     ],
     "NAMAH0009": [
         {
             "date": "2026-10-01",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-04",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "11:27",
+            "time": "Arr: 11:27  |  Dept: 21:01",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:33",
+            "time": "Arr: 11:33  |  Dept: 21:04",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:42",
+            "time": "Arr: 11:42  |  Dept: 21:16",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:34",
+            "time": "Arr: 11:34  |  Dept: 17:16",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-11",
-            "time": "11:32",
+            "time": "Arr: 11:32  |  Dept: 21:24",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-13",
-            "time": "11:29",
+            "time": "Arr: 11:29  |  Dept: 21:17",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "11:41",
+            "time": "Arr: 11:41  |  Dept: 21:24",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-16",
-            "time": "11:27",
+            "time": "Arr: 11:27  |  Dept: 20:32",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "11:34",
+            "time": "Arr: 11:34  |  Dept: 20:59",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "11:44",
+            "time": "Arr: 11:44  |  Dept: 22:02",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-21",
-            "time": "11:38",
+            "time": "Arr: 11:38  |  Dept: 20:39",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:32",
+            "time": "Arr: 11:32  |  Dept: 20:52",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "11:33",
+            "time": "Arr: 11:33  |  Dept: 20:49",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "11:29",
+            "time": "Arr: 11:29  |  Dept: 21:05",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "12:04",
+            "time": "Arr: 12:04  |  Dept: 20:36",
             "status": "P-LT"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-28",
-            "time": "11:25",
+            "time": "Arr: 11:25  |  Dept: --:--",
             "status": "P"
         }
     ],
     "NAMAH0042": [
         {
             "date": "2026-10-16",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-17",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-18",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-21",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-22",
-            "time": "15:11",
+            "time": "Arr: 15:11  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-23",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-24",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-25",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-28",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         }
     ],
     "NAMAH0037": [
         {
             "date": "2026-10-01",
-            "time": "11:16",
+            "time": "Arr: 11:16  |  Dept: 20:35",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "11:16",
+            "time": "Arr: 11:16  |  Dept: 20:35",
             "status": "POH"
         },
         {
             "date": "2026-10-03",
-            "time": "11:16",
+            "time": "Arr: 11:16  |  Dept: 20:35",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "11:16",
+            "time": "Arr: 11:16  |  Dept: 20:35",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:16",
+            "time": "Arr: 11:16  |  Dept: 20:35",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:16",
+            "time": "Arr: 11:16  |  Dept: 20:35",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:16",
+            "time": "Arr: 11:16  |  Dept: 20:35",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "11:16",
+            "time": "Arr: 11:16  |  Dept: 20:35",
             "status": "P"
         },
         {
             "date": "2026-10-11",
-            "time": "11:16",
+            "time": "Arr: 11:16  |  Dept: 20:35",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "11:16",
+            "time": "Arr: 11:16  |  Dept: 20:35",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "11:16",
+            "time": "Arr: 11:16  |  Dept: 20:35",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "11:16",
+            "time": "Arr: 11:16  |  Dept: 20:35",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "11:19",
+            "time": "Arr: 11:19  |  Dept: 20:23",
             "status": "P"
         },
         {
             "date": "2026-10-16",
-            "time": "11:22",
+            "time": "Arr: 11:22  |  Dept: 20:10",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "11:35",
+            "time": "Arr: 11:35  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-21",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-22",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-23",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-24",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-25",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-28",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         }
     ],
     "NAMAH0027": [
         {
             "date": "2026-10-01",
-            "time": "12:35",
+            "time": "Arr: 12:35  |  Dept: 19:56",
             "status": "P-LT"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "12:09",
+            "time": "Arr: 12:09  |  Dept: 19:55",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "12:08",
+            "time": "Arr: 12:08  |  Dept: 20:18",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "12:03",
+            "time": "Arr: 12:03  |  Dept: 18:11",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "12:14",
+            "time": "Arr: 12:14  |  Dept: 19:10",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "12:05",
+            "time": "Arr: 12:05  |  Dept: 20:10",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-10",
-            "time": "12:24",
+            "time": "Arr: 12:24  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-11",
-            "time": "11:53",
+            "time": "Arr: 11:53  |  Dept: 20:02",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "12:10",
+            "time": "Arr: 12:10  |  Dept: --:--",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "11:51",
+            "time": "Arr: 11:51  |  Dept: 20:11",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "12:34",
+            "time": "Arr: 12:34  |  Dept: 20:23",
             "status": "P-LT"
         },
         {
             "date": "2026-10-15",
-            "time": "11:59",
+            "time": "Arr: 11:59  |  Dept: 19:45",
             "status": "P"
         },
         {
             "date": "2026-10-16",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-17",
-            "time": "12:02",
+            "time": "Arr: 12:02  |  Dept: 19:53",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "12:07",
+            "time": "Arr: 12:07  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-21",
-            "time": "12:20",
+            "time": "Arr: 12:20  |  Dept: 20:07",
             "status": "P-LT"
         },
         {
             "date": "2026-10-22",
-            "time": "12:05",
+            "time": "Arr: 12:05  |  Dept: 19:52",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "12:15",
+            "time": "Arr: 12:15  |  Dept: 20:47",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "12:22",
+            "time": "Arr: 12:22  |  Dept: 20:02",
             "status": "P/2"
         },
         {
             "date": "2026-10-25",
-            "time": "12:20",
+            "time": "Arr: 12:20  |  Dept: 19:46",
             "status": "P-LT"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "12:13",
+            "time": "Arr: 12:13  |  Dept: 18:24",
             "status": "P"
         },
         {
             "date": "2026-10-28",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         }
     ],
     "NAMAH0039": [
         {
             "date": "2026-10-01",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:05",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:05",
             "status": "POH"
         },
         {
             "date": "2026-10-03",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:05",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:05",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:05",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:05",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:05",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:05",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:05",
             "status": "P"
         },
         {
             "date": "2026-10-11",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:05",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:05",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:05",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:05",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "11:53",
+            "time": "Arr: 11:53  |  Dept: 19:58",
             "status": "P"
         },
         {
             "date": "2026-10-16",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: 19:55",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: 17:04",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "11:55",
+            "time": "Arr: 11:55  |  Dept: 19:30",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "11:53",
+            "time": "Arr: 11:53  |  Dept: 17:36",
             "status": "P"
         },
         {
             "date": "2026-10-21",
-            "time": "11:53",
+            "time": "Arr: 11:53  |  Dept: 20:08",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-24",
-            "time": "12:01",
+            "time": "Arr: 12:01  |  Dept: 20:01",
             "status": "P-LT"
         },
         {
             "date": "2026-10-25",
-            "time": "11:51",
+            "time": "Arr: 11:51  |  Dept: 19:43",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "12:49",
+            "time": "Arr: 12:49  |  Dept: 19:32",
             "status": "P-LT"
         },
         {
             "date": "2026-10-28",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         }
     ],
     "NAMAH0008": [
         {
             "date": "2026-10-01",
-            "time": "11:13",
+            "time": "Arr: 11:13  |  Dept: 19:48",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "11:14",
+            "time": "Arr: 11:14  |  Dept: 19:45",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "10:28",
+            "time": "Arr: 10:28  |  Dept: 21:05",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-07",
-            "time": "11:08",
+            "time": "Arr: 11:08  |  Dept: 19:58",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:06",
+            "time": "Arr: 11:06  |  Dept: 20:31",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:12",
+            "time": "Arr: 11:12  |  Dept: 19:58",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "11:00",
+            "time": "Arr: 11:00  |  Dept: 20:09",
             "status": "P"
         },
         {
             "date": "2026-10-11",
-            "time": "11:13",
+            "time": "Arr: 11:13  |  Dept: 21:30",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "11:14",
+            "time": "Arr: 11:14  |  Dept: 19:12",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "11:05",
+            "time": "Arr: 11:05  |  Dept: 20:16",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "11:12",
+            "time": "Arr: 11:12  |  Dept: 20:56",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "11:02",
+            "time": "Arr: 11:02  |  Dept: 20:32",
             "status": "P"
         },
         {
             "date": "2026-10-16",
-            "time": "11:21",
+            "time": "Arr: 11:21  |  Dept: 20:29",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-18",
-            "time": "11:18",
+            "time": "Arr: 11:18  |  Dept: 20:50",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "11:53",
+            "time": "Arr: 11:53  |  Dept: 18:51",
             "status": "P-LT"
         },
         {
             "date": "2026-10-21",
-            "time": "11:20",
+            "time": "Arr: 11:20  |  Dept: 19:57",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:20",
+            "time": "Arr: 11:20  |  Dept: 20:30",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:32",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "11:26",
+            "time": "Arr: 11:26  |  Dept: 20:35",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "11:11",
+            "time": "Arr: 11:11  |  Dept: 20:06",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "11:08",
+            "time": "Arr: 11:08  |  Dept: 20:21",
             "status": "P"
         },
         {
             "date": "2026-10-28",
-            "time": "11:24",
+            "time": "Arr: 11:24  |  Dept: --:--",
             "status": "P"
         }
     ],
     "NAMAH0005": [
         {
             "date": "2026-10-01",
-            "time": "11:30",
+            "time": "Arr: 11:30  |  Dept: 20:34",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "HLD"
         },
         {
             "date": "2026-10-03",
-            "time": "11:30",
+            "time": "Arr: 11:30  |  Dept: 20:31",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "11:35",
+            "time": "Arr: 11:35  |  Dept: 21:57",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-07",
-            "time": "11:42",
+            "time": "Arr: 11:42  |  Dept: 20:51",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:32",
+            "time": "Arr: 11:32  |  Dept: 21:12",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:30",
             "status": "P-LT"
         },
         {
             "date": "2026-10-10",
-            "time": "11:50",
+            "time": "Arr: 11:50  |  Dept: 20:31",
             "status": "P-LT"
         },
         {
             "date": "2026-10-11",
-            "time": "12:28",
+            "time": "Arr: 12:28  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-12",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-13",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "A"
         },
         {
             "date": "2026-10-14",
-            "time": "11:20",
+            "time": "Arr: 11:20  |  Dept: 21:25",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "11:56",
+            "time": "Arr: 11:56  |  Dept: 20:46",
             "status": "P-LT"
         },
         {
             "date": "2026-10-16",
-            "time": "11:50",
+            "time": "Arr: 11:50  |  Dept: 20:38",
             "status": "P/2"
         },
         {
             "date": "2026-10-17",
-            "time": "11:36",
+            "time": "Arr: 11:36  |  Dept: 20:59",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "11:39",
+            "time": "Arr: 11:39  |  Dept: 21:30",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "18:39",
+            "time": "Arr: 18:39  |  Dept: --:--",
             "status": "P-LT"
         },
         {
             "date": "2026-10-21",
-            "time": "11:57",
+            "time": "Arr: 11:57  |  Dept: 20:50",
             "status": "P-LT"
         },
         {
             "date": "2026-10-22",
-            "time": "11:39",
+            "time": "Arr: 11:39  |  Dept: 20:40",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: 20:38",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "11:42",
+            "time": "Arr: 11:42  |  Dept: 20:58",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "11:39",
+            "time": "Arr: 11:39  |  Dept: 20:36",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "11:30",
+            "time": "Arr: 11:30  |  Dept: 20:53",
             "status": "P"
         },
         {
             "date": "2026-10-28",
-            "time": "11:39",
+            "time": "Arr: 11:39  |  Dept: --:--",
             "status": "P"
         }
     ],
     "NAMAH0034": [
         {
             "date": "2026-10-01",
-            "time": "11:15",
+            "time": "Arr: 11:15  |  Dept: 20:40",
             "status": "P"
         },
         {
             "date": "2026-10-02",
-            "time": "11:15",
+            "time": "Arr: 11:15  |  Dept: 20:40",
             "status": "POH"
         },
         {
             "date": "2026-10-03",
-            "time": "11:15",
+            "time": "Arr: 11:15  |  Dept: 20:40",
             "status": "P"
         },
         {
             "date": "2026-10-04",
-            "time": "11:15",
+            "time": "Arr: 11:15  |  Dept: 20:40",
             "status": "P"
         },
         {
             "date": "2026-10-05",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-06",
-            "time": "11:15",
+            "time": "Arr: 11:15  |  Dept: 20:40",
             "status": "P"
         },
         {
             "date": "2026-10-07",
-            "time": "11:15",
+            "time": "Arr: 11:15  |  Dept: 20:40",
             "status": "P"
         },
         {
             "date": "2026-10-08",
-            "time": "11:15",
+            "time": "Arr: 11:15  |  Dept: 20:40",
             "status": "P"
         },
         {
             "date": "2026-10-09",
-            "time": "11:15",
+            "time": "Arr: 11:15  |  Dept: 20:40",
             "status": "P"
         },
         {
             "date": "2026-10-10",
-            "time": "11:15",
+            "time": "Arr: 11:15  |  Dept: 20:40",
             "status": "P"
         },
         {
             "date": "2026-10-11",
-            "time": "11:15",
+            "time": "Arr: 11:15  |  Dept: 20:40",
             "status": "P"
         },
         {
             "date": "2026-10-12",
-            "time": "11:15",
+            "time": "Arr: 11:15  |  Dept: 20:40",
             "status": "POW"
         },
         {
             "date": "2026-10-13",
-            "time": "11:27",
+            "time": "Arr: 11:27  |  Dept: 20:45",
             "status": "P"
         },
         {
             "date": "2026-10-14",
-            "time": "11:19",
+            "time": "Arr: 11:19  |  Dept: 20:47",
             "status": "P"
         },
         {
             "date": "2026-10-15",
-            "time": "11:33",
+            "time": "Arr: 11:33  |  Dept: 21:00",
             "status": "P"
         },
         {
             "date": "2026-10-16",
-            "time": "11:29",
+            "time": "Arr: 11:29  |  Dept: 20:35",
             "status": "P"
         },
         {
             "date": "2026-10-17",
-            "time": "11:25",
+            "time": "Arr: 11:25  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-18",
-            "time": "11:27",
+            "time": "Arr: 11:27  |  Dept: 20:41",
             "status": "P"
         },
         {
             "date": "2026-10-19",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-20",
-            "time": "11:54",
+            "time": "Arr: 11:54  |  Dept: 18:29",
             "status": "P-LT"
         },
         {
             "date": "2026-10-21",
-            "time": "11:23",
+            "time": "Arr: 11:23  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-22",
-            "time": "11:29",
+            "time": "Arr: 11:29  |  Dept: 20:41",
             "status": "P"
         },
         {
             "date": "2026-10-23",
-            "time": "11:24",
+            "time": "Arr: 11:24  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-24",
-            "time": "11:29",
+            "time": "Arr: 11:29  |  Dept: --:--",
             "status": "P"
         },
         {
             "date": "2026-10-25",
-            "time": "11:41",
+            "time": "Arr: 11:41  |  Dept: 21:12",
             "status": "P"
         },
         {
             "date": "2026-10-26",
-            "time": "09:00",
+            "time": "Arr: --:--  |  Dept: --:--",
             "status": "WO"
         },
         {
             "date": "2026-10-27",
-            "time": "11:21",
+            "time": "Arr: 11:21  |  Dept: 20:28",
             "status": "P"
         },
         {
             "date": "2026-10-28",
-            "time": "11:27",
+            "time": "Arr: 11:27  |  Dept: --:--",
             "status": "P"
         }
     ]
