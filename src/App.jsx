@@ -1,5 +1,13 @@
 import React, { useState, useEffect } from 'react';
 
+// Helper function to hash password input using SHA-256
+async function hashPassword(password) {
+  const msgBuffer = new TextEncoder().encode(password);
+  const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
+  const hashArray = Array.from(new Uint8Array(hashBuffer));
+  return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+}
+
 export default function App() {
   const [attendanceData, setAttendanceData] = useState({});
   const [empId, setEmpId] = useState('');
@@ -14,18 +22,27 @@ export default function App() {
       .catch(err => console.error("Error loading attendance data:", err));
   }, []);
 
-  const handleLogin = (e) => {
+  const handleLogin = async (e) => {
     e.preventDefault();
     if (!empId.trim()) {
       setError('Please enter Employee ID');
       return;
     }
     const cleanId = empId.trim().toUpperCase();
-    if (attendanceData[cleanId]) {
+    const empRecord = attendanceData[cleanId];
+
+    if (!empRecord) {
+      setError('Invalid Employee ID');
+      return;
+    }
+
+    // Hash entered password and compare with stored pin_hash
+    const hashedInput = await hashPassword(password);
+    if (hashedInput === empRecord.pin_hash) {
       setLoggedInEmp(cleanId);
       setError('');
     } else {
-      setError('Invalid Employee ID');
+      setError('Incorrect Password / PIN');
     }
   };
 
@@ -40,7 +57,7 @@ export default function App() {
       <div className="min-h-screen bg-gray-50 flex flex-col justify-center py-12 sm:px-6 lg:px-8">
         <div className="sm:mx-auto sm:w-full sm:max-w-md">
           <h2 className="text-center text-3xl font-extrabold text-gray-900">Office Attendance</h2>
-          <p className="mt-2 text-center text-sm text-gray-600">Check your punch logs & summary from your phone</p>
+          <p className="mt-2 text-center text-sm text-gray-600">Enter your Employee ID & PIN to check attendance</p>
         </div>
 
         <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
@@ -66,9 +83,10 @@ export default function App() {
                 <div className="mt-1">
                   <input
                     type="password"
+                    required
                     value={password}
                     onChange={(e) => setPassword(e.target.value)}
-                    placeholder="••••••••"
+                    placeholder="•••• (Default is 1234)"
                     className="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
                   />
                 </div>

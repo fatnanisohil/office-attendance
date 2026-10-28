@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 import os
+import hashlib
 
 excel_path = 'attendance_report.xlsx'
 
@@ -14,7 +15,7 @@ shift_timings = {
     "007": "12:30 - 21:30"
 }
 
-print("1. Reading department sheets and extracting employee details, shifts & summary totals...")
+print("1. Reading department sheets and extracting employee details, shifts & password hashes...")
 try:
     xls = pd.ExcelFile(excel_path)
     attendance_data = {}
@@ -50,6 +51,9 @@ try:
                 leave = str(df.iloc[i, 23]).strip() if len(df.columns) > 23 and pd.notna(df.iloc[i, 23]) else "0"
                 paiddays = str(df.iloc[i, 27]).strip() if len(df.columns) > 27 and pd.notna(df.iloc[i, 27]) else "0"
                 
+                # Default secure PIN hash for each employee (Default PIN is '1234')
+                default_pin_hash = hashlib.sha256("1234".encode('utf-8')).hexdigest()
+                
                 dates_row = df.iloc[i+1].values if i+1 < len(df) else []
                 arrive_row = df.iloc[i+2].values if i+2 < len(df) else []
                 dept_row = df.iloc[i+3].values if i+3 < len(df) else []
@@ -83,6 +87,7 @@ try:
                     "name": name,
                     "designation": desig,
                     "shift": f"Shift {shift_code} ({shift_time})",
+                    "pin_hash": default_pin_hash,
                     "present": present,
                     "hl": hl,
                     "wo": wo,
@@ -101,7 +106,7 @@ try:
     with open(output_path, 'w') as f:
         json.dump(attendance_data, f, indent=4)
 
-    print("2. Success! attendance.json generated with shift timings and summary totals.")
+    print("2. Success! attendance.json generated securely with password hashes.")
 
 except Exception as e:
     print("CRITICAL ERROR:", e)
