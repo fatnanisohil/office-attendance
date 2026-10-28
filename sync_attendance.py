@@ -4,7 +4,17 @@ import os
 
 excel_path = 'attendance_report.xlsx'
 
-print("1. Reading department sheets and extracting employee details & summary totals...")
+shift_timings = {
+    "001": "11:00 - 20:00",
+    "002": "11:15 - 20:15",
+    "003": "11:30 - 20:30",
+    "004": "11:45 - 20:45",
+    "005": "12:00 - 21:00",
+    "006": "12:15 - 21:15",
+    "007": "12:30 - 21:30"
+}
+
+print("1. Reading department sheets and extracting employee details, shifts & summary totals...")
 try:
     xls = pd.ExcelFile(excel_path)
     attendance_data = {}
@@ -20,7 +30,19 @@ try:
                 name = str(df.iloc[i, 3]).strip() if pd.notna(df.iloc[i, 3]) else ""
                 desig = str(df.iloc[i, 9]).strip() if len(df.columns) > 9 and pd.notna(df.iloc[i, 9]) else ""
                 
-                # Summary totals from your Excel sheet layout
+                shift_code = "001"
+                for r in range(i, min(i+10, len(df))):
+                    row_label = df.iloc[r, 2] if len(df.columns) > 2 else None
+                    if row_label == "Shift":
+                        for c in range(3, len(df.columns)):
+                            sc = df.iloc[r, c]
+                            if pd.notna(sc) and str(sc).strip() in shift_timings:
+                                shift_code = str(sc).strip()
+                                break
+                        break
+                
+                shift_time = shift_timings.get(shift_code, "11:00 - 20:00")
+                
                 present = str(df.iloc[i, 14]).strip() if len(df.columns) > 14 and pd.notna(df.iloc[i, 14]) else "0"
                 hl = str(df.iloc[i, 17]).strip() if len(df.columns) > 17 and pd.notna(df.iloc[i, 17]) else "0"
                 wo = str(df.iloc[i, 19]).strip() if len(df.columns) > 19 and pd.notna(df.iloc[i, 19]) else "0"
@@ -60,6 +82,7 @@ try:
                 attendance_data[emp_id] = {
                     "name": name,
                     "designation": desig,
+                    "shift": f"Shift {shift_code} ({shift_time})",
                     "present": present,
                     "hl": hl,
                     "wo": wo,
@@ -78,7 +101,7 @@ try:
     with open(output_path, 'w') as f:
         json.dump(attendance_data, f, indent=4)
 
-    print("2. Success! attendance.json generated with employee details and summary totals.")
+    print("2. Success! attendance.json generated with shift timings and summary totals.")
 
 except Exception as e:
     print("CRITICAL ERROR:", e)
