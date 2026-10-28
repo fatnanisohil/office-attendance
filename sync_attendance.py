@@ -5,6 +5,48 @@ import hashlib
 
 excel_path = 'attendance_report.xlsx'
 
+# Define custom passwords for each employee here!
+# (If an employee ID is not listed here, it automatically falls back to '1234')
+employee_passwords = {
+    "NAMAH0001" : "NAMAH0001",
+    "NAMAH0002" : "NAMAH0002",
+    "NAMAH0005" : "NAMAH0005",
+    "NAMAH0006" : "NAMAH0006",
+    "NAMAH0007" : "NAMAH0007",
+    "NAMAH0008" : "NAMAH0008",
+    "NAMAH0009" : "NAMAH0009",
+    "NAMAH0011" : "NAMAH0011",
+    "NAMAH0012" : "NAMAH0012",
+    "NAMAH0013" : "NAMAH0013",
+    "NAMAH0014" : "NAMAH0014",
+    "NAMAH0015" : "NAMAH0015",
+    "NAMAH0017" : "NAMAH0017",
+    "NAMAH0019" : "NAMAH0019",
+    "NAMAH0020" : "NAMAH0020",
+    "NAMAH0021" : "NAMAH0021",
+    "NAMAH0023" : "NAMAH0023",
+    "NAMAH0025" : "NAMAH0025",
+    "NAMAH0026" : "NAMAH0026",
+    "NAMAH0027" : "NAMAH0027",
+    "NAMAH0028" : "NAMAH0028",
+    "NAMAH0028" : "NAMAH0028",
+    "NAMAH0029" : "NAMAH0029",
+    "NAMAH0030" : "NAMAH0030",
+    "NAMAH0031" : "NAMAH0031",
+    "NAMAH0032" : "NAMAH0032",
+    "NAMAH0033" : "NAMAH0033",
+    "NAMAH0034" : "NAMAH0034",
+    "NAMAH0035" : "NAMAH0035",
+    "NAMAH0036" : "NAMAH0036",
+    "NAMAH0037" : "NAMAH0037",
+    "NAMAH0038" : "NAMAH0038",
+    "NAMAH0040" : "NAMAH0040",
+    "NAMAH0041" : "NAMAH0041",
+    "NAMAH0042" : "NAMAH0042",
+    # Ad" : "NAMAH0042",d any other employee IDs and their unique PINs here:
+    # "NAMAH0001": "1122",
+}
+
 shift_timings = {
     "001": "11:00 - 20:00",
     "002": "11:15 - 20:15",
@@ -51,8 +93,9 @@ try:
                 leave = str(df.iloc[i, 23]).strip() if len(df.columns) > 23 and pd.notna(df.iloc[i, 23]) else "0"
                 paiddays = str(df.iloc[i, 27]).strip() if len(df.columns) > 27 and pd.notna(df.iloc[i, 27]) else "0"
                 
-                # Default secure PIN hash for each employee (Default PIN is '1234')
-                default_pin_hash = hashlib.sha256("1234".encode('utf-8')).hexdigest()
+                # Fetch custom password from dictionary, or fallback to '1234'
+                raw_pin = employee_passwords.get(emp_id, "1234")
+                pin_hash = hashlib.sha256(raw_pin.encode('utf-8')).hexdigest()
                 
                 dates_row = df.iloc[i+1].values if i+1 < len(df) else []
                 arrive_row = df.iloc[i+2].values if i+2 < len(df) else []
@@ -87,7 +130,7 @@ try:
                     "name": name,
                     "designation": desig,
                     "shift": f"Shift {shift_code} ({shift_time})",
-                    "pin_hash": default_pin_hash,
+                    "pin_hash": pin_hash,
                     "present": present,
                     "hl": hl,
                     "wo": wo,
@@ -106,7 +149,7 @@ try:
     with open(output_path, 'w') as f:
         json.dump(attendance_data, f, indent=4)
 
-    print("2. Success! attendance.json generated securely with password hashes.")
+    print("2. Success! attendance.json generated with individual employee passwords.")
 
 except Exception as e:
     print("CRITICAL ERROR:", e)
