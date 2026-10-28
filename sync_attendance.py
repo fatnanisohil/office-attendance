@@ -1,38 +1,65 @@
-import pyodbc
+import pandas as pd
 import json
 import os
 
-# PASTE YOUR ACTUAL DATABASE PATH HERE:
-db_path = r'C:\Realtime\Database.accdb'
-conn_str = fr'DRIVER={{Microsoft Access Driver (*.mdb, *.accdb)}};DBQ={db_path};'
+excel_path = 'attendance_report.xlsx'
 
+print("1. Reading all sheets and extracting Arrived & Dept times...")
 try:
-    conn = pyodbc.connect(conn_str)
-    cursor = conn.cursor()
-
-    # Query the attendance table (Adjust table/column names if your software uses different names)
-    cursor.execute('SELECT EmployeeID, PunchDate, PunchTime, Status FROM AttendanceTable')
-    rows = cursor.fetchall()
-
+    xls = pd.ExcelFile(excel_path)
     attendance_data = {}
+    
+    for sheet_name in xls.sheet_names:
+        df = pd.read_excel(excel_path, sheet_name=sheet_name, header=None)
+        
+        i = 0
+        while i < len(df):
+            val = df.iloc[i, 2] if len(df.columns) > 2 else None
+            if isinstance(val, str) and val.startswith("NAMAH"):
+                emp_id = val.strip()
+                
+                dates_row = df.iloc[i+1].values if i+1 < len(df) else []
+                arrive_row = df.iloc[i+2].values if i+2 < len(df) else []
+                dept_row = df.iloc[i+3].values if i+3 < len(df) else []
+                status_row = df.iloc[i+6].values if i+6 < len(df) else []
+                
+                emp_records = []
+                for col_idx in range(3, len(dates_row)):
+                    day_val = dates_row[col_idx]
+                    if pd.notna(day_val):
+                        try:
+                            day_num = str(int(day_val)).zfill(2)
+                            date_str = f"2026-10-{day_num}"
+                            
+                            arr_val = arrive_row[col_idx] if col_idx < len(arrive_row) else "00:00"
+                            dep_val = dept_row[col_idx] if col_idx < len(dept_row) else "00:00"
+                            s_val = status_row[col_idx] if col_idx < len(status_row) else "A"
+                            
+                            arr_str = str(arr_val).strip() if pd.notna(arr_val) and str(arr_val).strip() != "00:00" else "--:--"
+                            dep_str = str(dep_val).strip() if pd.notna(dep_val) and str(dep_val).strip() != "00:00" else "--:--"
+                            status_str = str(s_val).strip() if pd.notna(s_val) else "A"
+                            
+                            emp_records.append({
+                                "date": date_str,
+                                "time": f"Arr: {arr_str}  |  Dept: {dep_str}",
+                                "status": status_str
+                            })
+                        except:
+                            pass
+                            
+                if emp_records:
+                    attendance_data[emp_id] = emp_records
+                    
+            i += 1
 
-    for row in rows:
-        emp_id = str(row.EmployeeID)
-        if emp_id not in attendance_data:
-            attendance_data[emp_id] = []
-
-        attendance_data[emp_id].append({
-            "date": str(row.PunchDate),
-            "time": str(row.PunchTime),
-            "status": str(row.Status)
-        })
-
-    # Save this data automatically into your React project's public folder
-    output_path = os.path.join(os.getcwd(), 'public', 'attendance.json')
+    public_dir = os.path.join(os.getcwd(), 'public')
+    os.makedirs(public_dir, exist_ok=True)
+    output_path = os.path.join(public_dir, 'attendance.json')
+    
     with open(output_path, 'w') as f:
         json.dump(attendance_data, f, indent=4)
 
-    print("Success! attendance.json generated.")
+    print("2. Success! attendance.json generated with both Arrived & Dept times.")
 
 except Exception as e:
-    print("Error reading database:", e)
+    print("CRITICAL ERROR:", e)
