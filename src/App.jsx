@@ -15,6 +15,14 @@ export default function App() {
   const [loggedInEmp, setLoggedInEmp] = useState(null);
   const [error, setError] = useState('');
 
+  // Admin states
+  const [showAdminLogin, setShowAdminLogin] = useState(false);
+  const [isAdminAuthenticated, setIsAdminAuthenticated] = useState(false);
+  const [adminPassword, setAdminPassword] = useState('');
+  const [adminError, setAdminError] = useState('');
+  const [searchTerm, setSearchTerm] = useState('');
+  const [selectedEmployee, setSelectedEmployee] = useState(null);
+
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}attendance.json`)
       .then(res => res.json())
@@ -36,7 +44,6 @@ export default function App() {
       return;
     }
 
-    // Hash entered password and compare with stored pin_hash
     const hashedInput = await hashPassword(password);
     if (hashedInput === empRecord.pin_hash) {
       setLoggedInEmp(cleanId);
@@ -52,12 +59,190 @@ export default function App() {
     setPassword('');
   };
 
+  const handleAdminLogin = (e) => {
+    e.preventDefault();
+    if (adminPassword === "admin123") {
+      setIsAdminAuthenticated(true);
+      setAdminError('');
+    } else {
+      setAdminError('Incorrect admin password!');
+    }
+  };
+
+  const exportToCSV = () => {
+    let csvContent = "data:text/csv;charset=utf-8,";
+    csvContent += "Employee ID,Name,Designation,Shift,Present Days,Paid Days,Absent,Leaves,Weekly Offs\n";
+
+    Object.entries(attendanceData).forEach(([id, data]) => {
+      csvContent += `"${id}","${data.name}","${data.designation}","${data.shift}","${data.present}","${data.paiddays}","${data.absent}","${data.leave}","${data.wo}"\n`;
+    });
+
+    const encodedUri = encodeURI(csvContent);
+    const link = document.createElement("a");
+    link.setAttribute("href", encodedUri);
+    link.setAttribute("download", "master_salary_attendance.csv");
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
+
+  // 1. Admin Dashboard View
+  if (isAdminAuthenticated) {
+    const filteredEmployees = Object.entries(attendanceData).filter(([id, data]) =>
+      (data.name && data.name.toLowerCase().includes(searchTerm.toLowerCase())) ||
+      id.toLowerCase().includes(searchTerm.toLowerCase())
+    );
+
+    return (
+      <div style={{ padding: '20px', maxWidth: '1200px', margin: '0 auto', fontFamily: 'Arial, sans-serif', backgroundColor: '#f3f4f6', minHeight: '100vh' }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '20px', background: 'white', padding: '15px 20px', borderRadius: '8px', boxShadow: '0 2px 4px rgba(0,0,0,0.05)' }}>
+          <h2 style={{ margin: 0, fontSize: '20px', color: '#111827' }}>Namah Jewellers - Master Attendance & Salary Panel</h2>
+          <div>
+            <button onClick={exportToCSV} style={{ marginRight: '10px', padding: '8px 15px', background: '#10b981', color: 'white', border: 'none', borderRadius: '4px', cursor: 'pointer', fontWeight: 'bold' }}>
+              Download Payroll CSV
+            </button>
+            <button onClick={() => { setIsAdminAuthenticated(false); setShowAdminLogin(false); }} style={{ padding: '8px 15px', background: '#6b7280', color: 'white', border: 'none', borderRadius: '4px', cursor: 'pointer' }}>
+              Logout
+            </button>
+          </div>
+        </div>
+
+        <input
+          type="text"
+          placeholder="Search by Employee ID or Name..."
+          value={searchTerm}
+          onChange={(e) => setSearchTerm(e.target.value)}
+          style={{ width: '100%', padding: '12px', marginBottom: '20px', boxSizing: 'border-box', borderRadius: '6px', border: '1px solid #d1d5db', backgroundColor: 'white' }}
+        />
+
+        <div style={{ overflowX: 'auto', background: 'white', borderRadius: '8px', boxShadow: '0 2px 5px rgba(0,0,0,0.05)' }}>
+          <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left' }}>
+            <thead>
+              <tr style={{ background: '#374151', color: 'white' }}>
+                <th style={{ padding: '12px' }}>Emp ID</th>
+                <th style={{ padding: '12px' }}>Name</th>
+                <th style={{ padding: '12px' }}>Designation</th>
+                <th style={{ padding: '12px' }}>Shift</th>
+                <th style={{ padding: '12px' }}>Present</th>
+                <th style={{ padding: '12px' }}>Paid Days</th>
+                <th style={{ padding: '12px' }}>Absent</th>
+                <th style={{ padding: '12px' }}>Leaves</th>
+                <th style={{ padding: '12px' }}>Action</th>
+              </tr>
+            </thead>
+            <tbody>
+              {filteredEmployees.length > 0 ? (
+                filteredEmployees.map(([id, data]) => (
+                  <tr key={id} style={{ borderBottom: '1px solid #e5e7eb' }}>
+                    <td style={{ padding: '12px' }}>{id}</td>
+                    <td style={{ padding: '12px', fontWeight: 'bold' }}>{data.name}</td>
+                    <td style={{ padding: '12px' }}>{data.designation}</td>
+                    <td style={{ padding: '12px' }}>{data.shift}</td>
+                    <td style={{ padding: '12px', color: '#059669', fontWeight: 'bold' }}>{data.present}</td>
+                    <td style={{ padding: '12px', color: '#2563eb', fontWeight: 'bold' }}>{data.paiddays}</td>
+                    <td style={{ padding: '12px', color: '#dc2626' }}>{data.absent}</td>
+                    <td style={{ padding: '12px' }}>{data.leave}</td>
+                    <td style={{ padding: '12px' }}>
+                      <button
+                        onClick={() => setSelectedEmployee({ empId: id, ...data })}
+                        style={{ padding: '6px 12px', background: '#0284c7', color: 'white', border: 'none', borderRadius: '4px', cursor: 'pointer' }}
+                      >
+                        View Logs
+                      </button>
+                    </td>
+                  </tr>
+                ))
+              ) : (
+                <tr>
+                  <td colSpan="9" style={{ padding: '20px', textAlign: 'center', color: '#6b7280' }}>No employees found.</td>
+                </tr>
+              )}
+            </tbody>
+          </table>
+        </div>
+
+        {selectedEmployee && (
+          <div style={{ position: 'fixed', top: 0, left: 0, width: '100%', height: '100%', background: 'rgba(0,0,0,0.5)', display: 'flex', justifyContent: 'center', alignItems: 'center', zIndex: 1000 }}>
+            <div style={{ background: 'white', padding: '25px', borderRadius: '8px', width: '90%', maxWidth: '600px', maxHeight: '80vh', overflowY: 'auto' }}>
+              <h3>Detailed Logs: {selectedEmployee.name} ({selectedEmployee.empId})</h3>
+              <p><strong>Designation:</strong> {selectedEmployee.designation} | <strong>Paid Days:</strong> {selectedEmployee.paiddays}</p>
+              <hr style={{ margin: '15px 0' }} />
+              <h4>Punch Records:</h4>
+              <ul style={{ listStyle: 'none', padding: 0 }}>
+                {selectedEmployee.records.map((rec, index) => (
+                  <li key={index} style={{ padding: '8px 0', borderBottom: '1px solid #eee', display: 'flex', justifyContent: 'space-between' }}>
+                    <span>{rec.date}</span>
+                    <span>{rec.time}</span>
+                    <span style={{ fontWeight: 'bold', color: rec.status === 'A' ? 'red' : 'green' }}>{rec.status}</span>
+                  </li>
+                ))}
+              </ul>
+              <button
+                onClick={() => setSelectedEmployee(null)}
+                style={{ marginTop: '20px', padding: '10px 20px', background: '#dc2626', color: 'white', border: 'none', borderRadius: '4px', cursor: 'pointer', width: '100%' }}
+              >
+                Close
+              </button>
+            </div>
+          </div>
+        )}
+      </div>
+    );
+  }
+
+  // 2. Admin Login View
+  if (showAdminLogin) {
+    return (
+      <div className="min-h-screen bg-gray-50 flex flex-col justify-center py-12 sm:px-6 lg:px-8">
+        <div className="sm:mx-auto sm:w-full sm:max-w-md">
+          <h2 className="text-center text-3xl font-extrabold text-gray-900">Admin Master Login</h2>
+        </div>
+        <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
+          <div className="bg-white py-8 px-4 shadow sm:rounded-lg sm:px-10">
+            <form className="space-y-6" onSubmit={handleAdminLogin}>
+              {adminError && <div className="bg-red-50 border-l-4 border-red-400 p-4 text-sm text-red-700">{adminError}</div>}
+              <div>
+                <label className="block text-sm font-medium text-gray-700">Master Password</label>
+                <div className="mt-1">
+                  <input
+                    type="password"
+                    required
+                    value={adminPassword}
+                    onChange={(e) => setAdminPassword(e.target.value)}
+                    placeholder="Enter admin password"
+                    className="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
+                  />
+                </div>
+              </div>
+              <div className="flex flex-col space-y-3">
+                <button
+                  type="submit"
+                  className="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none"
+                >
+                  Login to Admin Panel
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setShowAdminLogin(false)}
+                  className="w-full flex justify-center py-2 px-4 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50"
+                >
+                  Back to Employee Login
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  // 3. Employee Login View
   if (!loggedInEmp) {
     return (
       <div className="min-h-screen bg-gray-50 flex flex-col justify-center py-12 sm:px-6 lg:px-8">
         <div className="sm:mx-auto sm:w-full sm:max-w-md">
           <h2 className="text-center text-3xl font-extrabold text-gray-900">Office Attendance</h2>
-          <p className="mt-2 text-center text-sm text-gray-600">Enter your Employee ID & PIN to check attendance</p>
+          <p className="mt-2 text-center text-sm text-gray-600">Check your punch logs & summary from your phone</p>
         </div>
 
         <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
@@ -86,18 +271,25 @@ export default function App() {
                     required
                     value={password}
                     onChange={(e) => setPassword(e.target.value)}
-                    placeholder="•••• (Default is ....)"
+                    placeholder="•••• (Default is 1234)"
                     className="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
                   />
                 </div>
               </div>
 
-              <div>
+              <div className="flex flex-col space-y-3">
                 <button
                   type="submit"
-                  className="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+                  className="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none"
                 >
                   Sign In
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setShowAdminLogin(true)}
+                  className="w-full flex justify-center py-2 px-4 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-indigo-600 bg-white hover:bg-gray-50"
+                >
+                  🔐 Admin Portal (Salary & Master Summary)
                 </button>
               </div>
             </form>
@@ -107,6 +299,7 @@ export default function App() {
     );
   }
 
+  // 4. Logged-in Employee Dashboard View
   const empInfo = attendanceData[loggedInEmp] || {};
   const records = empInfo.records || [];
 
