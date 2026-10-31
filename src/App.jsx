@@ -23,12 +23,26 @@ export default function App() {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedEmployee, setSelectedEmployee] = useState(null);
 
+  // Store editable base salaries keyed by employee ID (e.g. { "NAMAH0033": 25000 })
+  const [baseSalaries, setBaseSalaries] = useState({});
+
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}attendance.json`)
       .then(res => res.json())
-      .then(data => setAttendanceData(data))
+      .then(data => {
+        setAttendanceData(data);
+        // Initialize default base salaries if stored in localStorage or set to 0
+        const savedSalaries = JSON.parse(localStorage.getItem('namah_base_salaries') || '{}');
+        setBaseSalaries(savedSalaries);
+      })
       .catch(err => console.error("Error loading attendance data:", err));
   }, []);
+
+  const handleBaseSalaryChange = (id, value) => {
+    const updated = { ...baseSalaries, [id]: value };
+    setBaseSalaries(updated);
+    localStorage.setItem('namah_base_salaries', JSON.stringify(updated));
+  };
 
   const handleLogin = async (e) => {
     e.preventDefault();
@@ -71,16 +85,21 @@ export default function App() {
 
   const exportToCSV = () => {
     let csvContent = "data:text/csv;charset=utf-8,";
-    csvContent += "Employee ID,Name,Designation,Shift,Present Days,Paid Days,Absent,Leaves,Weekly Offs\n";
+    csvContent += "Employee ID,Name,Designation,Shift,Present Days,Paid Days,Absent,Leaves,Weekly Offs,Base Salary,Calculated Salary\n";
 
     Object.entries(attendanceData).forEach(([id, data]) => {
-      csvContent += `"${id}","${data.name}","${data.designation}","${data.shift}","${data.present}","${data.paiddays}","${data.absent}","${data.leave}","${data.wo}"\n`;
+      const base = parseFloat(baseSalaries[id] || 0);
+      const paidDays = parseFloat(data.paiddays || 0);
+      // Assuming a standard 31-day month or proportional calculation
+      const calculatedSalary = Math.round((base / 31) * paidDays);
+
+      csvContent += `"${id}","${data.name}","${data.designation}","${data.shift}","${data.present}","${data.paiddays}","${data.absent}","${data.leave}","${data.wo}","${base}","${calculatedSalary}"\n`;
     });
 
     const encodedUri = encodeURI(csvContent);
     const link = document.createElement("a");
     link.setAttribute("href", encodedUri);
-    link.setAttribute("download", "master_salary_attendance.csv");
+    link.setAttribute("download", "master_payroll_salary_sheet.csv");
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -94,9 +113,9 @@ export default function App() {
     );
 
     return (
-      <div style={{ padding: '20px', maxWidth: '1200px', margin: '0 auto', fontFamily: 'Arial, sans-serif', backgroundColor: '#f3f4f6', minHeight: '100vh' }}>
+      <div style={{ padding: '20px', maxWidth: '1350px', margin: '0 auto', fontFamily: 'Arial, sans-serif', backgroundColor: '#f3f4f6', minHeight: '100vh' }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '20px', background: 'white', padding: '15px 20px', borderRadius: '8px', boxShadow: '0 2px 4px rgba(0,0,0,0.05)' }}>
-          <h2 style={{ margin: 0, fontSize: '20px', color: '#111827' }}>Namah Jewellers - Master Attendance & Salary Panel</h2>
+          <h2 style={{ margin: 0, fontSize: '20px', color: '#111827' }}>Namah Jewellers - Salary & Attendance Master Panel</h2>
           <div>
             <button onClick={exportToCSV} style={{ marginRight: '10px', padding: '8px 15px', background: '#10b981', color: 'white', border: 'none', borderRadius: '4px', cursor: 'pointer', fontWeight: 'bold' }}>
               Download Payroll CSV
@@ -116,45 +135,60 @@ export default function App() {
         />
 
         <div style={{ overflowX: 'auto', background: 'white', borderRadius: '8px', boxShadow: '0 2px 5px rgba(0,0,0,0.05)' }}>
-          <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left' }}>
+          <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left', fontSize: '14px' }}>
             <thead>
               <tr style={{ background: '#374151', color: 'white' }}>
                 <th style={{ padding: '12px' }}>Emp ID</th>
                 <th style={{ padding: '12px' }}>Name</th>
                 <th style={{ padding: '12px' }}>Designation</th>
-                <th style={{ padding: '12px' }}>Shift</th>
-                <th style={{ padding: '12px' }}>Present</th>
                 <th style={{ padding: '12px' }}>Paid Days</th>
                 <th style={{ padding: '12px' }}>Absent</th>
-                <th style={{ padding: '12px' }}>Leaves</th>
+                <th style={{ padding: '12px' }}>Base Monthly Salary (₹)</th>
+                <th style={{ padding: '12px' }}>Calculated Salary (₹)</th>
                 <th style={{ padding: '12px' }}>Action</th>
               </tr>
             </thead>
             <tbody>
               {filteredEmployees.length > 0 ? (
-                filteredEmployees.map(([id, data]) => (
-                  <tr key={id} style={{ borderBottom: '1px solid #e5e7eb' }}>
-                    <td style={{ padding: '12px' }}>{id}</td>
-                    <td style={{ padding: '12px', fontWeight: 'bold' }}>{data.name}</td>
-                    <td style={{ padding: '12px' }}>{data.designation}</td>
-                    <td style={{ padding: '12px' }}>{data.shift}</td>
-                    <td style={{ padding: '12px', color: '#059669', fontWeight: 'bold' }}>{data.present}</td>
-                    <td style={{ padding: '12px', color: '#2563eb', fontWeight: 'bold' }}>{data.paiddays}</td>
-                    <td style={{ padding: '12px', color: '#dc2626' }}>{data.absent}</td>
-                    <td style={{ padding: '12px' }}>{data.leave}</td>
-                    <td style={{ padding: '12px' }}>
-                      <button
-                        onClick={() => setSelectedEmployee({ empId: id, ...data })}
-                        style={{ padding: '6px 12px', background: '#0284c7', color: 'white', border: 'none', borderRadius: '4px', cursor: 'pointer' }}
-                      >
-                        View Logs
-                      </button>
-                    </td>
-                  </tr>
-                ))
+                filteredEmployees.map(([id, data]) => {
+                  const base = parseFloat(baseSalaries[id] || 0);
+                  const paidDays = parseFloat(data.paiddays || 0);
+                  // Calculation: (Base / 31 days) * Paid Days
+                  const calculatedSalary = Math.round((base / 31) * paidDays);
+
+                  return (
+                    <tr key={id} style={{ borderBottom: '1px solid #e5e7eb' }}>
+                      <td style={{ padding: '12px' }}>{id}</td>
+                      <td style={{ padding: '12px', fontWeight: 'bold' }}>{data.name}</td>
+                      <td style={{ padding: '12px' }}>{data.designation}</td>
+                      <td style={{ padding: '12px', color: '#2563eb', fontWeight: 'bold' }}>{data.paiddays}</td>
+                      <td style={{ padding: '12px', color: '#dc2626' }}>{data.absent}</td>
+                      <td style={{ padding: '12px' }}>
+                        <input
+                          type="number"
+                          placeholder="Enter salary"
+                          value={baseSalaries[id] || ''}
+                          onChange={(e) => handleBaseSalaryChange(id, e.target.value)}
+                          style={{ padding: '6px 8px', width: '130px', border: '1px solid #cbd5e1', borderRadius: '4px' }}
+                        />
+                      </td>
+                      <td style={{ padding: '12px', fontWeight: 'bold', color: '#059669' }}>
+                        ₹ {isNaN(calculatedSalary) ? 0 : calculatedSalary.toLocaleString('en-IN')}
+                      </td>
+                      <td style={{ padding: '12px' }}>
+                        <button
+                          onClick={() => setSelectedEmployee({ empId: id, ...data })}
+                          style={{ padding: '6px 12px', background: '#0284c7', color: 'white', border: 'none', borderRadius: '4px', cursor: 'pointer' }}
+                        >
+                          View Logs
+                        </button>
+                      </td>
+                    </tr>
+                  );
+                })
               ) : (
                 <tr>
-                  <td colSpan="9" style={{ padding: '20px', textAlign: 'center', color: '#6b7280' }}>No employees found.</td>
+                  <td colSpan="8" style={{ padding: '20px', textAlign: 'center', color: '#6b7280' }}>No employees found.</td>
                 </tr>
               )}
             </tbody>
