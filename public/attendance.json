@@ -4,12 +4,12 @@
         "designation": "Accountant",
         "shift": "Shift 001 (11:00 - 20:00)",
         "pin_hash": "e7d2bb55fcab5255297b05f1eb93613a7467000850b3159dd073a581523ba1db",
-        "present": "12",
+        "present": "13",
         "hl": "1",
         "wo": "4",
-        "absent": "14",
+        "absent": "13",
         "leave": "0",
-        "paiddays": "17",
+        "paiddays": "18",
         "records": [
             {
                 "date": "2026-10-01",
@@ -153,8 +153,8 @@
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 14:22  |  Dept: --:--",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-30",
@@ -173,12 +173,12 @@
         "designation": "Junior Accountant",
         "shift": "Shift 003 (11:30 - 20:30)",
         "pin_hash": "bc9c98644b6808dab002de3e2da6bf2f4bec1d1ff5712eca9e528a42861cb1b4",
-        "present": "21.5",
+        "present": "23",
         "hl": "1",
         "wo": "4",
-        "absent": "4.5",
+        "absent": "3",
         "leave": "0",
-        "paiddays": "26.5",
+        "paiddays": "28",
         "records": [
             {
                 "date": "2026-10-01",
@@ -317,23 +317,23 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 11:54  |  Dept: --:--",
+                "time": "Arr: 11:54  |  Dept: 21:03",
                 "status": "P-LT"
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:59  |  Dept: --:--",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:49  |  Dept: 20:53",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-31",
                 "time": "Arr: 11:57  |  Dept: --:--",
-                "status": "P-LT"
+                "status": "P/2"
             }
         ]
     },
@@ -342,12 +342,12 @@
         "designation": "Senior Accountant",
         "shift": "Shift 005 (12:00 - 21:00)",
         "pin_hash": "e200b617587d508b76d75cf78da44bcf9588d912441aa9e9ced6d27f38a91c1b",
-        "present": "18.5",
+        "present": "19.5",
         "hl": "1",
         "wo": "4",
-        "absent": "7.5",
+        "absent": "6.5",
         "leave": "0",
-        "paiddays": "23.5",
+        "paiddays": "24.5",
         "records": [
             {
                 "date": "2026-10-01",
@@ -486,13 +486,13 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 12:08  |  Dept: --:--",
+                "time": "Arr: 12:08  |  Dept: 21:03",
                 "status": "P"
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 12:24  |  Dept: --:--",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-30",
@@ -511,12 +511,12 @@
         "designation": "Senior Accountant",
         "shift": "Shift 004 (11:45 - 20:45)",
         "pin_hash": "802a81cad66c2a85f825e14200a72870e8e1fcf355a1958ac802d20b8fc227dd",
-        "present": "22",
+        "present": "23.5",
         "hl": "1",
         "wo": "4",
-        "absent": "4",
+        "absent": "2.5",
         "leave": "0",
-        "paiddays": "27",
+        "paiddays": "28.5",
         "records": [
             {
                 "date": "2026-10-01",
@@ -655,18 +655,18 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 11:53  |  Dept: --:--",
+                "time": "Arr: 11:53  |  Dept: 21:04",
                 "status": "P"
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:57  |  Dept: --:--",
+                "status": "P"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 12:12  |  Dept: 20:57",
+                "status": "P/2"
             },
             {
                 "date": "2026-10-31",
@@ -680,12 +680,12 @@
         "designation": "Accountant",
         "shift": "Shift 002 (11:15 - 20:15)",
         "pin_hash": "8648e75c72ef37fe30d2869a8557750e2665253fc227c1f935896f52c7c53103",
-        "present": "23",
+        "present": "25",
         "hl": "1",
         "wo": "4",
-        "absent": "3",
+        "absent": "1",
         "leave": "0",
-        "paiddays": "28",
+        "paiddays": "30",
         "records": [
             {
                 "date": "2026-10-01",
@@ -829,13 +829,13 @@
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:39  |  Dept: 17:37",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:20  |  Dept: 20:17",
+                "status": "P"
             },
             {
                 "date": "2026-10-31",
@@ -849,12 +849,12 @@
         "designation": "ADMIN",
         "shift": "Shift 004 (11:45 - 20:45)",
         "pin_hash": "e7675d91cf7fe9becc9bc70394f226d8379ccb10a1195339aa10aea09505974b",
-        "present": "24",
+        "present": "26",
         "hl": "1",
         "wo": "4",
-        "absent": "2",
+        "absent": "0",
         "leave": "0",
-        "paiddays": "29",
+        "paiddays": "31",
         "records": [
             {
                 "date": "2026-10-01",
@@ -993,18 +993,18 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 11:38  |  Dept: --:--",
+                "time": "Arr: 11:38  |  Dept: 21:02",
                 "status": "P"
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:57  |  Dept: 20:20",
+                "status": "P"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 12:58  |  Dept: --:--",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-31",
@@ -1018,12 +1018,12 @@
         "designation": "ADMIN",
         "shift": "Shift 004 (11:45 - 20:45)",
         "pin_hash": "84e27be989e0e385db25e3a4d3cefae60e2cfd76138e074ab5a1fe845c69e146",
-        "present": "23",
+        "present": "25",
         "hl": "1",
         "wo": "4",
-        "absent": "3",
+        "absent": "1",
         "leave": "0",
-        "paiddays": "28",
+        "paiddays": "30",
         "records": [
             {
                 "date": "2026-10-01",
@@ -1162,18 +1162,18 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 11:55  |  Dept: --:--",
+                "time": "Arr: 11:55  |  Dept: 20:34",
                 "status": "P"
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:52  |  Dept: 20:20",
+                "status": "P"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:56  |  Dept: 21:14",
+                "status": "P"
             },
             {
                 "date": "2026-10-31",
@@ -1187,12 +1187,12 @@
         "designation": "FIELDS",
         "shift": "Shift 003 (11:30 - 20:30)",
         "pin_hash": "05b5ceb0b923dc57516f3460b854ffcf3a98b7e19545a1946d345ffa77d4544c",
-        "present": "22",
+        "present": "24",
         "hl": "1",
         "wo": "4",
-        "absent": "4",
+        "absent": "2",
         "leave": "0",
-        "paiddays": "27",
+        "paiddays": "29",
         "records": [
             {
                 "date": "2026-10-01",
@@ -1336,13 +1336,13 @@
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 12:10  |  Dept: 19:58",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 12:02  |  Dept: 20:34",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-31",
@@ -1356,12 +1356,12 @@
         "designation": "FIELDS",
         "shift": "Shift 002 (11:15 - 20:15)",
         "pin_hash": "2296da6bee0ef1f744081eb54e16a25854a9442215e318655370b161720011ec",
-        "present": "13",
+        "present": "15",
         "hl": "1",
         "wo": "4",
-        "absent": "13",
+        "absent": "11",
         "leave": "0",
-        "paiddays": "18",
+        "paiddays": "20",
         "records": [
             {
                 "date": "2026-10-01",
@@ -1500,18 +1500,18 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 11:25  |  Dept: --:--",
+                "time": "Arr: 11:25  |  Dept: 20:09",
                 "status": "P"
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:39  |  Dept: --:--",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:20  |  Dept: 19:59",
+                "status": "P"
             },
             {
                 "date": "2026-10-31",
@@ -1525,12 +1525,12 @@
         "designation": "FIELDS",
         "shift": "Shift 004 (11:45 - 20:45)",
         "pin_hash": "a03f5538edf9a62c32d735e10db4a11cc6bf0a9873e643428acfc7a64cae64a1",
-        "present": "21",
+        "present": "21.5",
         "hl": "1",
         "wo": "4",
-        "absent": "5",
+        "absent": "4.5",
         "leave": "0",
-        "paiddays": "26",
+        "paiddays": "26.5",
         "records": [
             {
                 "date": "2026-10-01",
@@ -1674,8 +1674,8 @@
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 12:06  |  Dept: --:--",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-30",
@@ -1685,7 +1685,7 @@
             {
                 "date": "2026-10-31",
                 "time": "Arr: 12:05  |  Dept: --:--",
-                "status": "P-LT"
+                "status": "P/2"
             }
         ]
     },
@@ -1694,12 +1694,12 @@
         "designation": "FIELDS",
         "shift": "Shift 003 (11:30 - 20:30)",
         "pin_hash": "5d97d797491c15731ef9070279a9058a08a19a0333a449cf126070fbb000d643",
-        "present": "23",
+        "present": "25",
         "hl": "1",
         "wo": "4",
-        "absent": "3",
+        "absent": "1",
         "leave": "0",
-        "paiddays": "28",
+        "paiddays": "30",
         "records": [
             {
                 "date": "2026-10-01",
@@ -1838,18 +1838,18 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 11:27  |  Dept: --:--",
+                "time": "Arr: 11:27  |  Dept: 20:30",
                 "status": "P"
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:39  |  Dept: 17:59",
+                "status": "P"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:56  |  Dept: 20:32",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-31",
@@ -1863,12 +1863,12 @@
         "designation": "SENIOR ORDERS EXECUTIVE",
         "shift": "Shift 004 (11:45 - 20:45)",
         "pin_hash": "d0eee7448cf5bc6cc4adca44526eb900b9bcd7539c39df527037d4f7e41b164a",
-        "present": "22",
+        "present": "24",
         "hl": "1",
         "wo": "4",
-        "absent": "4",
+        "absent": "2",
         "leave": "0",
-        "paiddays": "27",
+        "paiddays": "29",
         "records": [
             {
                 "date": "2026-10-01",
@@ -2007,18 +2007,18 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 12:55  |  Dept: --:--",
+                "time": "Arr: 12:55  |  Dept: 21:07",
                 "status": "P-LT"
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 12:09  |  Dept: 20:21",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 12:36  |  Dept: 21:15",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-31",
@@ -2032,12 +2032,12 @@
         "designation": "SENIOR ORDERS EXECUTIVE",
         "shift": "Shift 002 (11:15 - 20:15)",
         "pin_hash": "14c92b0c99c9c3f84299ce44436bd4ecdbe8fd5cc4b76925d42c89409f45c561",
-        "present": "23",
+        "present": "25",
         "hl": "1",
         "wo": "4",
-        "absent": "3",
+        "absent": "1",
         "leave": "0",
-        "paiddays": "28",
+        "paiddays": "30",
         "records": [
             {
                 "date": "2026-10-01",
@@ -2181,13 +2181,13 @@
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:45  |  Dept: 20:20",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:20  |  Dept: 21:16",
+                "status": "P"
             },
             {
                 "date": "2026-10-31",
@@ -2201,12 +2201,12 @@
         "designation": "EXECUTIVE",
         "shift": "Shift 003 (11:30 - 20:30)",
         "pin_hash": "355788cc707292b8ebb9716df02c7c146a36bf4eede157211ed5400206357c94",
-        "present": "22.5",
+        "present": "24.5",
         "hl": "1",
         "wo": "4",
-        "absent": "3.5",
+        "absent": "1.5",
         "leave": "0",
-        "paiddays": "27.5",
+        "paiddays": "29.5",
         "records": [
             {
                 "date": "2026-10-01",
@@ -2350,13 +2350,13 @@
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:39  |  Dept: --:--",
+                "status": "P"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:39  |  Dept: --:--",
+                "status": "P"
             },
             {
                 "date": "2026-10-31",
@@ -2370,12 +2370,12 @@
         "designation": "EXECUTIVE",
         "shift": "Shift 003 (11:30 - 20:30)",
         "pin_hash": "9b25dd25c80d867f81c719a450ba1c6c68c63abab083da7bba666221e955f9b4",
-        "present": "19.5",
+        "present": "21",
         "hl": "1",
         "wo": "4",
-        "absent": "6.5",
+        "absent": "5",
         "leave": "0",
-        "paiddays": "24.5",
+        "paiddays": "26",
         "records": [
             {
                 "date": "2026-10-01",
@@ -2519,13 +2519,13 @@
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 13:08  |  Dept: 20:20",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 13:32  |  Dept: --:--",
+                "status": "P/2"
             },
             {
                 "date": "2026-10-31",
@@ -2539,12 +2539,12 @@
         "designation": "EXECUTIVE",
         "shift": "Shift 004 (11:45 - 20:45)",
         "pin_hash": "d60df25795f29cb64c18dbfa0f1e2c29334d6ec65b23d974f5a98a2942f7f5dd",
-        "present": "21.5",
+        "present": "23",
         "hl": "1",
         "wo": "4",
-        "absent": "4.5",
+        "absent": "3",
         "leave": "0",
-        "paiddays": "26.5",
+        "paiddays": "28",
         "records": [
             {
                 "date": "2026-10-01",
@@ -2683,18 +2683,18 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 12:26  |  Dept: --:--",
+                "time": "Arr: 12:26  |  Dept: 21:07",
                 "status": "P-LT"
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 12:09  |  Dept: --:--",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 12:36  |  Dept: 21:02",
+                "status": "P/2"
             },
             {
                 "date": "2026-10-31",
@@ -2708,12 +2708,12 @@
         "designation": "DATA ENTRY OPERATOR",
         "shift": "Shift 004 (11:45 - 20:45)",
         "pin_hash": "f6593f510d91bc18bc7833f6bed81082e681c5cae834e46f7510494a902640a4",
-        "present": "16",
+        "present": "18",
         "hl": "1",
         "wo": "4",
-        "absent": "10",
+        "absent": "8",
         "leave": "0",
-        "paiddays": "21",
+        "paiddays": "23",
         "records": [
             {
                 "date": "2026-10-01",
@@ -2852,23 +2852,23 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 12:27  |  Dept: --:--",
+                "time": "Arr: 12:27  |  Dept: 20:15",
                 "status": "P-LT"
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 12:01  |  Dept: 19:58",
+                "status": "P/2"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 12:20  |  Dept: 20:31",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-31",
                 "time": "Arr: 12:07  |  Dept: --:--",
-                "status": "P/2"
+                "status": "P-LT"
             }
         ]
     },
@@ -3046,12 +3046,12 @@
         "designation": "RIDER",
         "shift": "Shift 001 (11:00 - 20:00)",
         "pin_hash": "f739b61c0c2b812be5129dd71ef64fe2994f8bdeda1ef63e9b33664fa99688fa",
-        "present": "18",
+        "present": "19",
         "hl": "1",
         "wo": "4",
-        "absent": "8",
+        "absent": "7",
         "leave": "0",
-        "paiddays": "23",
+        "paiddays": "24",
         "records": [
             {
                 "date": "2026-10-01",
@@ -3195,8 +3195,8 @@
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 13:52  |  Dept: --:--",
+                "status": "P/2"
             },
             {
                 "date": "2026-10-30",
@@ -3206,7 +3206,7 @@
             {
                 "date": "2026-10-31",
                 "time": "Arr: 11:43  |  Dept: --:--",
-                "status": "P/2"
+                "status": "P-LT"
             }
         ]
     },
@@ -3215,12 +3215,12 @@
         "designation": "Sales Executive",
         "shift": "Shift 004 (11:45 - 20:45)",
         "pin_hash": "ca553f7f053ff673a93a3ad2c4d675ef7e7761af9c318762eb8a3d9dd6cbc040",
-        "present": "22",
+        "present": "24",
         "hl": "1",
         "wo": "4",
-        "absent": "4",
+        "absent": "2",
         "leave": "0",
-        "paiddays": "27",
+        "paiddays": "29",
         "records": [
             {
                 "date": "2026-10-01",
@@ -3364,13 +3364,13 @@
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:40  |  Dept: 16:10",
+                "status": "P"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:44  |  Dept: 20:30",
+                "status": "P"
             },
             {
                 "date": "2026-10-31",
@@ -3384,12 +3384,12 @@
         "designation": "Senior Sales Executive",
         "shift": "Shift 004 (11:45 - 20:45)",
         "pin_hash": "1c695616f45f7849a5e4abf11d8dd68067ab8d9b4bfc98a18d7ff36c7f4cb918",
-        "present": "16",
+        "present": "18",
         "hl": "1",
         "wo": "4",
-        "absent": "10",
+        "absent": "8",
         "leave": "0",
-        "paiddays": "21",
+        "paiddays": "23",
         "records": [
             {
                 "date": "2026-10-01",
@@ -3533,13 +3533,13 @@
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 12:03  |  Dept: --:--",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:50  |  Dept: --:--",
+                "status": "P"
             },
             {
                 "date": "2026-10-31",
@@ -3553,12 +3553,12 @@
         "designation": "SALES-SUPPORT",
         "shift": "Shift 003 (11:30 - 20:30)",
         "pin_hash": "9e041492353c46485e689ddf2f6071f344983539397e850e6b651cfd9018ea46",
-        "present": "21",
+        "present": "21.5",
         "hl": "1",
         "wo": "4",
-        "absent": "5",
+        "absent": "4.5",
         "leave": "0",
-        "paiddays": "26",
+        "paiddays": "26.5",
         "records": [
             {
                 "date": "2026-10-01",
@@ -3702,8 +3702,8 @@
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 12:10  |  Dept: 20:20",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-30",
@@ -3713,7 +3713,7 @@
             {
                 "date": "2026-10-31",
                 "time": "Arr: 11:51  |  Dept: --:--",
-                "status": "P-LT"
+                "status": "P/2"
             }
         ]
     },
@@ -3722,12 +3722,12 @@
         "designation": "DEMO",
         "shift": "Shift 003 (11:30 - 20:30)",
         "pin_hash": "8231454c52ce595cac051b8a8d130b66c3f59ed47d384889fda490f119ba7566",
-        "present": "22",
+        "present": "24",
         "hl": "1",
         "wo": "4",
-        "absent": "4",
+        "absent": "2",
         "leave": "0",
-        "paiddays": "27",
+        "paiddays": "29",
         "records": [
             {
                 "date": "2026-10-01",
@@ -3866,18 +3866,18 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 11:25  |  Dept: --:--",
+                "time": "Arr: 11:25  |  Dept: 20:11",
                 "status": "P"
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:39  |  Dept: 20:19",
+                "status": "P"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:20  |  Dept: 20:05",
+                "status": "P"
             },
             {
                 "date": "2026-10-31",
@@ -3891,12 +3891,12 @@
         "designation": "Sales Executive",
         "shift": "Shift 004 (11:45 - 20:45)",
         "pin_hash": "9acbbc71bf6c347be811a6b9c83e1bb8f841e8fab50ff292ff5b410e2cd0dbaf",
-        "present": "24",
+        "present": "26",
         "hl": "1",
         "wo": "4",
-        "absent": "2",
+        "absent": "0",
         "leave": "0",
-        "paiddays": "29",
+        "paiddays": "31",
         "records": [
             {
                 "date": "2026-10-01",
@@ -4035,18 +4035,18 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 11:45  |  Dept: --:--",
+                "time": "Arr: 11:45  |  Dept: 20:27",
                 "status": "P"
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:41  |  Dept: 16:48",
+                "status": "P"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:33  |  Dept: 20:03",
+                "status": "P"
             },
             {
                 "date": "2026-10-31",
@@ -4060,12 +4060,12 @@
         "designation": "Sales Executive",
         "shift": "Shift 004 (11:45 - 20:45)",
         "pin_hash": "0b7b1fbfc4f54c4c82d9afea0368264757a46c197da60aaced3585145b47cbbf",
-        "present": "24",
+        "present": "26",
         "hl": "1",
         "wo": "4",
-        "absent": "2",
+        "absent": "0",
         "leave": "0",
-        "paiddays": "29",
+        "paiddays": "31",
         "records": [
             {
                 "date": "2026-10-01",
@@ -4204,18 +4204,18 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 11:38  |  Dept: --:--",
+                "time": "Arr: 11:38  |  Dept: 20:44",
                 "status": "P"
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:40  |  Dept: 17:37",
+                "status": "P"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:38  |  Dept: 20:03",
+                "status": "P"
             },
             {
                 "date": "2026-10-31",
@@ -4229,12 +4229,12 @@
         "designation": "Sales Executive",
         "shift": "Shift 005 (12:00 - 21:00)",
         "pin_hash": "7721afb03fd8100ea61baad6bdd3c84fc45e0fe5a45d632dbf0a1fb73281e1d4",
-        "present": "22",
+        "present": "23",
         "hl": "1",
         "wo": "4",
-        "absent": "4",
+        "absent": "3",
         "leave": "0",
-        "paiddays": "27",
+        "paiddays": "28",
         "records": [
             {
                 "date": "2026-10-01",
@@ -4373,7 +4373,7 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 11:58  |  Dept: --:--",
+                "time": "Arr: 11:58  |  Dept: 20:36",
                 "status": "P"
             },
             {
@@ -4383,8 +4383,8 @@
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 12:09  |  Dept: 20:04",
+                "status": "P"
             },
             {
                 "date": "2026-10-31",
@@ -4398,12 +4398,12 @@
         "designation": "SALES-SUPPORT",
         "shift": "Shift 003 (11:30 - 20:30)",
         "pin_hash": "060c4eb79ef3f8ea8772353db125dd7226715652c86d2c6042940d3569f89282",
-        "present": "18",
+        "present": "20",
         "hl": "1",
         "wo": "4",
-        "absent": "8",
+        "absent": "6",
         "leave": "0",
-        "paiddays": "23",
+        "paiddays": "25",
         "records": [
             {
                 "date": "2026-10-01",
@@ -4542,18 +4542,18 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 11:25  |  Dept: --:--",
+                "time": "Arr: 11:25  |  Dept: 20:34",
                 "status": "P"
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:39  |  Dept: 20:03",
+                "status": "P"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:34  |  Dept: 20:44",
+                "status": "P"
             },
             {
                 "date": "2026-10-31",
@@ -4830,12 +4830,12 @@
         "designation": "Social Media Manager",
         "shift": "Shift 005 (12:00 - 21:00)",
         "pin_hash": "710ad8aab4c685d48e8f8197127cc5f9be5847e62b066489c8f52cc184c740da",
-        "present": "19.5",
+        "present": "20.5",
         "hl": "1",
         "wo": "4",
-        "absent": "6.5",
+        "absent": "5.5",
         "leave": "0",
-        "paiddays": "24.5",
+        "paiddays": "25.5",
         "records": [
             {
                 "date": "2026-10-01",
@@ -4984,8 +4984,8 @@
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 20:15  |  Dept: --:--",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-31",
@@ -5168,12 +5168,12 @@
         "designation": "SUPPORT",
         "shift": "Shift 002 (11:15 - 20:15)",
         "pin_hash": "b1263bc2cb9bb6bcd98abefaf801a4427734d5eccb1fe1400b52d382e27729ad",
-        "present": "22",
+        "present": "24",
         "hl": "1",
         "wo": "4",
-        "absent": "4",
+        "absent": "2",
         "leave": "0",
-        "paiddays": "27",
+        "paiddays": "29",
         "records": [
             {
                 "date": "2026-10-01",
@@ -5312,18 +5312,18 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 11:24  |  Dept: --:--",
+                "time": "Arr: 11:24  |  Dept: 19:37",
                 "status": "P"
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:39  |  Dept: 19:17",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:20  |  Dept: 19:37",
+                "status": "P"
             },
             {
                 "date": "2026-10-31",
@@ -5337,12 +5337,12 @@
         "designation": "MELTING",
         "shift": "Shift 003 (11:30 - 20:30)",
         "pin_hash": "32c13e686e1476d394d36aba6b421eb78c9fd9c0fd32ffc645ad804d8a18076f",
-        "present": "21.5",
+        "present": "23.5",
         "hl": "1",
         "wo": "4",
-        "absent": "4.5",
+        "absent": "2.5",
         "leave": "0",
-        "paiddays": "26.5",
+        "paiddays": "28.5",
         "records": [
             {
                 "date": "2026-10-01",
@@ -5481,18 +5481,18 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 11:39  |  Dept: --:--",
+                "time": "Arr: 11:39  |  Dept: 20:45",
                 "status": "P"
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:39  |  Dept: 18:42",
+                "status": "P"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 12:14  |  Dept: 20:37",
+                "status": "P-LT"
             },
             {
                 "date": "2026-10-31",
@@ -5506,12 +5506,12 @@
         "designation": "MIS EXECUTIVE",
         "shift": "Shift 003 (11:30 - 20:30)",
         "pin_hash": "3301bbf8e662f909f474d428072d6a309960c2f6db12788301873d6edcc91141",
-        "present": "24",
+        "present": "26",
         "hl": "1",
         "wo": "4",
-        "absent": "2",
+        "absent": "0",
         "leave": "0",
-        "paiddays": "29",
+        "paiddays": "31",
         "records": [
             {
                 "date": "2026-10-01",
@@ -5650,18 +5650,18 @@
             },
             {
                 "date": "2026-10-28",
-                "time": "Arr: 11:27  |  Dept: --:--",
+                "time": "Arr: 11:27  |  Dept: 21:02",
                 "status": "P"
             },
             {
                 "date": "2026-10-29",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:39  |  Dept: --:--",
+                "status": "P"
             },
             {
                 "date": "2026-10-30",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
+                "time": "Arr: 11:32  |  Dept: --:--",
+                "status": "P"
             },
             {
                 "date": "2026-10-31",
