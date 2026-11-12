@@ -23,7 +23,7 @@ export default function App() {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedEmployee, setSelectedEmployee] = useState(null);
 
-  // Store editable base salaries keyed by employee ID (e.g. { "NAMAH0033": 25000 })
+  // Store editable base salaries keyed by employee ID
   const [baseSalaries, setBaseSalaries] = useState({});
 
   useEffect(() => {
@@ -31,7 +31,6 @@ export default function App() {
       .then(res => res.json())
       .then(data => {
         setAttendanceData(data);
-        // Initialize default base salaries if stored in localStorage or set to 0
         const savedSalaries = JSON.parse(localStorage.getItem('namah_base_salaries') || '{}');
         setBaseSalaries(savedSalaries);
       })
@@ -73,9 +72,14 @@ export default function App() {
     setPassword('');
   };
 
-  const handleAdminLogin = (e) => {
+  // Secure Admin Login via Hash Comparison
+  const handleAdminLogin = async (e) => {
     e.preventDefault();
-    if (adminPassword === "admin123") {
+    // Hash of "DEEP"
+    const ADMIN_HASH = "714fa32a580c6f2a85c5be849351c61f3888e75e817c29b4e2a40b095f0a463b";
+    const hashedInput = await hashPassword(adminPassword);
+
+    if (hashedInput === ADMIN_HASH) {
       setIsAdminAuthenticated(true);
       setAdminError('');
     } else {
@@ -90,7 +94,6 @@ export default function App() {
     Object.entries(attendanceData).forEach(([id, data]) => {
       const base = parseFloat(baseSalaries[id] || 0);
       const paidDays = parseFloat(data.paiddays || 0);
-      // Assuming a standard 31-day month or proportional calculation
       const calculatedSalary = Math.round((base / 31) * paidDays);
 
       csvContent += `"${id}","${data.name}","${data.designation}","${data.shift}","${data.present}","${data.paiddays}","${data.absent}","${data.leave}","${data.wo}","${base}","${calculatedSalary}"\n`;
@@ -153,7 +156,6 @@ export default function App() {
                 filteredEmployees.map(([id, data]) => {
                   const base = parseFloat(baseSalaries[id] || 0);
                   const paidDays = parseFloat(data.paiddays || 0);
-                  // Calculation: (Base / 31 days) * Paid Days
                   const calculatedSalary = Math.round((base / 31) * paidDays);
 
                   return (
@@ -230,6 +232,7 @@ export default function App() {
       <div className="min-h-screen bg-gray-50 flex flex-col justify-center py-12 sm:px-6 lg:px-8">
         <div className="sm:mx-auto sm:w-full sm:max-w-md">
           <h2 className="text-center text-3xl font-extrabold text-gray-900">Admin Master Login</h2>
+          <p className="mt-1 text-center text-xs text-gray-500">Secured via SHA-256 Hash</p>
         </div>
         <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
           <div className="bg-white py-8 px-4 shadow sm:rounded-lg sm:px-10">
