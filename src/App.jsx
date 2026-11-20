@@ -10,6 +10,7 @@ async function hashPassword(password) {
 
 export default function App() {
   const [attendanceData, setAttendanceData] = useState({});
+  const [monthLabel, setMonthLabel] = useState('');
   const [empId, setEmpId] = useState('');
   const [password, setPassword] = useState('');
   const [loggedInEmp, setLoggedInEmp] = useState(null);
@@ -31,11 +32,21 @@ export default function App() {
       .then(res => res.json())
       .then(data => {
         setAttendanceData(data);
+        if (data._meta && data._meta.month_label) {
+          setMonthLabel(data._meta.month_label);
+        } else {
+          const firstEmp = Object.entries(data).find(([k]) => k !== '_meta');
+          if (firstEmp && firstEmp[1]?.month_label) {
+            setMonthLabel(firstEmp[1].month_label);
+          }
+        }
         const savedSalaries = JSON.parse(localStorage.getItem('namah_base_salaries') || '{}');
         setBaseSalaries(savedSalaries);
       })
       .catch(err => console.error("Error loading attendance data:", err));
   }, []);
+
+  const employeeEntries = Object.entries(attendanceData).filter(([id]) => id !== '_meta');
 
   const handleBaseSalaryChange = (id, value) => {
     const updated = { ...baseSalaries, [id]: value };
@@ -50,6 +61,10 @@ export default function App() {
       return;
     }
     const cleanId = empId.trim().toUpperCase();
+    if (cleanId === '_META') {
+      setError('Invalid Employee ID');
+      return;
+    }
     const empRecord = attendanceData[cleanId];
 
     if (!empRecord) {
@@ -75,7 +90,6 @@ export default function App() {
   // Secure Admin Login via Hash Comparison
   const handleAdminLogin = async (e) => {
     e.preventDefault();
-    // Hash of "DEEP"
     const ADMIN_HASH = "714fa32a580c6f2a85c5be849351c61f3888e75e817c29b4e2a40b095f0a463b";
     const hashedInput = await hashPassword(adminPassword);
 
@@ -89,20 +103,20 @@ export default function App() {
 
   const exportToCSV = () => {
     let csvContent = "data:text/csv;charset=utf-8,";
-    csvContent += "Employee ID,Name,Designation,Shift,Present Days,Paid Days,Absent,Leaves,Weekly Offs,Base Salary,Calculated Salary\n";
+    csvContent += "Month,Employee ID,Name,Designation,Shift,Present Days,Paid Days,Absent,Leaves,Weekly Offs,Base Salary,Calculated Salary\n";
 
-    Object.entries(attendanceData).forEach(([id, data]) => {
+    employeeEntries.forEach(([id, data]) => {
       const base = parseFloat(baseSalaries[id] || 0);
       const paidDays = parseFloat(data.paiddays || 0);
       const calculatedSalary = Math.round((base / 31) * paidDays);
 
-      csvContent += `"${id}","${data.name}","${data.designation}","${data.shift}","${data.present}","${data.paiddays}","${data.absent}","${data.leave}","${data.wo}","${base}","${calculatedSalary}"\n`;
+      csvContent += `"${data.month_label || monthLabel}","${id}","${data.name}","${data.designation}","${data.shift}","${data.present}","${data.paiddays}","${data.absent}","${data.leave}","${data.wo}","${base}","${calculatedSalary}"\n`;
     });
 
     const encodedUri = encodeURI(csvContent);
     const link = document.createElement("a");
     link.setAttribute("href", encodedUri);
-    link.setAttribute("download", "master_payroll_salary_sheet.csv");
+    link.setAttribute("download", `master_payroll_salary_sheet_${monthLabel ? monthLabel.replace(/\s+/g, '_') : 'report'}.csv`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -110,15 +124,18 @@ export default function App() {
 
   // 1. Admin Dashboard View
   if (isAdminAuthenticated) {
-    const filteredEmployees = Object.entries(attendanceData).filter(([id, data]) =>
+    const filteredEmployees = employeeEntries.filter(([id, data]) =>
       (data.name && data.name.toLowerCase().includes(searchTerm.toLowerCase())) ||
       id.toLowerCase().includes(searchTerm.toLowerCase())
     );
 
     return (
       <div style={{ padding: '20px', maxWidth: '1350px', margin: '0 auto', fontFamily: 'Arial, sans-serif', backgroundColor: '#f3f4f6', minHeight: '100vh' }}>
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '20px', background: 'white', padding: '15px 20px', borderRadius: '8px', boxShadow: '0 2px 4px rgba(0,0,0,0.05)' }}>
-          <h2 style={{ margin: 0, fontSize: '20px', color: '#111827' }}>Namah Jewellers - Salary & Attendance Master Panel</h2>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '20px', background: 'white', padding: '15px 20px', borderRadius: '8px', boxShadow: '0 2px 4px rgba(0,0,0,0.05)', flexWrap: 'wrap', gap: '10px' }}>
+          <div>
+            <h2 style={{ margin: 0, fontSize: '20px', color: '#111827' }}>Namah Jewellers - Salary & Attendance Master Panel</h2>
+            {monthLabel && <p style={{ margin: '4px 0 0 0', fontSize: '13px', color: '#4f46e5', fontWeight: 'bold' }}>Attendance Period: {monthLabel}</p>}
+          </div>
           <div>
             <button onClick={exportToCSV} style={{ marginRight: '10px', padding: '8px 15px', background: '#10b981', color: 'white', border: 'none', borderRadius: '4px', cursor: 'pointer', fontWeight: 'bold' }}>
               Download Payroll CSV
@@ -146,8 +163,8 @@ export default function App() {
                 <th style={{ padding: '12px' }}>Designation</th>
                 <th style={{ padding: '12px' }}>Paid Days</th>
                 <th style={{ padding: '12px' }}>Absent</th>
-                <th style={{ padding: '12px' }}>Base Monthly Salary (₹)</th>
-                <th style={{ padding: '12px' }}>Calculated Salary (₹)</th>
+                <th style={{ padding: '12px' }}>Base Monthly Salary (Rs.)</th>
+                <th style={{ padding: '12px' }}>Calculated Salary (Rs.)</th>
                 <th style={{ padding: '12px' }}>Action</th>
               </tr>
             </thead>
@@ -175,7 +192,7 @@ export default function App() {
                         />
                       </td>
                       <td style={{ padding: '12px', fontWeight: 'bold', color: '#059669' }}>
-                        ₹ {isNaN(calculatedSalary) ? 0 : calculatedSalary.toLocaleString('en-IN')}
+                        Rs. {isNaN(calculatedSalary) ? 0 : calculatedSalary.toLocaleString('en-IN')}
                       </td>
                       <td style={{ padding: '12px' }}>
                         <button
@@ -201,7 +218,7 @@ export default function App() {
           <div style={{ position: 'fixed', top: 0, left: 0, width: '100%', height: '100%', background: 'rgba(0,0,0,0.5)', display: 'flex', justifyContent: 'center', alignItems: 'center', zIndex: 1000 }}>
             <div style={{ background: 'white', padding: '25px', borderRadius: '8px', width: '90%', maxWidth: '600px', maxHeight: '80vh', overflowY: 'auto' }}>
               <h3>Detailed Logs: {selectedEmployee.name} ({selectedEmployee.empId})</h3>
-              <p><strong>Designation:</strong> {selectedEmployee.designation} | <strong>Paid Days:</strong> {selectedEmployee.paiddays}</p>
+              <p><strong>Month:</strong> {selectedEmployee.month_label || monthLabel} | <strong>Paid Days:</strong> {selectedEmployee.paiddays}</p>
               <hr style={{ margin: '15px 0' }} />
               <h4>Punch Records:</h4>
               <ul style={{ listStyle: 'none', padding: 0 }}>
@@ -232,6 +249,7 @@ export default function App() {
       <div className="min-h-screen bg-gray-50 flex flex-col justify-center py-12 sm:px-6 lg:px-8">
         <div className="sm:mx-auto sm:w-full sm:max-w-md">
           <h2 className="text-center text-3xl font-extrabold text-gray-900">Admin Master Login</h2>
+          {monthLabel && <p className="mt-1 text-center text-sm font-semibold text-indigo-600">{monthLabel}</p>}
           <p className="mt-1 text-center text-xs text-gray-500">Secured via SHA-256 Hash</p>
         </div>
         <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
@@ -279,10 +297,17 @@ export default function App() {
       <div className="min-h-screen bg-gray-50 flex flex-col justify-center py-12 sm:px-6 lg:px-8">
         <div className="sm:mx-auto sm:w-full sm:max-w-md">
           <h2 className="text-center text-3xl font-extrabold text-gray-900">Office Attendance</h2>
+          {monthLabel && (
+            <div className="mt-2 flex justify-center">
+              <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-indigo-100 text-indigo-800">
+                Attendance: {monthLabel}
+              </span>
+            </div>
+          )}
           <p className="mt-2 text-center text-sm text-gray-600">Check your punch logs & summary from your phone</p>
         </div>
 
-        <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
+        <div className="mt-6 sm:mx-auto sm:w-full sm:max-w-md">
           <div className="bg-white py-8 px-4 shadow sm:rounded-lg sm:px-10">
             <form className="space-y-6" onSubmit={handleLogin}>
               {error && <div className="bg-red-50 border-l-4 border-red-400 p-4 text-sm text-red-700">{error}</div>}
@@ -326,7 +351,7 @@ export default function App() {
                   onClick={() => setShowAdminLogin(true)}
                   className="w-full flex justify-center py-2 px-4 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-indigo-600 bg-white hover:bg-gray-50"
                 >
-                  🔐 Admin Portal (Salary & Master Summary)
+                  Admin Portal (Salary & Master Summary)
                 </button>
               </div>
             </form>
@@ -344,7 +369,9 @@ export default function App() {
     <div className="min-h-screen bg-gray-100 pb-12">
       <nav className="bg-indigo-600 shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between h-16 items-center">
-          <h1 className="text-white font-bold text-lg">My Attendance & Summary</h1>
+          <h1 className="text-white font-bold text-lg">
+            My Attendance & Summary {empInfo.month_label || monthLabel ? `— ${empInfo.month_label || monthLabel}` : ''}
+          </h1>
           <button
             onClick={handleLogout}
             className="bg-indigo-700 text-white px-3 py-1.5 rounded-md text-sm font-medium hover:bg-indigo-800"
@@ -377,7 +404,7 @@ export default function App() {
           </div>
 
           {/* Summary Grid */}
-          <h3 className="text-sm font-bold text-gray-700 uppercase tracking-wider mb-3">Performance Summary</h3>
+          <h3 className="text-sm font-bold text-gray-700 uppercase tracking-wider mb-3">Performance Summary ({empInfo.month_label || monthLabel})</h3>
           <div className="grid grid-cols-3 sm:grid-cols-6 gap-3 text-center">
             <div className="bg-green-50 p-3 rounded-lg border border-green-200">
               <p className="text-xs text-green-600 font-semibold">Present</p>

@@ -3,7 +3,9 @@
         "name": "BHANU PRATAP",
         "designation": "Accountant",
         "shift": "Shift 001 (11:00 - 20:00)",
-        "pin_hash": "e7d2bb55fcab5255297b05f1eb93613a7467000850b3159dd073a581523ba1db",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "1e12c1e01097cf3861ff603cd173c6b4376ee0a3e438ab7c92a7ae68a245dea8",
         "present": "4",
         "hl": "0",
         "wo": "2",
@@ -12,72 +14,72 @@
         "paiddays": "6",
         "records": [
             {
-                "date": "2026-10-01",
+                "date": "2026-11-01",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-02",
+                "date": "2026-11-02",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-03",
+                "date": "2026-11-03",
                 "time": "Arr: 14:20  |  Dept: --:--",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-04",
+                "date": "2026-11-04",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-05",
+                "date": "2026-11-05",
                 "time": "Arr: 14:11  |  Dept: --:--",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-06",
+                "date": "2026-11-06",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-07",
+                "date": "2026-11-07",
                 "time": "Arr: 14:31  |  Dept: --:--",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-08",
+                "date": "2026-11-08",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-09",
+                "date": "2026-11-09",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-10",
+                "date": "2026-11-10",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-11",
+                "date": "2026-11-11",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-12",
+                "date": "2026-11-12",
                 "time": "Arr: 13:23  |  Dept: --:--",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-13",
+                "date": "2026-11-13",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-14",
+                "date": "2026-11-14",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             }
@@ -87,7 +89,9 @@
         "name": "ROHIT GHURAYIA",
         "designation": "Junior Accountant",
         "shift": "Shift 003 (11:30 - 20:30)",
-        "pin_hash": "bc9c98644b6808dab002de3e2da6bf2f4bec1d1ff5712eca9e528a42861cb1b4",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "8cce10345c5e1de90d277b9869465f5972b828afbbbfd7ef08b1d835eedee993",
         "present": "9",
         "hl": "0",
         "wo": "2",
@@ -96,72 +100,72 @@
         "paiddays": "11",
         "records": [
             {
-                "date": "2026-10-01",
+                "date": "2026-11-01",
                 "time": "Arr: 12:01  |  Dept: 21:07",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-02",
+                "date": "2026-11-02",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-03",
+                "date": "2026-11-03",
                 "time": "Arr: 11:57  |  Dept: --:--",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-04",
+                "date": "2026-11-04",
                 "time": "Arr: 11:52  |  Dept: 20:51",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-05",
+                "date": "2026-11-05",
                 "time": "Arr: 11:47  |  Dept: 21:12",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-06",
+                "date": "2026-11-06",
                 "time": "Arr: 11:56  |  Dept: 20:41",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-07",
+                "date": "2026-11-07",
                 "time": "Arr: 12:03  |  Dept: 20:09",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-08",
+                "date": "2026-11-08",
                 "time": "Arr: 11:14  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-09",
+                "date": "2026-11-09",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-10",
+                "date": "2026-11-10",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-11",
+                "date": "2026-11-11",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-12",
+                "date": "2026-11-12",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-13",
+                "date": "2026-11-13",
                 "time": "Arr: 11:51  |  Dept: 20:32",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-14",
+                "date": "2026-11-14",
                 "time": "Arr: 11:46  |  Dept: --:--",
                 "status": "P-LT"
             }
@@ -171,7 +175,9 @@
         "name": "VICKY KUMAR",
         "designation": "Senior Accountant",
         "shift": "Shift 005 (12:00 - 21:00)",
-        "pin_hash": "e200b617587d508b76d75cf78da44bcf9588d912441aa9e9ced6d27f38a91c1b",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "ebdac3c98535aaf946e697680be79579e80a17d5e993ba9779cba0eae39a63ff",
         "present": "9",
         "hl": "0",
         "wo": "2",
@@ -180,72 +186,72 @@
         "paiddays": "11",
         "records": [
             {
-                "date": "2026-10-01",
+                "date": "2026-11-01",
                 "time": "Arr: 12:02  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-02",
+                "date": "2026-11-02",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-03",
+                "date": "2026-11-03",
                 "time": "Arr: 12:15  |  Dept: 21:04",
                 "status": "P"
             },
             {
-                "date": "2026-10-04",
+                "date": "2026-11-04",
                 "time": "Arr: 12:23  |  Dept: 21:10",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-05",
+                "date": "2026-11-05",
                 "time": "Arr: 12:23  |  Dept: --:--",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-06",
+                "date": "2026-11-06",
                 "time": "Arr: 12:26  |  Dept: 20:52",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-07",
+                "date": "2026-11-07",
                 "time": "Arr: 12:12  |  Dept: 18:33",
                 "status": "P"
             },
             {
-                "date": "2026-10-08",
+                "date": "2026-11-08",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-09",
+                "date": "2026-11-09",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-10",
+                "date": "2026-11-10",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-11",
+                "date": "2026-11-11",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-12",
+                "date": "2026-11-12",
                 "time": "Arr: 12:05  |  Dept: 20:45",
                 "status": "P"
             },
             {
-                "date": "2026-10-13",
+                "date": "2026-11-13",
                 "time": "Arr: 12:11  |  Dept: 20:33",
                 "status": "P"
             },
             {
-                "date": "2026-10-14",
+                "date": "2026-11-14",
                 "time": "Arr: 12:06  |  Dept: --:--",
                 "status": "P"
             }
@@ -255,7 +261,9 @@
         "name": "VARUN VERMA",
         "designation": "Senior Accountant",
         "shift": "Shift 004 (11:45 - 20:45)",
-        "pin_hash": "802a81cad66c2a85f825e14200a72870e8e1fcf355a1958ac802d20b8fc227dd",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "16740bf13991fe083fbe5820cc8da08a5d88e5a48f44a3cfcc283c27b2797ba7",
         "present": "11",
         "hl": "0",
         "wo": "2",
@@ -264,72 +272,72 @@
         "paiddays": "13",
         "records": [
             {
-                "date": "2026-10-01",
+                "date": "2026-11-01",
                 "time": "Arr: 11:51  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-02",
+                "date": "2026-11-02",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-03",
+                "date": "2026-11-03",
                 "time": "Arr: 12:12  |  Dept: 21:01",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-04",
+                "date": "2026-11-04",
                 "time": "Arr: 11:58  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-05",
+                "date": "2026-11-05",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-06",
+                "date": "2026-11-06",
                 "time": "Arr: 11:54  |  Dept: 20:52",
                 "status": "P"
             },
             {
-                "date": "2026-10-07",
+                "date": "2026-11-07",
                 "time": "Arr: 11:59  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-08",
+                "date": "2026-11-08",
                 "time": "Arr: 11:21  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-09",
+                "date": "2026-11-09",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-10",
+                "date": "2026-11-10",
                 "time": "Arr: 11:48  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-11",
+                "date": "2026-11-11",
                 "time": "Arr: 12:07  |  Dept: --:--",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-12",
+                "date": "2026-11-12",
                 "time": "Arr: 11:47  |  Dept: 20:45",
                 "status": "P"
             },
             {
-                "date": "2026-10-13",
+                "date": "2026-11-13",
                 "time": "Arr: 12:01  |  Dept: 20:31",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-14",
+                "date": "2026-11-14",
                 "time": "Arr: 11:56  |  Dept: --:--",
                 "status": "P"
             }
@@ -339,7 +347,9 @@
         "name": "PRIYANSHU GOLA",
         "designation": "Accountant",
         "shift": "Shift 002 (11:15 - 20:15)",
-        "pin_hash": "8648e75c72ef37fe30d2869a8557750e2665253fc227c1f935896f52c7c53103",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
         "present": "8",
         "hl": "0",
         "wo": "2",
@@ -348,72 +358,72 @@
         "paiddays": "10",
         "records": [
             {
-                "date": "2026-10-01",
+                "date": "2026-11-01",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-02",
+                "date": "2026-11-02",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-03",
+                "date": "2026-11-03",
                 "time": "Arr: 12:01  |  Dept: 20:06",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-04",
+                "date": "2026-11-04",
                 "time": "Arr: 11:24  |  Dept: 20:07",
                 "status": "P"
             },
             {
-                "date": "2026-10-05",
+                "date": "2026-11-05",
                 "time": "Arr: 11:21  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-06",
+                "date": "2026-11-06",
                 "time": "Arr: 11:12  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-07",
+                "date": "2026-11-07",
                 "time": "Arr: 11:22  |  Dept: 20:09",
                 "status": "P"
             },
             {
-                "date": "2026-10-08",
+                "date": "2026-11-08",
                 "time": "Arr: 10:48  |  Dept: 14:04",
                 "status": "P"
             },
             {
-                "date": "2026-10-09",
+                "date": "2026-11-09",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-10",
+                "date": "2026-11-10",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-11",
+                "date": "2026-11-11",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-12",
+                "date": "2026-11-12",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-13",
+                "date": "2026-11-13",
                 "time": "Arr: 11:51  |  Dept: 19:57",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-14",
+                "date": "2026-11-14",
                 "time": "Arr: 11:46  |  Dept: --:--",
                 "status": "P-LT"
             }
@@ -423,7 +433,9 @@
         "name": "GAURAV SAFE",
         "designation": "ADMIN",
         "shift": "Shift 004 (11:45 - 20:45)",
-        "pin_hash": "e7675d91cf7fe9becc9bc70394f226d8379ccb10a1195339aa10aea09505974b",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
         "present": "11",
         "hl": "0",
         "wo": "2",
@@ -432,72 +444,72 @@
         "paiddays": "13",
         "records": [
             {
-                "date": "2026-10-01",
+                "date": "2026-11-01",
                 "time": "Arr: 11:55  |  Dept: 21:11",
                 "status": "P"
             },
             {
-                "date": "2026-10-02",
+                "date": "2026-11-02",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-03",
+                "date": "2026-11-03",
                 "time": "Arr: 11:57  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-04",
+                "date": "2026-11-04",
                 "time": "Arr: 11:48  |  Dept: 20:57",
                 "status": "P"
             },
             {
-                "date": "2026-10-05",
+                "date": "2026-11-05",
                 "time": "Arr: 11:38  |  Dept: 21:14",
                 "status": "P"
             },
             {
-                "date": "2026-10-06",
+                "date": "2026-11-06",
                 "time": "Arr: 11:57  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-07",
+                "date": "2026-11-07",
                 "time": "Arr: 11:49  |  Dept: 20:09",
                 "status": "P"
             },
             {
-                "date": "2026-10-08",
+                "date": "2026-11-08",
                 "time": "Arr: 10:58  |  Dept: 13:52",
                 "status": "P"
             },
             {
-                "date": "2026-10-09",
+                "date": "2026-11-09",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-10",
+                "date": "2026-11-10",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-11",
+                "date": "2026-11-11",
                 "time": "Arr: 13:09  |  Dept: 20:41",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-12",
+                "date": "2026-11-12",
                 "time": "Arr: 11:51  |  Dept: 20:44",
                 "status": "P"
             },
             {
-                "date": "2026-10-13",
+                "date": "2026-11-13",
                 "time": "Arr: 11:51  |  Dept: 20:31",
                 "status": "P"
             },
             {
-                "date": "2026-10-14",
+                "date": "2026-11-14",
                 "time": "Arr: 11:47  |  Dept: --:--",
                 "status": "P"
             }
@@ -507,7 +519,9 @@
         "name": "AMAN KAKARWAL",
         "designation": "ADMIN",
         "shift": "Shift 004 (11:45 - 20:45)",
-        "pin_hash": "84e27be989e0e385db25e3a4d3cefae60e2cfd76138e074ab5a1fe845c69e146",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
         "present": "12",
         "hl": "0",
         "wo": "2",
@@ -516,72 +530,72 @@
         "paiddays": "14",
         "records": [
             {
-                "date": "2026-10-01",
+                "date": "2026-11-01",
                 "time": "Arr: 12:18  |  Dept: 19:51",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-02",
+                "date": "2026-11-02",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-03",
+                "date": "2026-11-03",
                 "time": "Arr: 12:24  |  Dept: 21:04",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-04",
+                "date": "2026-11-04",
                 "time": "Arr: 12:14  |  Dept: 21:10",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-05",
+                "date": "2026-11-05",
                 "time": "Arr: 12:04  |  Dept: 21:15",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-06",
+                "date": "2026-11-06",
                 "time": "Arr: 12:35  |  Dept: 20:53",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-07",
+                "date": "2026-11-07",
                 "time": "Arr: 11:59  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-08",
+                "date": "2026-11-08",
                 "time": "Arr: 13:04  |  Dept: --:--",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-09",
+                "date": "2026-11-09",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-10",
+                "date": "2026-11-10",
                 "time": "Arr: 12:33  |  Dept: 20:11",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-11",
+                "date": "2026-11-11",
                 "time": "Arr: 12:22  |  Dept: 20:57",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-12",
+                "date": "2026-11-12",
                 "time": "Arr: 12:09  |  Dept: 15:07",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-13",
+                "date": "2026-11-13",
                 "time": "Arr: 11:54  |  Dept: 20:32",
                 "status": "P"
             },
             {
-                "date": "2026-10-14",
+                "date": "2026-11-14",
                 "time": "Arr: 12:11  |  Dept: --:--",
                 "status": "P-LT"
             }
@@ -591,7 +605,9 @@
         "name": "GAURAV - 3",
         "designation": "FIELDS",
         "shift": "Shift 003 (11:30 - 20:30)",
-        "pin_hash": "05b5ceb0b923dc57516f3460b854ffcf3a98b7e19545a1946d345ffa77d4544c",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
         "present": "10",
         "hl": "0",
         "wo": "2",
@@ -600,72 +616,72 @@
         "paiddays": "12",
         "records": [
             {
-                "date": "2026-10-01",
+                "date": "2026-11-01",
                 "time": "Arr: 11:50  |  Dept: 20:52",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-02",
+                "date": "2026-11-02",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-03",
+                "date": "2026-11-03",
                 "time": "Arr: 12:00  |  Dept: 20:41",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-04",
+                "date": "2026-11-04",
                 "time": "Arr: 12:17  |  Dept: 20:44",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-05",
+                "date": "2026-11-05",
                 "time": "Arr: 12:36  |  Dept: 20:55",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-06",
+                "date": "2026-11-06",
                 "time": "Arr: 11:53  |  Dept: 20:30",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-07",
+                "date": "2026-11-07",
                 "time": "Arr: 11:45  |  Dept: 20:09",
                 "status": "P"
             },
             {
-                "date": "2026-10-08",
+                "date": "2026-11-08",
                 "time": "Arr: 11:44  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-09",
+                "date": "2026-11-09",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-10",
+                "date": "2026-11-10",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-11",
+                "date": "2026-11-11",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-12",
+                "date": "2026-11-12",
                 "time": "Arr: 11:53  |  Dept: 20:32",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-13",
+                "date": "2026-11-13",
                 "time": "Arr: 12:04  |  Dept: 20:30",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-14",
+                "date": "2026-11-14",
                 "time": "Arr: 12:16  |  Dept: --:--",
                 "status": "P-LT"
             }
@@ -675,7 +691,9 @@
         "name": "ARUN",
         "designation": "FIELDS",
         "shift": "Shift 002 (11:15 - 20:15)",
-        "pin_hash": "2296da6bee0ef1f744081eb54e16a25854a9442215e318655370b161720011ec",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
         "present": "12",
         "hl": "0",
         "wo": "2",
@@ -684,72 +702,72 @@
         "paiddays": "14",
         "records": [
             {
-                "date": "2026-10-01",
+                "date": "2026-11-01",
                 "time": "Arr: 11:14  |  Dept: 19:58",
                 "status": "P"
             },
             {
-                "date": "2026-10-02",
+                "date": "2026-11-02",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-03",
+                "date": "2026-11-03",
                 "time": "Arr: 11:56  |  Dept: 19:59",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-04",
+                "date": "2026-11-04",
                 "time": "Arr: 11:55  |  Dept: 20:04",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-05",
+                "date": "2026-11-05",
                 "time": "Arr: 11:22  |  Dept: 19:59",
                 "status": "P"
             },
             {
-                "date": "2026-10-06",
+                "date": "2026-11-06",
                 "time": "Arr: 11:09  |  Dept: 20:06",
                 "status": "P"
             },
             {
-                "date": "2026-10-07",
+                "date": "2026-11-07",
                 "time": "Arr: 11:19  |  Dept: 19:57",
                 "status": "P"
             },
             {
-                "date": "2026-10-08",
+                "date": "2026-11-08",
                 "time": "Arr: 10:47  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-09",
+                "date": "2026-11-09",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-10",
+                "date": "2026-11-10",
                 "time": "Arr: 11:48  |  Dept: 19:14",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-11",
+                "date": "2026-11-11",
                 "time": "Arr: 11:47  |  Dept: 19:57",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-12",
+                "date": "2026-11-12",
                 "time": "Arr: 11:31  |  Dept: 19:59",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-13",
+                "date": "2026-11-13",
                 "time": "Arr: 11:50  |  Dept: 19:57",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-14",
+                "date": "2026-11-14",
                 "time": "Arr: 11:46  |  Dept: --:--",
                 "status": "P-LT"
             }
@@ -759,7 +777,9 @@
         "name": "ANIL KUMAR",
         "designation": "FIELDS",
         "shift": "Shift 004 (11:45 - 20:45)",
-        "pin_hash": "a03f5538edf9a62c32d735e10db4a11cc6bf0a9873e643428acfc7a64cae64a1",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
         "present": "10",
         "hl": "0",
         "wo": "2",
@@ -768,72 +788,72 @@
         "paiddays": "12",
         "records": [
             {
-                "date": "2026-10-01",
+                "date": "2026-11-01",
                 "time": "Arr: 12:01  |  Dept: 21:03",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-02",
+                "date": "2026-11-02",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-03",
+                "date": "2026-11-03",
                 "time": "Arr: 12:28  |  Dept: 20:44",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-04",
+                "date": "2026-11-04",
                 "time": "Arr: 12:17  |  Dept: 20:34",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-05",
+                "date": "2026-11-05",
                 "time": "Arr: 12:05  |  Dept: --:--",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-06",
+                "date": "2026-11-06",
                 "time": "Arr: 12:08  |  Dept: --:--",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-07",
+                "date": "2026-11-07",
                 "time": "Arr: 12:34  |  Dept: 20:07",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-08",
+                "date": "2026-11-08",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-09",
+                "date": "2026-11-09",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-10",
+                "date": "2026-11-10",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-11",
+                "date": "2026-11-11",
                 "time": "Arr: 11:47  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-12",
+                "date": "2026-11-12",
                 "time": "Arr: 11:31  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-13",
+                "date": "2026-11-13",
                 "time": "Arr: 11:52  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-14",
+                "date": "2026-11-14",
                 "time": "Arr: 12:11  |  Dept: --:--",
                 "status": "P-LT"
             }
@@ -843,7 +863,9 @@
         "name": "SANDEEP",
         "designation": "FIELDS",
         "shift": "Shift 003 (11:30 - 20:30)",
-        "pin_hash": "5d97d797491c15731ef9070279a9058a08a19a0333a449cf126070fbb000d643",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
         "present": "12",
         "hl": "0",
         "wo": "2",
@@ -852,72 +874,72 @@
         "paiddays": "14",
         "records": [
             {
-                "date": "2026-10-01",
+                "date": "2026-11-01",
                 "time": "Arr: 11:22  |  Dept: 20:30",
                 "status": "P"
             },
             {
-                "date": "2026-10-02",
+                "date": "2026-11-02",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-03",
+                "date": "2026-11-03",
                 "time": "Arr: 11:56  |  Dept: 20:31",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-04",
+                "date": "2026-11-04",
                 "time": "Arr: 11:24  |  Dept: 20:30",
                 "status": "P"
             },
             {
-                "date": "2026-10-05",
+                "date": "2026-11-05",
                 "time": "Arr: 11:24  |  Dept: 20:31",
                 "status": "P"
             },
             {
-                "date": "2026-10-06",
+                "date": "2026-11-06",
                 "time": "Arr: 11:17  |  Dept: 20:30",
                 "status": "P"
             },
             {
-                "date": "2026-10-07",
+                "date": "2026-11-07",
                 "time": "Arr: 11:19  |  Dept: 20:06",
                 "status": "P"
             },
             {
-                "date": "2026-10-08",
+                "date": "2026-11-08",
                 "time": "Arr: 10:50  |  Dept: 15:22",
                 "status": "P"
             },
             {
-                "date": "2026-10-09",
+                "date": "2026-11-09",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-10",
+                "date": "2026-11-10",
                 "time": "Arr: 11:49  |  Dept: 19:36",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-11",
+                "date": "2026-11-11",
                 "time": "Arr: 11:47  |  Dept: 20:30",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-12",
+                "date": "2026-11-12",
                 "time": "Arr: 11:31  |  Dept: 20:30",
                 "status": "P"
             },
             {
-                "date": "2026-10-13",
+                "date": "2026-11-13",
                 "time": "Arr: 11:52  |  Dept: 20:30",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-14",
+                "date": "2026-11-14",
                 "time": "Arr: 11:46  |  Dept: --:--",
                 "status": "P-LT"
             }
@@ -927,7 +949,9 @@
         "name": "GAUTAM SONKAR",
         "designation": "SENIOR ORDERS EXECUTIVE",
         "shift": "Shift 004 (11:45 - 20:45)",
-        "pin_hash": "d0eee7448cf5bc6cc4adca44526eb900b9bcd7539c39df527037d4f7e41b164a",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
         "present": "11",
         "hl": "0",
         "wo": "2",
@@ -936,72 +960,72 @@
         "paiddays": "13",
         "records": [
             {
-                "date": "2026-10-01",
+                "date": "2026-11-01",
                 "time": "Arr: 11:50  |  Dept: 21:07",
                 "status": "P"
             },
             {
-                "date": "2026-10-02",
+                "date": "2026-11-02",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-03",
+                "date": "2026-11-03",
                 "time": "Arr: 12:51  |  Dept: 21:04",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-04",
+                "date": "2026-11-04",
                 "time": "Arr: 12:51  |  Dept: 21:12",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-05",
+                "date": "2026-11-05",
                 "time": "Arr: 13:06  |  Dept: 21:12",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-06",
+                "date": "2026-11-06",
                 "time": "Arr: 12:06  |  Dept: 20:35",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-07",
+                "date": "2026-11-07",
                 "time": "Arr: 12:02  |  Dept: 20:07",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-08",
+                "date": "2026-11-08",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-09",
+                "date": "2026-11-09",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-10",
+                "date": "2026-11-10",
                 "time": "Arr: 11:48  |  Dept: 20:11",
                 "status": "P"
             },
             {
-                "date": "2026-10-11",
+                "date": "2026-11-11",
                 "time": "Arr: 12:37  |  Dept: 20:56",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-12",
+                "date": "2026-11-12",
                 "time": "Arr: 11:53  |  Dept: 20:40",
                 "status": "P"
             },
             {
-                "date": "2026-10-13",
+                "date": "2026-11-13",
                 "time": "Arr: 11:57  |  Dept: 20:31",
                 "status": "P"
             },
             {
-                "date": "2026-10-14",
+                "date": "2026-11-14",
                 "time": "Arr: 12:12  |  Dept: --:--",
                 "status": "P-LT"
             }
@@ -1011,1518 +1035,8 @@
         "name": "AMARDEEP",
         "designation": "SENIOR ORDERS EXECUTIVE",
         "shift": "Shift 002 (11:15 - 20:15)",
-        "pin_hash": "14c92b0c99c9c3f84299ce44436bd4ecdbe8fd5cc4b76925d42c89409f45c561",
-        "present": "7",
-        "hl": "0",
-        "wo": "2",
-        "absent": "5",
-        "leave": "0",
-        "paiddays": "9",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: 11:14  |  Dept: 21:12",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: 12:00  |  Dept: 21:06",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: 11:24  |  Dept: 21:10",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: 11:21  |  Dept: 21:16",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: 11:09  |  Dept: 20:51",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: 11:18  |  Dept: 20:11",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: 10:48  |  Dept: --:--",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            }
-        ]
-    },
-    "NAMAH0002": {
-        "name": "AKASH KUMAR",
-        "designation": "EXECUTIVE",
-        "shift": "Shift 003 (11:30 - 20:30)",
-        "pin_hash": "355788cc707292b8ebb9716df02c7c146a36bf4eede157211ed5400206357c94",
-        "present": "7",
-        "hl": "0",
-        "wo": "2",
-        "absent": "5",
-        "leave": "0",
-        "paiddays": "9",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: 14:16  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: 11:56  |  Dept: 12:10",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: 11:55  |  Dept: 20:55",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: 11:42  |  Dept: --:--",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: 11:36  |  Dept: --:--",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: 11:41  |  Dept: 20:09",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: 11:47  |  Dept: 20:56",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            }
-        ]
-    },
-    "NAMAH0025": {
-        "name": "GAURAV - 2",
-        "designation": "EXECUTIVE",
-        "shift": "Shift 003 (11:30 - 20:30)",
-        "pin_hash": "9b25dd25c80d867f81c719a450ba1c6c68c63abab083da7bba666221e955f9b4",
-        "present": "11",
-        "hl": "0",
-        "wo": "2",
-        "absent": "1",
-        "leave": "0",
-        "paiddays": "13",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: 12:10  |  Dept: 21:08",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: 12:10  |  Dept: 21:03",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: 12:55  |  Dept: 20:51",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: 11:59  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: 12:21  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: 12:06  |  Dept: 20:09",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: 15:22  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: 11:56  |  Dept: 20:57",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: 11:55  |  Dept: 20:46",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: 12:05  |  Dept: 20:34",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: 12:05  |  Dept: --:--",
-                "status": "P-LT"
-            }
-        ]
-    },
-    "NAMAH0035": {
-        "name": "SHYAM",
-        "designation": "EXECUTIVE",
-        "shift": "Shift 004 (11:45 - 20:45)",
-        "pin_hash": "d60df25795f29cb64c18dbfa0f1e2c29334d6ec65b23d974f5a98a2942f7f5dd",
-        "present": "7",
-        "hl": "0",
-        "wo": "2",
-        "absent": "5",
-        "leave": "0",
-        "paiddays": "9",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: 11:50  |  Dept: 21:08",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: 12:47  |  Dept: 21:04",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: 12:42  |  Dept: 21:12",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: 12:39  |  Dept: 21:13",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: 12:06  |  Dept: 20:35",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: 12:02  |  Dept: 20:07",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: 11:50  |  Dept: --:--",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            }
-        ]
-    },
-    "NAMAH0030": {
-        "name": "NAMRATA",
-        "designation": "DATA ENTRY OPERATOR",
-        "shift": "Shift 004 (11:45 - 20:45)",
-        "pin_hash": "f6593f510d91bc18bc7833f6bed81082e681c5cae834e46f7510494a902640a4",
-        "present": "9",
-        "hl": "0",
-        "wo": "2",
-        "absent": "3",
-        "leave": "0",
-        "paiddays": "11",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: 11:46  |  Dept: 19:58",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: 11:47  |  Dept: 20:29",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: 11:45  |  Dept: 20:16",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: 11:53  |  Dept: 20:06",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: 11:37  |  Dept: 16:40",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: 11:49  |  Dept: --:--",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: 11:48  |  Dept: 19:07",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: 12:19  |  Dept: 20:09",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: 11:59  |  Dept: 20:01",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            }
-        ]
-    },
-    "NAMAH0020": {
-        "name": "VARUN RIDER",
-        "designation": "RIDER",
-        "shift": "Shift 001 (11:00 - 20:00)",
-        "pin_hash": "55d42eb6aa502299bebe60eb51ba00922dca69848a9feba7d52e44d52bf8854e",
-        "present": "0",
-        "hl": "0",
-        "wo": "2",
-        "absent": "12",
-        "leave": "0",
-        "paiddays": "2",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            }
-        ]
-    },
-    "NAMAH0019": {
-        "name": "SAGAR RIDER",
-        "designation": "RIDER",
-        "shift": "Shift 001 (11:00 - 20:00)",
-        "pin_hash": "f739b61c0c2b812be5129dd71ef64fe2994f8bdeda1ef63e9b33664fa99688fa",
-        "present": "9",
-        "hl": "0",
-        "wo": "2",
-        "absent": "3",
-        "leave": "0",
-        "paiddays": "11",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: 13:04  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: 13:02  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: 12:28  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: 12:21  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: 13:32  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: 12:35  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: 12:01  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: 12:06  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: 12:36  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            }
-        ]
-    },
-    "NAMAH0013": {
-        "name": "AKANSHA YADAV",
-        "designation": "Sales Executive",
-        "shift": "Shift 004 (11:45 - 20:45)",
-        "pin_hash": "ca553f7f053ff673a93a3ad2c4d675ef7e7761af9c318762eb8a3d9dd6cbc040",
-        "present": "11",
-        "hl": "0",
-        "wo": "2",
-        "absent": "1",
-        "leave": "0",
-        "paiddays": "13",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: 12:02  |  Dept: 16:19",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: 11:56  |  Dept: 20:11",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: 11:34  |  Dept: 20:05",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: 12:03  |  Dept: 20:05",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: 11:47  |  Dept: 20:02",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: 11:25  |  Dept: 19:39",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: 11:09  |  Dept: --:--",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: 11:48  |  Dept: --:--",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: 11:48  |  Dept: 20:09",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: 11:51  |  Dept: 20:11",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: 11:46  |  Dept: --:--",
-                "status": "P"
-            }
-        ]
-    },
-    "NAMAH0023": {
-        "name": "HEMA",
-        "designation": "Senior Sales Executive",
-        "shift": "Shift 004 (11:45 - 20:45)",
-        "pin_hash": "1c695616f45f7849a5e4abf11d8dd68067ab8d9b4bfc98a18d7ff36c7f4cb918",
-        "present": "10",
-        "hl": "0",
-        "wo": "2",
-        "absent": "2",
-        "leave": "0",
-        "paiddays": "12",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: 11:50  |  Dept: --:--",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: 12:23  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: 12:05  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: 11:52  |  Dept: --:--",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: 11:51  |  Dept: --:--",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: 12:04  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: 11:48  |  Dept: --:--",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: 11:52  |  Dept: --:--",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: 12:00  |  Dept: --:--",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: 11:59  |  Dept: --:--",
-                "status": "P"
-            }
-        ]
-    },
-    "NAMAH0015": {
-        "name": "GUNGUN",
-        "designation": "SALES-SUPPORT",
-        "shift": "Shift 003 (11:30 - 20:30)",
-        "pin_hash": "9e041492353c46485e689ddf2f6071f344983539397e850e6b651cfd9018ea46",
-        "present": "12",
-        "hl": "0",
-        "wo": "2",
-        "absent": "0",
-        "leave": "0",
-        "paiddays": "14",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: 12:06  |  Dept: 20:45",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: 12:03  |  Dept: 20:18",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: 11:59  |  Dept: 20:19",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: 11:54  |  Dept: 20:23",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: 12:09  |  Dept: 20:07",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: 12:22  |  Dept: 19:52",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: 11:48  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: 11:49  |  Dept: 19:13",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: 15:27  |  Dept: 20:18",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: 11:32  |  Dept: 20:14",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: 11:59  |  Dept: 20:15",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: 11:49  |  Dept: --:--",
-                "status": "P-LT"
-            }
-        ]
-    },
-    "NAMAH0014": {
-        "name": "KASHISH",
-        "designation": "DEMO",
-        "shift": "Shift 003 (11:30 - 20:30)",
-        "pin_hash": "8231454c52ce595cac051b8a8d130b66c3f59ed47d384889fda490f119ba7566",
-        "present": "12",
-        "hl": "0",
-        "wo": "2",
-        "absent": "0",
-        "leave": "0",
-        "paiddays": "14",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: 11:14  |  Dept: 20:45",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: 11:56  |  Dept: 20:18",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: 11:24  |  Dept: 20:10",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: 11:21  |  Dept: 20:15",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: 13:03  |  Dept: 20:07",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: 11:23  |  Dept: 19:52",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: 11:48  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: 11:48  |  Dept: 19:13",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: 15:27  |  Dept: 20:17",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: 11:32  |  Dept: 20:14",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: 11:59  |  Dept: 20:15",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: 11:46  |  Dept: --:--",
-                "status": "P-LT"
-            }
-        ]
-    },
-    "NAMAH0036": {
-        "name": "DEEPIKA",
-        "designation": "Sales Executive",
-        "shift": "Shift 004 (11:45 - 20:45)",
-        "pin_hash": "9acbbc71bf6c347be811a6b9c83e1bb8f841e8fab50ff292ff5b410e2cd0dbaf",
-        "present": "12",
-        "hl": "0",
-        "wo": "2",
-        "absent": "0",
-        "leave": "0",
-        "paiddays": "14",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: 11:44  |  Dept: 16:28",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: 11:56  |  Dept: 20:13",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: 11:34  |  Dept: 20:05",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: 11:32  |  Dept: 20:05",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: 11:41  |  Dept: 20:06",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: 11:40  |  Dept: 19:40",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: 10:49  |  Dept: --:--",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: 11:48  |  Dept: 19:10",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: 11:49  |  Dept: 18:31",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: 11:38  |  Dept: 20:09",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: 11:51  |  Dept: 20:11",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: 11:46  |  Dept: --:--",
-                "status": "P"
-            }
-        ]
-    },
-    "NAMAH0012": {
-        "name": "YOGITA",
-        "designation": "Sales Executive",
-        "shift": "Shift 004 (11:45 - 20:45)",
-        "pin_hash": "0b7b1fbfc4f54c4c82d9afea0368264757a46c197da60aaced3585145b47cbbf",
-        "present": "12",
-        "hl": "0",
-        "wo": "2",
-        "absent": "0",
-        "leave": "0",
-        "paiddays": "14",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: 11:35  |  Dept: 20:46",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: 11:56  |  Dept: 21:04",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: 11:49  |  Dept: 20:19",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: 11:38  |  Dept: 20:28",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: 11:40  |  Dept: 20:06",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: 11:45  |  Dept: 19:41",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: 11:00  |  Dept: --:--",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: 11:48  |  Dept: 19:09",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: 16:11  |  Dept: 20:20",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: 11:34  |  Dept: 20:10",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: 11:51  |  Dept: 20:18",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: 11:46  |  Dept: --:--",
-                "status": "P"
-            }
-        ]
-    },
-    "NAMAH0026": {
-        "name": "ZIYA",
-        "designation": "Sales Executive",
-        "shift": "Shift 005 (12:00 - 21:00)",
-        "pin_hash": "7721afb03fd8100ea61baad6bdd3c84fc45e0fe5a45d632dbf0a1fb73281e1d4",
-        "present": "11",
-        "hl": "0",
-        "wo": "2",
-        "absent": "1",
-        "leave": "0",
-        "paiddays": "13",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: 11:59  |  Dept: 19:56",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: 12:06  |  Dept: 20:07",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: 12:05  |  Dept: 20:20",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: 12:15  |  Dept: 20:19",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: 11:52  |  Dept: 20:00",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: 11:45  |  Dept: 19:44",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: 12:53  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: 11:58  |  Dept: 19:22",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: 12:00  |  Dept: 18:50",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: 11:48  |  Dept: 19:53",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: 11:51  |  Dept: 19:51",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            }
-        ]
-    },
-    "NAMAH0009": {
-        "name": "RISHI",
-        "designation": "SALES-SUPPORT",
-        "shift": "Shift 003 (11:30 - 20:30)",
-        "pin_hash": "060c4eb79ef3f8ea8772353db125dd7226715652c86d2c6042940d3569f89282",
-        "present": "7",
-        "hl": "0",
-        "wo": "2",
-        "absent": "5",
-        "leave": "0",
-        "paiddays": "9",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: 15:06  |  Dept: 21:05",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: 11:56  |  Dept: 20:38",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: 11:32  |  Dept: 20:31",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: 11:35  |  Dept: 20:40",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: 11:54  |  Dept: 20:31",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: 11:36  |  Dept: 20:09",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: 10:49  |  Dept: --:--",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            }
-        ]
-    },
-    "NAMAH0042": {
-        "name": "MINI",
-        "designation": "Sales Executive",
-        "shift": "Shift 004 (11:45 - 20:45)",
-        "pin_hash": "9f49e002e51b28dbcd7c4df72726f1a78d31c22e040f317a1ada1d627021b7ac",
-        "present": "0",
-        "hl": "0",
-        "wo": "2",
-        "absent": "12",
-        "leave": "0",
-        "paiddays": "2",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            }
-        ]
-    },
-    "NAMAH0037": {
-        "name": "MEHAK",
-        "designation": "SALES-SUPPORT",
-        "shift": "Shift 003 (11:30 - 20:30)",
-        "pin_hash": "46661ad937e64721be20ee826c3a96f4b233852f5e5283fdcec9187d18001b2a",
-        "present": "0",
-        "hl": "0",
-        "wo": "2",
-        "absent": "12",
-        "leave": "0",
-        "paiddays": "2",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            }
-        ]
-    },
-    "NAMAH0027": {
-        "name": "JYOTI",
-        "designation": "Social Media Manager",
-        "shift": "Shift 005 (12:00 - 21:00)",
-        "pin_hash": "710ad8aab4c685d48e8f8197127cc5f9be5847e62b066489c8f52cc184c740da",
-        "present": "7",
-        "hl": "0",
-        "wo": "2",
-        "absent": "5",
-        "leave": "0",
-        "paiddays": "9",
-        "records": [
-            {
-                "date": "2026-10-01",
-                "time": "Arr: 18:39  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-02",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-03",
-                "time": "Arr: 12:14  |  Dept: --:--",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-04",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-05",
-                "time": "Arr: 12:14  |  Dept: 20:10",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-06",
-                "time": "Arr: 12:28  |  Dept: --:--",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-07",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-08",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-09",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "WO"
-            },
-            {
-                "date": "2026-10-10",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-11",
-                "time": "Arr: --:--  |  Dept: --:--",
-                "status": "A"
-            },
-            {
-                "date": "2026-10-12",
-                "time": "Arr: 12:12  |  Dept: 19:54",
-                "status": "P"
-            },
-            {
-                "date": "2026-10-13",
-                "time": "Arr: 12:21  |  Dept: 19:43",
-                "status": "P-LT"
-            },
-            {
-                "date": "2026-10-14",
-                "time": "Arr: 12:18  |  Dept: --:--",
-                "status": "P-LT"
-            }
-        ]
-    },
-    "NAMAH0039": {
-        "name": "ROSHNI",
-        "designation": "Social Media Manager",
-        "shift": "Shift 004 (11:45 - 20:45)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
         "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
         "present": "7",
         "hl": "0",
@@ -2532,72 +1046,1620 @@
         "paiddays": "9",
         "records": [
             {
-                "date": "2026-10-01",
+                "date": "2026-11-01",
+                "time": "Arr: 11:14  |  Dept: 21:12",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: 12:00  |  Dept: 21:06",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: 11:24  |  Dept: 21:10",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: 11:21  |  Dept: 21:16",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: 11:09  |  Dept: 20:51",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: 11:18  |  Dept: 20:11",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: 10:48  |  Dept: --:--",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            }
+        ]
+    },
+    "NAMAH0002": {
+        "name": "AKASH KUMAR",
+        "designation": "EXECUTIVE",
+        "shift": "Shift 003 (11:30 - 20:30)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "7",
+        "hl": "0",
+        "wo": "2",
+        "absent": "5",
+        "leave": "0",
+        "paiddays": "9",
+        "records": [
+            {
+                "date": "2026-11-01",
+                "time": "Arr: 14:16  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: 11:56  |  Dept: 12:10",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: 11:55  |  Dept: 20:55",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: 11:42  |  Dept: --:--",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: 11:36  |  Dept: --:--",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: 11:41  |  Dept: 20:09",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: 11:47  |  Dept: 20:56",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            }
+        ]
+    },
+    "NAMAH0025": {
+        "name": "GAURAV - 2",
+        "designation": "EXECUTIVE",
+        "shift": "Shift 003 (11:30 - 20:30)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "11",
+        "hl": "0",
+        "wo": "2",
+        "absent": "1",
+        "leave": "0",
+        "paiddays": "13",
+        "records": [
+            {
+                "date": "2026-11-01",
+                "time": "Arr: 12:10  |  Dept: 21:08",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: 12:10  |  Dept: 21:03",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: 12:55  |  Dept: 20:51",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: 11:59  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: 12:21  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: 12:06  |  Dept: 20:09",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: 15:22  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: 11:56  |  Dept: 20:57",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: 11:55  |  Dept: 20:46",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: 12:05  |  Dept: 20:34",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: 12:05  |  Dept: --:--",
+                "status": "P-LT"
+            }
+        ]
+    },
+    "NAMAH0035": {
+        "name": "SHYAM",
+        "designation": "EXECUTIVE",
+        "shift": "Shift 004 (11:45 - 20:45)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "7",
+        "hl": "0",
+        "wo": "2",
+        "absent": "5",
+        "leave": "0",
+        "paiddays": "9",
+        "records": [
+            {
+                "date": "2026-11-01",
+                "time": "Arr: 11:50  |  Dept: 21:08",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: 12:47  |  Dept: 21:04",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: 12:42  |  Dept: 21:12",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: 12:39  |  Dept: 21:13",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: 12:06  |  Dept: 20:35",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: 12:02  |  Dept: 20:07",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: 11:50  |  Dept: --:--",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            }
+        ]
+    },
+    "NAMAH0030": {
+        "name": "NAMRATA",
+        "designation": "DATA ENTRY OPERATOR",
+        "shift": "Shift 004 (11:45 - 20:45)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "9",
+        "hl": "0",
+        "wo": "2",
+        "absent": "3",
+        "leave": "0",
+        "paiddays": "11",
+        "records": [
+            {
+                "date": "2026-11-01",
+                "time": "Arr: 11:46  |  Dept: 19:58",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: 11:47  |  Dept: 20:29",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: 11:45  |  Dept: 20:16",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: 11:53  |  Dept: 20:06",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: 11:37  |  Dept: 16:40",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: 11:49  |  Dept: --:--",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: 11:48  |  Dept: 19:07",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: 12:19  |  Dept: 20:09",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: 11:59  |  Dept: 20:01",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            }
+        ]
+    },
+    "NAMAH0020": {
+        "name": "VARUN RIDER",
+        "designation": "RIDER",
+        "shift": "Shift 001 (11:00 - 20:00)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "0",
+        "hl": "0",
+        "wo": "2",
+        "absent": "12",
+        "leave": "0",
+        "paiddays": "2",
+        "records": [
+            {
+                "date": "2026-11-01",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            }
+        ]
+    },
+    "NAMAH0019": {
+        "name": "SAGAR RIDER",
+        "designation": "RIDER",
+        "shift": "Shift 001 (11:00 - 20:00)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "9",
+        "hl": "0",
+        "wo": "2",
+        "absent": "3",
+        "leave": "0",
+        "paiddays": "11",
+        "records": [
+            {
+                "date": "2026-11-01",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: 13:04  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: 13:02  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: 12:28  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: 12:21  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: 13:32  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: 12:35  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: 12:01  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: 12:06  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: 12:36  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            }
+        ]
+    },
+    "NAMAH0013": {
+        "name": "AKANSHA YADAV",
+        "designation": "Sales Executive",
+        "shift": "Shift 004 (11:45 - 20:45)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "11",
+        "hl": "0",
+        "wo": "2",
+        "absent": "1",
+        "leave": "0",
+        "paiddays": "13",
+        "records": [
+            {
+                "date": "2026-11-01",
+                "time": "Arr: 12:02  |  Dept: 16:19",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: 11:56  |  Dept: 20:11",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: 11:34  |  Dept: 20:05",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: 12:03  |  Dept: 20:05",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: 11:47  |  Dept: 20:02",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: 11:25  |  Dept: 19:39",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: 11:09  |  Dept: --:--",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: 11:48  |  Dept: --:--",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: 11:48  |  Dept: 20:09",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: 11:51  |  Dept: 20:11",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: 11:46  |  Dept: --:--",
+                "status": "P"
+            }
+        ]
+    },
+    "NAMAH0023": {
+        "name": "HEMA",
+        "designation": "Senior Sales Executive",
+        "shift": "Shift 004 (11:45 - 20:45)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "10",
+        "hl": "0",
+        "wo": "2",
+        "absent": "2",
+        "leave": "0",
+        "paiddays": "12",
+        "records": [
+            {
+                "date": "2026-11-01",
+                "time": "Arr: 11:50  |  Dept: --:--",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: 12:23  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: 12:05  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: 11:52  |  Dept: --:--",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: 11:51  |  Dept: --:--",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: 12:04  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: 11:48  |  Dept: --:--",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: 11:52  |  Dept: --:--",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: 12:00  |  Dept: --:--",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: 11:59  |  Dept: --:--",
+                "status": "P"
+            }
+        ]
+    },
+    "NAMAH0015": {
+        "name": "GUNGUN",
+        "designation": "SALES-SUPPORT",
+        "shift": "Shift 003 (11:30 - 20:30)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "12",
+        "hl": "0",
+        "wo": "2",
+        "absent": "0",
+        "leave": "0",
+        "paiddays": "14",
+        "records": [
+            {
+                "date": "2026-11-01",
+                "time": "Arr: 12:06  |  Dept: 20:45",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: 12:03  |  Dept: 20:18",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: 11:59  |  Dept: 20:19",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: 11:54  |  Dept: 20:23",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: 12:09  |  Dept: 20:07",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: 12:22  |  Dept: 19:52",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: 11:48  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: 11:49  |  Dept: 19:13",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: 15:27  |  Dept: 20:18",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: 11:32  |  Dept: 20:14",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: 11:59  |  Dept: 20:15",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: 11:49  |  Dept: --:--",
+                "status": "P-LT"
+            }
+        ]
+    },
+    "NAMAH0014": {
+        "name": "KASHISH",
+        "designation": "DEMO",
+        "shift": "Shift 003 (11:30 - 20:30)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "12",
+        "hl": "0",
+        "wo": "2",
+        "absent": "0",
+        "leave": "0",
+        "paiddays": "14",
+        "records": [
+            {
+                "date": "2026-11-01",
+                "time": "Arr: 11:14  |  Dept: 20:45",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: 11:56  |  Dept: 20:18",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: 11:24  |  Dept: 20:10",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: 11:21  |  Dept: 20:15",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: 13:03  |  Dept: 20:07",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: 11:23  |  Dept: 19:52",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: 11:48  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: 11:48  |  Dept: 19:13",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: 15:27  |  Dept: 20:17",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: 11:32  |  Dept: 20:14",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: 11:59  |  Dept: 20:15",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: 11:46  |  Dept: --:--",
+                "status": "P-LT"
+            }
+        ]
+    },
+    "NAMAH0036": {
+        "name": "DEEPIKA",
+        "designation": "Sales Executive",
+        "shift": "Shift 004 (11:45 - 20:45)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "12",
+        "hl": "0",
+        "wo": "2",
+        "absent": "0",
+        "leave": "0",
+        "paiddays": "14",
+        "records": [
+            {
+                "date": "2026-11-01",
+                "time": "Arr: 11:44  |  Dept: 16:28",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: 11:56  |  Dept: 20:13",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: 11:34  |  Dept: 20:05",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: 11:32  |  Dept: 20:05",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: 11:41  |  Dept: 20:06",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: 11:40  |  Dept: 19:40",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: 10:49  |  Dept: --:--",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: 11:48  |  Dept: 19:10",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: 11:49  |  Dept: 18:31",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: 11:38  |  Dept: 20:09",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: 11:51  |  Dept: 20:11",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: 11:46  |  Dept: --:--",
+                "status": "P"
+            }
+        ]
+    },
+    "NAMAH0012": {
+        "name": "YOGITA",
+        "designation": "Sales Executive",
+        "shift": "Shift 004 (11:45 - 20:45)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "12",
+        "hl": "0",
+        "wo": "2",
+        "absent": "0",
+        "leave": "0",
+        "paiddays": "14",
+        "records": [
+            {
+                "date": "2026-11-01",
+                "time": "Arr: 11:35  |  Dept: 20:46",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: 11:56  |  Dept: 21:04",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: 11:49  |  Dept: 20:19",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: 11:38  |  Dept: 20:28",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: 11:40  |  Dept: 20:06",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: 11:45  |  Dept: 19:41",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: 11:00  |  Dept: --:--",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: 11:48  |  Dept: 19:09",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: 16:11  |  Dept: 20:20",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: 11:34  |  Dept: 20:10",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: 11:51  |  Dept: 20:18",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: 11:46  |  Dept: --:--",
+                "status": "P"
+            }
+        ]
+    },
+    "NAMAH0026": {
+        "name": "ZIYA",
+        "designation": "Sales Executive",
+        "shift": "Shift 005 (12:00 - 21:00)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "11",
+        "hl": "0",
+        "wo": "2",
+        "absent": "1",
+        "leave": "0",
+        "paiddays": "13",
+        "records": [
+            {
+                "date": "2026-11-01",
+                "time": "Arr: 11:59  |  Dept: 19:56",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: 12:06  |  Dept: 20:07",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: 12:05  |  Dept: 20:20",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: 12:15  |  Dept: 20:19",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: 11:52  |  Dept: 20:00",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: 11:45  |  Dept: 19:44",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: 12:53  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: 11:58  |  Dept: 19:22",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: 12:00  |  Dept: 18:50",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: 11:48  |  Dept: 19:53",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: 11:51  |  Dept: 19:51",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            }
+        ]
+    },
+    "NAMAH0009": {
+        "name": "RISHI",
+        "designation": "SALES-SUPPORT",
+        "shift": "Shift 003 (11:30 - 20:30)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "7",
+        "hl": "0",
+        "wo": "2",
+        "absent": "5",
+        "leave": "0",
+        "paiddays": "9",
+        "records": [
+            {
+                "date": "2026-11-01",
+                "time": "Arr: 15:06  |  Dept: 21:05",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: 11:56  |  Dept: 20:38",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: 11:32  |  Dept: 20:31",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: 11:35  |  Dept: 20:40",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: 11:54  |  Dept: 20:31",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: 11:36  |  Dept: 20:09",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: 10:49  |  Dept: --:--",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            }
+        ]
+    },
+    "NAMAH0042": {
+        "name": "MINI",
+        "designation": "Sales Executive",
+        "shift": "Shift 004 (11:45 - 20:45)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "0",
+        "hl": "0",
+        "wo": "2",
+        "absent": "12",
+        "leave": "0",
+        "paiddays": "2",
+        "records": [
+            {
+                "date": "2026-11-01",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            }
+        ]
+    },
+    "NAMAH0037": {
+        "name": "MEHAK",
+        "designation": "SALES-SUPPORT",
+        "shift": "Shift 003 (11:30 - 20:30)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "0",
+        "hl": "0",
+        "wo": "2",
+        "absent": "12",
+        "leave": "0",
+        "paiddays": "2",
+        "records": [
+            {
+                "date": "2026-11-01",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            }
+        ]
+    },
+    "NAMAH0027": {
+        "name": "JYOTI",
+        "designation": "Social Media Manager",
+        "shift": "Shift 005 (12:00 - 21:00)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "7",
+        "hl": "0",
+        "wo": "2",
+        "absent": "5",
+        "leave": "0",
+        "paiddays": "9",
+        "records": [
+            {
+                "date": "2026-11-01",
+                "time": "Arr: 18:39  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-02",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-03",
+                "time": "Arr: 12:14  |  Dept: --:--",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-04",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-05",
+                "time": "Arr: 12:14  |  Dept: 20:10",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-06",
+                "time": "Arr: 12:28  |  Dept: --:--",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-07",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-08",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-09",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "WO"
+            },
+            {
+                "date": "2026-11-10",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-11",
+                "time": "Arr: --:--  |  Dept: --:--",
+                "status": "A"
+            },
+            {
+                "date": "2026-11-12",
+                "time": "Arr: 12:12  |  Dept: 19:54",
+                "status": "P"
+            },
+            {
+                "date": "2026-11-13",
+                "time": "Arr: 12:21  |  Dept: 19:43",
+                "status": "P-LT"
+            },
+            {
+                "date": "2026-11-14",
+                "time": "Arr: 12:18  |  Dept: --:--",
+                "status": "P-LT"
+            }
+        ]
+    },
+    "NAMAH0039": {
+        "name": "ROSHNI",
+        "designation": "Social Media Manager",
+        "shift": "Shift 004 (11:45 - 20:45)",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "present": "7",
+        "hl": "0",
+        "wo": "2",
+        "absent": "5",
+        "leave": "0",
+        "paiddays": "9",
+        "records": [
+            {
+                "date": "2026-11-01",
                 "time": "Arr: 12:06  |  Dept: 20:12",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-02",
+                "date": "2026-11-02",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-03",
+                "date": "2026-11-03",
                 "time": "Arr: 11:57  |  Dept: 19:53",
                 "status": "P"
             },
             {
-                "date": "2026-10-04",
+                "date": "2026-11-04",
                 "time": "Arr: 11:59  |  Dept: 16:23",
                 "status": "P"
             },
             {
-                "date": "2026-10-05",
+                "date": "2026-11-05",
                 "time": "Arr: 12:14  |  Dept: 20:10",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-06",
+                "date": "2026-11-06",
                 "time": "Arr: 11:59  |  Dept: 20:05",
                 "status": "P"
             },
             {
-                "date": "2026-10-07",
+                "date": "2026-11-07",
                 "time": "Arr: 19:45  |  Dept: --:--",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-08",
+                "date": "2026-11-08",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-09",
+                "date": "2026-11-09",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-10",
+                "date": "2026-11-10",
                 "time": "Arr: 12:05  |  Dept: 19:20",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-11",
+                "date": "2026-11-11",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-12",
+                "date": "2026-11-12",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-13",
+                "date": "2026-11-13",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-14",
+                "date": "2026-11-14",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             }
@@ -2607,7 +2669,9 @@
         "name": "LALITA",
         "designation": "SUPPORT",
         "shift": "Shift 002 (11:15 - 20:15)",
-        "pin_hash": "b1263bc2cb9bb6bcd98abefaf801a4427734d5eccb1fe1400b52d382e27729ad",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
         "present": "11",
         "hl": "0",
         "wo": "2",
@@ -2616,72 +2680,72 @@
         "paiddays": "13",
         "records": [
             {
-                "date": "2026-10-01",
+                "date": "2026-11-01",
                 "time": "Arr: 11:13  |  Dept: 17:15",
                 "status": "P"
             },
             {
-                "date": "2026-10-02",
+                "date": "2026-11-02",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-03",
+                "date": "2026-11-03",
                 "time": "Arr: 11:56  |  Dept: 19:47",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-04",
+                "date": "2026-11-04",
                 "time": "Arr: 11:24  |  Dept: 19:49",
                 "status": "P"
             },
             {
-                "date": "2026-10-05",
+                "date": "2026-11-05",
                 "time": "Arr: 11:21  |  Dept: 20:19",
                 "status": "P"
             },
             {
-                "date": "2026-10-06",
+                "date": "2026-11-06",
                 "time": "Arr: 11:08  |  Dept: 20:01",
                 "status": "P"
             },
             {
-                "date": "2026-10-07",
+                "date": "2026-11-07",
                 "time": "Arr: 11:18  |  Dept: 20:00",
                 "status": "P"
             },
             {
-                "date": "2026-10-08",
+                "date": "2026-11-08",
                 "time": "Arr: 10:47  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-09",
+                "date": "2026-11-09",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-10",
+                "date": "2026-11-10",
                 "time": "Arr: 14:23  |  Dept: 19:23",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-11",
+                "date": "2026-11-11",
                 "time": "Arr: 11:47  |  Dept: 19:55",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-12",
+                "date": "2026-11-12",
                 "time": "Arr: 11:31  |  Dept: 19:52",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-13",
+                "date": "2026-11-13",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-14",
+                "date": "2026-11-14",
                 "time": "Arr: 11:45  |  Dept: --:--",
                 "status": "P-LT"
             }
@@ -2691,7 +2755,9 @@
         "name": "VICKY SHAH",
         "designation": "MELTING",
         "shift": "Shift 003 (11:30 - 20:30)",
-        "pin_hash": "32c13e686e1476d394d36aba6b421eb78c9fd9c0fd32ffc645ad804d8a18076f",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
         "present": "10",
         "hl": "0",
         "wo": "2",
@@ -2700,72 +2766,72 @@
         "paiddays": "12",
         "records": [
             {
-                "date": "2026-10-01",
+                "date": "2026-11-01",
                 "time": "Arr: 11:26  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-02",
+                "date": "2026-11-02",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-03",
+                "date": "2026-11-03",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-04",
+                "date": "2026-11-04",
                 "time": "Arr: 11:43  |  Dept: 20:59",
                 "status": "P"
             },
             {
-                "date": "2026-10-05",
+                "date": "2026-11-05",
                 "time": "Arr: 11:36  |  Dept: 20:55",
                 "status": "P"
             },
             {
-                "date": "2026-10-06",
+                "date": "2026-11-06",
                 "time": "Arr: 11:41  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-07",
+                "date": "2026-11-07",
                 "time": "Arr: 11:34  |  Dept: 15:08",
                 "status": "P"
             },
             {
-                "date": "2026-10-08",
+                "date": "2026-11-08",
                 "time": "Arr: 11:43  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-09",
+                "date": "2026-11-09",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-10",
+                "date": "2026-11-10",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "A"
             },
             {
-                "date": "2026-10-11",
+                "date": "2026-11-11",
                 "time": "Arr: 11:47  |  Dept: 20:56",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-12",
+                "date": "2026-11-12",
                 "time": "Arr: 11:46  |  Dept: 20:32",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-13",
+                "date": "2026-11-13",
                 "time": "Arr: 11:57  |  Dept: 20:31",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-14",
+                "date": "2026-11-14",
                 "time": "Arr: 11:45  |  Dept: --:--",
                 "status": "P"
             }
@@ -2775,7 +2841,9 @@
         "name": "Deep Chandra Joshi",
         "designation": "MIS EXECUTIVE",
         "shift": "Shift 003 (11:30 - 20:30)",
-        "pin_hash": "3301bbf8e662f909f474d428072d6a309960c2f6db12788301873d6edcc91141",
+        "month_year": "2026-11",
+        "month_label": "November 2026",
+        "pin_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
         "present": "12",
         "hl": "0",
         "wo": "2",
@@ -2784,75 +2852,79 @@
         "paiddays": "14",
         "records": [
             {
-                "date": "2026-10-01",
+                "date": "2026-11-01",
                 "time": "Arr: 11:33  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-02",
+                "date": "2026-11-02",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-03",
+                "date": "2026-11-03",
                 "time": "Arr: 11:56  |  Dept: --:--",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-04",
+                "date": "2026-11-04",
                 "time": "Arr: 11:30  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-05",
+                "date": "2026-11-05",
                 "time": "Arr: 11:31  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-06",
+                "date": "2026-11-06",
                 "time": "Arr: 11:34  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-07",
+                "date": "2026-11-07",
                 "time": "Arr: 11:24  |  Dept: 20:09",
                 "status": "P"
             },
             {
-                "date": "2026-10-08",
+                "date": "2026-11-08",
                 "time": "Arr: 10:48  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-09",
+                "date": "2026-11-09",
                 "time": "Arr: --:--  |  Dept: --:--",
                 "status": "WO"
             },
             {
-                "date": "2026-10-10",
+                "date": "2026-11-10",
                 "time": "Arr: 11:48  |  Dept: 19:12",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-11",
+                "date": "2026-11-11",
                 "time": "Arr: 11:47  |  Dept: --:--",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-12",
+                "date": "2026-11-12",
                 "time": "Arr: 11:32  |  Dept: --:--",
                 "status": "P"
             },
             {
-                "date": "2026-10-13",
+                "date": "2026-11-13",
                 "time": "Arr: 11:51  |  Dept: --:--",
                 "status": "P-LT"
             },
             {
-                "date": "2026-10-14",
+                "date": "2026-11-14",
                 "time": "Arr: 11:46  |  Dept: --:--",
                 "status": "P-LT"
             }
         ]
+    },
+    "_meta": {
+        "year_month": "2026-11",
+        "month_label": "November 2026"
     }
 }

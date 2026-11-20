@@ -2,46 +2,18 @@ import pandas as pd
 import json
 import os
 import hashlib
+import re
+from datetime import datetime
 
 excel_path = 'attendance_report.xlsx'
 
 # Define custom passwords for each employee here!
 # (If an employee ID is not listed here, it automatically falls back to '1234')
 employee_passwords = {
-    "NAMAH0001": "NAMAH0001",
-    "NAMAH0002": "NAMAH0002",
-    "NAMAH0005": "NAMAH0005",
-    "NAMAH0006": "NAMAH0006",
-    "NAMAH0007": "NAMAH0007",
-    "NAMAH0008": "NAMAH0008",
-    "NAMAH0009": "NAMAH0009",
-    "NAMAH0011": "NAMAH0011",
-    "NAMAH0012": "NAMAH0012",
-    "NAMAH0013": "NAMAH0013",
-    "NAMAH0014": "NAMAH0014",
-    "NAMAH0015": "NAMAH0015",
-    "NAMAH0017": "NAMAH0017",
-    "NAMAH0019": "NAMAH0019",
-    "NAMAH0020": "NAMAH0020",
-    "NAMAH0021": "NAMAH0021",
-    "NAMAH0023": "NAMAH0023",
-    "NAMAH0025": "NAMAH0025",
-    "NAMAH0026": "NAMAH0026",
-    "NAMAH0027": "NAMAH0027",
-    "NAMAH0028": "NAMAH0028",
-    "NAMAH0029": "NAMAH0029",
-    "NAMAH0030": "NAMAH0030",
-    "NAMAH0031": "NAMAH0031",
-    "NAMAH0032": "NAMAH0032",
-    "NAMAH0033": "NAMAH0033",
-    "NAMAH0034": "NAMAH0034",
-    "NAMAH0035": "NAMAH0035",
-    "NAMAH0036": "NAMAH0036",
-    "NAMAH0037": "NAMAH0037",
-    "NAMAH0038": "NAMAH0038",
-    "NAMAH0040": "NAMAH0040",
-    "NAMAH0041": "NAMAH0041",
-    "NAMAH0042": "NAMAH0042",
+    "NAMAH0033": "5892",
+    "NAMAH0011": "9012",
+    "NAMAH0032": "3341",
+    "NAMAH0007": "7788",
 }
 
 shift_timings = {
@@ -54,13 +26,38 @@ shift_timings = {
     "007": "12:30 - 21:30"
 }
 
+MONTH_NAMES = {
+    "01": "January", "02": "February", "03": "March", "04": "April",
+    "05": "May", "06": "June", "07": "July", "08": "August",
+    "09": "September", "10": "October", "11": "November", "12": "December"
+}
+
+def extract_year_month(df):
+    # Scan top rows for a date like DD-MM-YYYY
+    for r in range(min(5, len(df))):
+        for c in range(len(df.columns)):
+            val = df.iloc[r, c]
+            if pd.notna(val):
+                m = re.search(r'(\d{2})-(\d{2})-(\d{4})', str(val))
+                if m:
+                    return m.group(3), m.group(2)
+    now = datetime.now()
+    return now.strftime("%Y"), now.strftime("%m")
+
 print("1. Reading department sheets and extracting employee details, shifts & password hashes...")
 try:
     xls = pd.ExcelFile(excel_path)
     attendance_data = {}
+    detected_year = None
+    detected_month = None
     
     for sheet_name in xls.sheet_names:
         df = pd.read_excel(excel_path, sheet_name=sheet_name, header=None)
+        year_str, month_str = extract_year_month(df)
+        if not detected_year:
+            detected_year, detected_month = year_str, month_str
+        year_month = f"{year_str}-{month_str}"
+        month_label = f"{MONTH_NAMES.get(month_str, month_str)} {year_str}"
         
         i = 0
         while i < len(df):
@@ -90,7 +87,6 @@ try:
                 leave = str(df.iloc[i, 23]).strip() if len(df.columns) > 23 and pd.notna(df.iloc[i, 23]) else "0"
                 paiddays = str(df.iloc[i, 27]).strip() if len(df.columns) > 27 and pd.notna(df.iloc[i, 27]) else "0"
                 
-                # Fetch custom password from dictionary, or fallback to '1234'
                 raw_pin = employee_passwords.get(emp_id, "1234")
                 pin_hash = hashlib.sha256(raw_pin.encode('utf-8')).hexdigest()
                 
@@ -98,12 +94,13 @@ try:
                 arrive_row = df.iloc[i+2].values if i+2 < len(df) else []
                 dept_row = df.iloc[i+3].values if i+3 < len(df) else []
                 
-                # Dynamically find the Status row for this employee block
                 status_row = []
                 for r in range(i, min(i+10, len(df))):
                     if len(df.columns) > 2 and df.iloc[r, 2] == "Status":
                         status_row = df.iloc[r].values
                         break
+                if len(status_row) == 0:
+                    status_row = df.iloc[i+6].values if i+6 < len(df) else []
                 
                 emp_records = []
                 for col_idx in range(3, len(dates_row)):
@@ -111,7 +108,7 @@ try:
                     if pd.notna(day_val):
                         try:
                             day_num = str(int(day_val)).zfill(2)
-                            date_str = f"2026-10-{day_num}"
+                            date_str = f"{year_month}-{day_num}"
                             
                             arr_val = arrive_row[col_idx] if col_idx < len(arrive_row) else "00:00"
                             dep_val = dept_row[col_idx] if col_idx < len(dept_row) else "00:00"
@@ -133,6 +130,8 @@ try:
                     "name": name,
                     "designation": desig,
                     "shift": f"Shift {shift_code} ({shift_time})",
+                    "month_year": year_month,
+                    "month_label": month_label,
                     "pin_hash": pin_hash,
                     "present": present,
                     "hl": hl,
@@ -145,6 +144,12 @@ try:
                     
             i += 1
 
+    if detected_year and detected_month:
+        attendance_data["_meta"] = {
+            "year_month": f"{detected_year}-{detected_month}",
+            "month_label": f"{MONTH_NAMES.get(detected_month, detected_month)} {detected_year}"
+        }
+
     public_dir = os.path.join(os.getcwd(), 'public')
     os.makedirs(public_dir, exist_ok=True)
     output_path = os.path.join(public_dir, 'attendance.json')
@@ -152,7 +157,7 @@ try:
     with open(output_path, 'w') as f:
         json.dump(attendance_data, f, indent=4)
 
-    print("2. Success! attendance.json generated with individual employee passwords and fixed status rows.")
+    print("2. Success! attendance.json generated with month/year metadata.")
 
 except Exception as e:
     print("CRITICAL ERROR:", e)
