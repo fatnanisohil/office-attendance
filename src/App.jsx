@@ -8,6 +8,15 @@ async function hashPassword(password) {
   return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
 }
 
+const STATUS_LEGEND = [
+  { code: 'P', fullForm: 'Present' },
+  { code: 'WO', fullForm: 'Weekly Off' },
+  { code: 'P-LT', fullForm: 'Present (Late)' },
+  { code: 'P/2', fullForm: 'Half Day Present' },
+  { code: 'A', fullForm: 'Absent' },
+  { code: 'HL', fullForm: 'Holiday / Half Leave' },
+];
+
 export default function App() {
   const [attendanceData, setAttendanceData] = useState({});
   const [monthLabel, setMonthLabel] = useState('');
@@ -369,7 +378,7 @@ export default function App() {
   const records = empInfo.records || [];
 
   return (
-    <div className="min-h-screen bg-gray-100 pb-12">
+    <div className="min-h-screen bg-gray-100 pb-12 flex flex-col">
       <nav className="bg-indigo-600 shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between h-16 items-center">
           <h1 className="text-white font-bold text-lg">
@@ -384,7 +393,7 @@ export default function App() {
         </div>
       </nav>
 
-      <main className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 mt-6">
+      <main className="max-w-3xl w-full mx-auto px-4 sm:px-6 lg:px-8 mt-6 flex-1">
         {/* Employee Profile Card */}
         <div className="bg-white shadow rounded-lg p-6 mb-6">
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 border-b pb-4 mb-4">
@@ -437,7 +446,7 @@ export default function App() {
         </div>
 
         {/* Punch History */}
-        <div className="bg-white shadow rounded-lg p-6">
+        <div className="bg-white shadow rounded-lg p-6 mb-6">
           <h3 className="text-lg font-bold text-gray-900 mb-4">Daily Punch History</h3>
           <div className="space-y-3">
             {records.map((rec, idx) => (
@@ -461,6 +470,23 @@ export default function App() {
             ))}
           </div>
         </div>
+
+        {/* Employee Attendance Code Legend Footer */}
+        <footer className="bg-white shadow rounded-lg p-4 border border-gray-200">
+          <p className="text-xs font-bold text-gray-700 uppercase tracking-wider mb-2">
+            Attendance Status Full Forms
+          </p>
+          <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 text-xs text-gray-600">
+            {STATUS_LEGEND.map((item) => (
+              <div key={item.code} className="flex items-center gap-1.5">
+                <span className="font-bold text-gray-900 bg-gray-100 px-1.5 py-0.5 rounded border border-gray-300">
+                  {item.code}
+                </span>
+                <span>= {item.fullForm}</span>
+              </div>
+            ))}
+          </div>
+        </footer>
       </main>
     </div>
   );
