@@ -7,14 +7,9 @@ from datetime import datetime
 
 excel_path = 'attendance_report.xlsx'
 
-# Define custom passwords for each employee here!
-# (If an employee ID is not listed here, it automatically falls back to '1234')
-employee_passwords = {
-    "NAMAH0033": "5892",
-    "NAMAH0011": "9012",
-    "NAMAH0032": "3341",
-    "NAMAH0007": "7788",
-}
+# Optional: override specific employee passwords here.
+# By default, every employee's password is their own Employee ID (e.g. "NAMAH0011").
+employee_passwords = {}
 
 shift_timings = {
     "001": "11:00 - 20:00",
@@ -87,7 +82,8 @@ try:
                 leave = str(df.iloc[i, 23]).strip() if len(df.columns) > 23 and pd.notna(df.iloc[i, 23]) else "0"
                 paiddays = str(df.iloc[i, 27]).strip() if len(df.columns) > 27 and pd.notna(df.iloc[i, 27]) else "0"
                 
-                raw_pin = employee_passwords.get(emp_id, "1234")
+                # Password defaults to the employee's own Employee ID
+                raw_pin = employee_passwords.get(emp_id, emp_id)
                 pin_hash = hashlib.sha256(raw_pin.encode('utf-8')).hexdigest()
                 
                 dates_row = df.iloc[i+1].values if i+1 < len(df) else []
@@ -157,7 +153,7 @@ try:
     with open(output_path, 'w') as f:
         json.dump(attendance_data, f, indent=4)
 
-    print("2. Success! attendance.json generated with month/year metadata.")
+    print("2. Success! attendance.json generated with Employee ID as default password.")
 
 except Exception as e:
     print("CRITICAL ERROR:", e)
