@@ -28,7 +28,7 @@ export default function App() {
   const [baseSalaries, setBaseSalaries] = useState({});
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}attendance.json`)
+    fetch(`${import.meta.env.BASE_URL}attendance.json?t=${Date.now()}`)
       .then(res => res.json())
       .then(data => {
         setAttendanceData(data);
@@ -72,8 +72,11 @@ export default function App() {
       return;
     }
 
-    const hashedInput = await hashPassword(password);
-    if (hashedInput === empRecord.pin_hash) {
+    const cleanPass = password.trim();
+    const hashedExact = await hashPassword(cleanPass);
+    const hashedUpper = await hashPassword(cleanPass.toUpperCase());
+
+    if (hashedExact === empRecord.pin_hash || hashedUpper === empRecord.pin_hash) {
       setLoggedInEmp(cleanId);
       setError('');
     } else {
@@ -87,7 +90,7 @@ export default function App() {
     setPassword('');
   };
 
-  // Secure Admin Login via Hash Comparison
+  // Secure Admin Login via Hash Comparison (Password: DEEP)
   const handleAdminLogin = async (e) => {
     e.preventDefault();
     const ADMIN_HASH = "714fa32a580c6f2a85c5be849351c61f3888e75e817c29b4e2a40b095f0a463b";
@@ -333,7 +336,7 @@ export default function App() {
                     required
                     value={password}
                     onChange={(e) => setPassword(e.target.value)}
-                    placeholder="•••• (Default is 1234)"
+                    placeholder="Enter your Employee ID"
                     className="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
                   />
                 </div>
